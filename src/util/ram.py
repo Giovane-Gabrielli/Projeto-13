@@ -8,6 +8,7 @@ def load_json(file):
 		j = json.load(f)
 	return j
 
+
 def net(p,info):
 	network = []
 	author_set = []
@@ -49,7 +50,7 @@ def pub(net,i,j,k):
 	return all
 
 def main():
-	I = load_json('LucianoAntonioDigiampietri.json')
+	I = load_json('../../resources/LucianoAntonioDigiampietri.json')
 	I_articles = I.get('ARTICLES')
 	I_size = len(I_articles)
 	I_info = I.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
@@ -57,12 +58,13 @@ def main():
 	
 	
 	
-	J = load_json('EstebanFernandezTuesta.json')
-	#J = load_json('ClaudiaMariaBauzerMedeiros.json')
+	J = load_json('../../resources/EstebanFernandezTuesta.json')
+	#J = load_json('../../resources/ClaudiaMariaBauzerMedeiros.json')
 	J_articles = J.get('ARTICLES')
 	J_size = len(J_articles)
 	J_info = J.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
 	J_info = [x.upper() for x in J_info]
+	
 	
 	I_net, I_co = net(I_articles,I_info)
 	J_net, J_co = net(J_articles,J_info)
