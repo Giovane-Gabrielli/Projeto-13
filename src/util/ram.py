@@ -49,8 +49,11 @@ def pub(net,i,j,k):
 			all[2] = all[2] + 1
 	return all
 
-def main():
-	I = load_json('../../resources/LucianoAntonioDigiampietri.json')
+def main(I_name,J_name):
+	print I_name
+	print J_name
+	
+	I = load_json(I_name)
 	I_articles = I.get('ARTICLES')
 	I_size = len(I_articles)
 	I_info = I.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
@@ -58,8 +61,7 @@ def main():
 	
 	
 	
-	J = load_json('../../resources/EstebanFernandezTuesta.json')
-	#J = load_json('../../resources/ClaudiaMariaBauzerMedeiros.json')
+	J = load_json(J_name)
 	J_articles = J.get('ARTICLES')
 	J_size = len(J_articles)
 	J_info = J.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
@@ -85,11 +87,29 @@ def main():
 		p = pub(I_net+J_net,I_info,J_info,author)
 		print p
 		try:
-			w = 1-(p[0]+p[1])/float((p[0]+p[1]+p[2]))
+			w = 1-((p[0]+p[1])/float((p[0]+p[1]+p[2])))
 		except:
 			w = 0
+			print "error"
 		total += w
-	d = (I_size/float(J_size)) * float(total/float(len(inter)))
-	print d
+	d = (I_size/float(J_size)) * (total/float(len(inter)))
+	print float("{0:.4f}".format(d))
 if __name__=='__main__':
-	main()
+	import os
+	import itertools
+	
+	files = []
+	
+	for file in os.listdir("."):
+		if file.endswith('.json'):
+			files.append(file)
+	
+	all_comb = itertools.combinations(files,2)
+	for item in all_comb:
+		main(item[0],item[1])
+	
+	
+	#main()
+	
+	
+	

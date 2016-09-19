@@ -109,7 +109,7 @@ def rem(node, t, articles):
 
 
 def main():
-	parser('curriculo22.xml')
+	parser('../../resources/curriculo4.xml')
 
 if __name__=='__main__':
 	main()
