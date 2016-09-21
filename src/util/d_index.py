@@ -1,12 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import json
-
-def load_json(file):
-	with open(file) as f:
-		j = json.load(f)
-	return j
+import util
 
 
 def net(p,info):
@@ -53,7 +48,7 @@ def main(I_name,J_name):
 	print I_name
 	print J_name
 	
-	I = load_json(I_name)
+	I = util.load_json(I_name)
 	I_articles = I.get('ARTICLES')
 	I_size = len(I_articles)
 	I_info = I.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
@@ -61,7 +56,7 @@ def main(I_name,J_name):
 	
 	
 	
-	J = load_json(J_name)
+	J = util.load_json(J_name)
 	J_articles = J.get('ARTICLES')
 	J_size = len(J_articles)
 	J_info = J.get('GENERAL-INFORMATION').get('CITATION-NAMES').split(";")
@@ -94,6 +89,7 @@ def main(I_name,J_name):
 		total += w
 	d = (I_size/float(J_size)) * (total/float(len(inter)))
 	print float("{0:.4f}".format(d))
+	
 if __name__=='__main__':
 	import os
 	import itertools
