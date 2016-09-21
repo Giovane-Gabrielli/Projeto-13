@@ -107,9 +107,41 @@ def rem(node, t, articles):
 		for child in node:
 			rem(child, t+1, articles)
 
+def load_json(file):
+	with open(file) as f:
+		j = json.load(f)
+	return j
+
+# RECEIVES A JSON FILE
+def get_co(input_file):
+	ids = []
+	lattes = 'http://lattes.cnpq.br/'
+	name = '../../resources/coauthors/'+input_file.split('/')[-1].replace('.json','.txt')
+	
+	json_file = load_json(input_file)
+	author_id = json_file.get('GENERAL-INFORMATION').get('ID')
+	
+	articles = json_file.get('ARTICLES')
+	
+	for a in articles:
+		for author in a.get('AUTHORS'):
+			current_id = author.get('ID')
+			if(current_id):
+				ids.append(current_id)
+	ids = list(set(ids))
+	ids.remove(author_id)
+	
+	with open(name,'w') as f:
+		for i in ids:
+			f.write(lattes+i+'\n')
+	
+	#return ids
+	
+	
 
 def main():
-	parser('../../resources/curriculo4.xml')
+	#parser('../../resources/curriculo4.xml')
+	ids = get_co('../../resources/json/ViktorDodonov.json')
 
 if __name__=='__main__':
 	main()
