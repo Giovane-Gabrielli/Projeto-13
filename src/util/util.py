@@ -1,6 +1,8 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 
+import json
+
 def load_json(file):
 	with open(file) as f:
 		j = json.load(f)
