@@ -87,8 +87,8 @@ def graph_it(input_file):
 		if(len(tmp_dict)>0):
 			co_co_dict[key] = tmp_dict
 	
-	construct_graph(co_dict,co_co_dict)
-	#print calculate(co_dict,co_co_dict)
+	#construct_graph(co_dict,co_co_dict)
+	print calculate(co_dict,co_co_dict)
 		
 	
 	

@@ -22,7 +22,7 @@ gray_list = [gray1,gray2]
 
 
 # parse all the shit
-def parser(file):
+def parser(file,path):
 	try:
 		tree = ET.parse(file)
 	except Exception as e:
@@ -40,8 +40,11 @@ def parser(file):
 	general_info['ID'] = root.get('NUMERO-IDENTIFICADOR').encode('utf-8')
 	info = root.find('DADOS-GERAIS')
 	general_info['COMPLETE-NAME'] = info.get('NOME-COMPLETO').encode('utf-8')
-	name = info.get('NOME-COMPLETO').replace(" ","") + ".json"
+	name = path + info.get('NOME-COMPLETO').replace(" ","") + ".json"
 	general_info['CITATION-NAMES'] = info.get('NOME-EM-CITACOES-BIBLIOGRAFICAS').encode('utf-8')#.split(",")
+	
+	general_info['PHD-BEGGINING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-INICIO')
+	general_info['PHD-ENDING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-CONCLUSAO')
 	
 	data['GENERAL-INFORMATION'] = general_info
 	articles_data = []
@@ -109,6 +112,7 @@ def rem(node, t, articles):
 
 # RECEIVES A JSON FILE
 def get_co(input_file):
+
 	ids = []
 	lattes = 'http://lattes.cnpq.br/'
 	name = '../../resources/coauthors/'+input_file.split('/')[-1].replace('.json','.txt')
@@ -135,8 +139,8 @@ def get_co(input_file):
 	
 
 def main():
-	#parser('../../resources/curriculo4.xml')
-	get_co('../../resources/json/ViktorDodonov.json')
+	parser('../../resources/xml/curriculo5.xml','../../resources/json/')
+	#get_co('../../resources/json/ViktorDodonov.json')
 
 if __name__=='__main__':
 	main()

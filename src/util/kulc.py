@@ -13,9 +13,13 @@ def one_iteration_kulc (p_i, p_j, p_ij,year):
 	z = (1/float(p_j))
 	atual_iteration = (x * (y+z))
 	print "Iteration | ",year," |" ,atual_iteration
+ 	print p_i,p_j,p_ij
+	print
 	return atual_iteration
     except:
 	print "Iteration | ",year," |", 0.
+ 	print p_i,p_j,p_ij
+	print
 	return 0
 
 def get_p_specific_one_year (name_i, name_j, year):
@@ -64,7 +68,7 @@ if __name__ == '__main__':
 
 
     k= calc_kulc('../../resources/json/ViktorDodonov.json',\
-	    '../../resources/json/MarcosCesardeOliveira.json', 2003, 2024)
+	    '../../resources/json/MarcosCesardeOliveira.json', 2003, 2006)
     print
     print "Kulczynski index:",k
     print

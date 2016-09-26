@@ -93,7 +93,7 @@ def main(I_name,J_name):
 if __name__=='__main__':
 	import os
 	import itertools
-	
+	"""
 	files = []
 	
 	for file in os.listdir("."):
@@ -103,9 +103,9 @@ if __name__=='__main__':
 	all_comb = itertools.combinations(files,2)
 	for item in all_comb:
 		main(item[0],item[1])
+	"""
 	
-	
-	#main()
+	main("../../resources/json/ViktorDodonov.json","../../resources/json/SalomonSylvainMizrahi.json")
 	
 	
 	
