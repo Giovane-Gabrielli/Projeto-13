@@ -114,7 +114,7 @@ def rem(node, t, articles):
 def get_co(input_file):
 
 	ids = []
-	lattes = 'http://lattes.cnpq.br/'
+	lattes = 'http://buscatextual.cnpq.br/buscatextual/download.do?metodo=apresentar&idcnpq='
 	name = '../../resources/coauthors/'+input_file.split('/')[-1].replace('.json','.txt')
 	
 	json_file = util.load_json(input_file)
@@ -139,8 +139,8 @@ def get_co(input_file):
 	
 
 def main():
-	parser('../../resources/xml/curriculo5.xml','../../resources/json/')
-	#get_co('../../resources/json/ViktorDodonov.json')
+	#parser('../../resources/xml/curriculo5.xml','../../resources/json/')
+	get_co('../../resources/json/ViktorDodonov.json')
 
 if __name__=='__main__':
 	main()
