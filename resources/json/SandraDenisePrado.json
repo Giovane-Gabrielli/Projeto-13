@@ -1,0 +1,865 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quebra de Simetria em sistemas Hamiltonianos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DETTMAN, C.", 
+                    "COMPLETE-NAME": "Carl Dettman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Stabilization of the Cosmic Microwave Background Radiation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Física Quântica como uma tradição de pesquisa: uma análise a partir da epistemologia de Larry Laudan"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Evolução conceitual de professores de Física do ensino médio sobre o fenômeno da interferência quântica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Chaology in Mesoscopic Systems."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloízio Martinez de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effects of Simmetry Breakdown in the Bifurcation of a Non-Integrable Hamiltonian System."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloízio Martinez de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO, R. E.", 
+                    "COMPLETE-NAME": "Ricardo Egydio de Carvalho", 
+                    "ID": "7497781556622328"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Semiclassical Theory of Magnetization for a Two-Dimensional Non-Interacting Electron Gas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloízio Martinez de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaotic-to-Regular Transition in a Semiclassical Electron Gas."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BERRY, M. V.", 
+                    "COMPLETE-NAME": "Michael V Berry", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Orbit Bifurcations and Spectral Statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORSO, G.", 
+                    "COMPLETE-NAME": "Gilberto Corso", 
+                    "ID": "0274040885278760"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Reconnection Manifold and Diffusion in Strong Chaos Regime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORSO, G.", 
+                    "COMPLETE-NAME": "Gilberto Corso", 
+                    "ID": "0274040885278760"
+                }, 
+                {
+                    "CITATION-NAMES": "YOSHIDA, S.", 
+                    "COMPLETE-NAME": "Shuhei Yoshida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Signature of Reconnection Bifurcations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Orbit bifurcations and the scarring of wavefunctions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAHMEN, S. R.", 
+                    "COMPLETE-NAME": "Silvio Renato Dahmen", 
+                    "ID": "5748143552026383"
+                }, 
+                {
+                    "CITATION-NAMES": "STUEMER-DAITX, T.", 
+                    "COMPLETE-NAME": "Tiago Stuemer-Daitx", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Similarity in the Statistics of Prime Numbers"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BAECKER, A.", 
+                    "COMPLETE-NAME": "Arnd Baecker", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Orbit Bifurcations and Wavefunction Autocorrelations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORSO, G.", 
+                    "COMPLETE-NAME": "Gilberto Corso", 
+                    "ID": "0274040885278760"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Reconnection of unstable manifolds and change in transport properties"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DETTMANN, C. P.", 
+                    "COMPLETE-NAME": "Carl P Dettmann", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Stabilization of Cosmological Photons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DETTMANN, C. P.", 
+                    "COMPLETE-NAME": "Carl P Dettmann", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Stabilization of Chaos and the Cosmic Microwave Background"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sieber, M.", 
+                    "COMPLETE-NAME": "Martin Sieber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Universal quantum signature of mixed dynamics in antidot lattices"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, M.", 
+                    "COMPLETE-NAME": "Marcel Novaes", 
+                    "ID": "6150586582241018"
+                }, 
+                {
+                    "CITATION-NAMES": "Sieber, M.", 
+                    "COMPLETE-NAME": "Martin Sieber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Semiclassical structure of chaotic resonance eigenfunctions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEATING, J. P.", 
+                    "COMPLETE-NAME": "Jonathan P Keating", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OZORIO DE ALMEIDA, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Manoel Ozorio de Almeida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sieber, M.", 
+                    "COMPLETE-NAME": "Martin Sieber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R.", 
+                    "COMPLETE-NAME": "Raul Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Periodic orbit bifurcations and scattering time delay fluctuations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O tratamento clássico do interferômetro de Mach-Zehnder: uma releitura mais moderna do experimento de duas fendas na introdução da física quântica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Desenvolvimento de um software para o ensino de fundamentos de Física Quântica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interpretações da mecânica quântica em um interferômetro virtual de Mach-Zehnder"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Investigando a aprendizagem de professores de física acerca do fenômeno da interferência quântica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "CAVALCANTI, J. C. H.", 
+                    "COMPLETE-NAME": "José Cláudio de Holanda Cavalcanti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Tradição de pesquisa quântica: uma interpretação na perspectiva da epistemologia de Larry Laudan."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ramilowski, Jordan A.", 
+                    "COMPLETE-NAME": "Ramilowski, Jordan A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Borondo, F.", 
+                    "COMPLETE-NAME": "Borondo, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Farrelly, David", 
+                    "COMPLETE-NAME": "Farrelly, David", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fractal Weyl law behavior in an open Hamiltonian system"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Prado, S. D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vergini, E.", 
+                    "COMPLETE-NAME": "Vergini, E.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Benito, R. M.", 
+                    "COMPLETE-NAME": "Benito, R. M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Borondo, F.", 
+                    "COMPLETE-NAME": "Borondo, F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Superscars in the LiNC  LiCN isomerization reaction"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DA SILVA, ROBERTO", 
+                    "COMPLETE-NAME": "DA SILVA, ROBERTO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VAINSTEIN, MENDELI H.", 
+                    "COMPLETE-NAME": "VAINSTEIN, MENDELI H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LAMB, LUIS C.", 
+                    "COMPLETE-NAME": "LAMB, LUIS C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A simple non-Markovian computational model of the statistics of soccer leagues: Emergence and scaling effects"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FISCHER, ROBERT", 
+                    "COMPLETE-NAME": "FISCHER, ROBERT", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VIDAL, ITAMAR", 
+                    "COMPLETE-NAME": "VIDAL, ITAMAR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GILBOA, DORON", 
+                    "COMPLETE-NAME": "GILBOA, DORON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, RICARDO R.'B.", 
+                    "COMPLETE-NAME": "CORREIA, RICARDO R.'B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO-TEIXEIRA, ANA C.", 
+                    "COMPLETE-NAME": "RIBEIRO-TEIXEIRA, ANA C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HICKMAN, JANDIR", 
+                    "COMPLETE-NAME": "HICKMAN, JANDIR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILBERBERG, YARON", 
+                    "COMPLETE-NAME": "SILBERBERG, YARON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Light with Tunable Non-Markovian Phase Imprint"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIUZA, K.", 
+                    "COMPLETE-NAME": "Karen Fiuza", 
+                    "ID": "3411253684646276"
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Microwave Photon Trajectories in Hyperbolic Universes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ostermann, F.", 
+                    "COMPLETE-NAME": "fernanda ostermann", 
+                    "ID": "7007713327410057"
+                }, 
+                {
+                    "CITATION-NAMES": "Rezende, F.", 
+                    "COMPLETE-NAME": "Flávia Rezende", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ricci, T.", 
+                    "COMPLETE-NAME": "Trieste Ricci", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interferômetro virtual de Mach-Zehnder"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PRADO, S. D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Alguns problemas não-resolvidos em Caos Quântico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PRADO, S. D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Maps"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PRADO, S. D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "quantum chaos in open systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Jucelino Cortez", 
+                    "COMPLETE-NAME": "Jucelino Cortez", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O Legado de Madame Curie: Uma abordagem CTS para o Ensino de Radioatividade"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREINER, W.", 
+                    "COMPLETE-NAME": "Walter Greiner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RUFFINI, R. J.", 
+                    "COMPLETE-NAME": "Remo J Ruffini", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "STOCKER, H.", 
+                    "COMPLETE-NAME": "Horst Stocker", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COELHO, H. T.", 
+                    "COMPLETE-NAME": "Helio T Coelho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VASCONCELLOS, C. A. Z.", 
+                    "COMPLETE-NAME": "Cesar Augusto Zen Vasconcellos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+                    "COMPLETE-NAME": "Sandra Denise Prado", 
+                    "ID": "1439240219060111"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "International Journal Modern Physics D - Special Issue"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "PRADO, S. D.;Prado, S. D.;PRADO, SANDRA D.", 
+        "COMPLETE-NAME": "Sandra Denise Prado", 
+        "ID": "1439240219060111", 
+        "PHD-BEGGINING": "1992", 
+        "PHD-ENDING": "1995"
+    }
+}

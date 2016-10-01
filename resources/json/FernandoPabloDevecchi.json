@@ -1,0 +1,950 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CONSTANTINIDIS, C. P.", 
+                    "COMPLETE-NAME": "C. P. CONSTANTINIDIS", 
+                    "ID": "1328163673123152"
+                }, 
+                {
+                    "CITATION-NAMES": "TOPPAN, F.", 
+                    "COMPLETE-NAME": "F. TOPPAN", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric Chiral And Dual Models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARCHIORO, D. F. Z.", 
+                    "COMPLETE-NAME": "Dafni Fernanda Zenedin Marchioro", 
+                    "ID": "3249724281609148"
+                }, 
+                {
+                    "CITATION-NAMES": "CONSTANTINIDIS, C. P.", 
+                    "COMPLETE-NAME": "C. P. CONSTANTINIDIS", 
+                    "ID": "1328163673123152"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Solving the zero-hamiltonian problem"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Relativistic gas theories in 2d cosmological models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lagrangian and Hamiltonian analysis of the mKDV equation in a traffic model context"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZANETTI, C. M.", 
+                    "COMPLETE-NAME": "Carina Maria Zanetti", 
+                    "ID": "6938704794893584"
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Inflation and dark energy regimes in dilatonic and JT csomologies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Processos irreversiveis em modelos cosmologicos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "JT and dilatonic cosmologies in reduced dimensons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "G. M. Kremer", 
+                    "COMPLETE-NAME": "Gilberto Medeiros Kremer", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "fermions as sources of accelerated expansion in cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CONSTANTINIDIS, C. P.", 
+                    "COMPLETE-NAME": "C. P. CONSTANTINIDIS", 
+                    "ID": "1328163673123152"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Duality In Two Dimensions And The Klein-Gordon Field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ABDALLA, E.", 
+                    "COMPLETE-NAME": "E. ABDALLA", 
+                    "ID": "6256541728060383"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZADRA, A.", 
+                    "COMPLETE-NAME": "A. ZADRA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ABDALLA, M.", 
+                    "COMPLETE-NAME": "M.C.B. Abdalla", 
+                    "ID": "8892476303757818"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hamiltonian Formulation Of Anomaly Free Chiral Bosons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ABDALLA, E.", 
+                    "COMPLETE-NAME": "E. ABDALLA", 
+                    "ID": "6256541728060383"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZADRA, A.", 
+                    "COMPLETE-NAME": "A. ZADRA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ABDALLA, M.", 
+                    "COMPLETE-NAME": "M.C.B. Abdalla", 
+                    "ID": "8892476303757818"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dirac Bracket Quantization Of Chiral Scalar Two Dimensional Qed"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. GIROTTI", 
+                    "ID": "7319304309007215"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chiral Bosons And Inproper Constraints"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "M. FLECK", 
+                    "ID": "5100959223864224"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. GIROTTI", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. GOMES", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A.", 
+                    "COMPLETE-NAME": "A. SILVA", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coulomb Gauge Quantization Of The Maxwell-Chern-Simons Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HENNEAUX, M.", 
+                    "COMPLETE-NAME": "M. HENNEAUX", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Covariant Path Integral For Chiral P-Forms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "C. Constantinidis", 
+                    "COMPLETE-NAME": "C. Constantinidis", 
+                    "ID": "1328163673123152"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Symmetries And Degrees Of Freedom In Two Dimensional Dual Models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ABDALLA, M.", 
+                    "COMPLETE-NAME": "M.C.B. Abdalla", 
+                    "ID": "8892476303757818"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Abdalla, E.", 
+                    "COMPLETE-NAME": "E.A. Abdalla", 
+                    "ID": "6256541728060383"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Two-Dimensional Induced Gravity In Reduced Phase-Space"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "C. Constantinidis", 
+                    "COMPLETE-NAME": "C. Constantinidis", 
+                    "ID": "1328163673123152"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Toppan, F.", 
+                    "COMPLETE-NAME": "Francesco Toppan", 
+                    "ID": "0364008562820352"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Two-Dimensional N=1,2 Supersymmetric Chiral And Dual Models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "2d-Gravity And The Extended Formalism"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "C. Constantinidis", 
+                    "COMPLETE-NAME": "C. Constantinidis", 
+                    "ID": "1328163673123152"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARCHIORO, D. F. Z.", 
+                    "COMPLETE-NAME": "Dafni Fernanda Zenedin Marchioro", 
+                    "ID": "3249724281609148"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Solution to the zero hamiltonian problem in 2D gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARCHIORO, D. F. Z.", 
+                    "COMPLETE-NAME": "Dafni Fernanda Zenedin Marchioro", 
+                    "ID": "3249724281609148"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gauge freedom and residual symmetries in 2D dual gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermodynamics and Kinetic Theory of Relativistic Gases in 2-D Cosmological Models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Irreversible Processes in Inflationary Cosmological Models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARCHIORO, D. F. Z.", 
+                    "COMPLETE-NAME": "Dafni Fernanda Zenedin Marchioro", 
+                    "ID": "3249724281609148"
+                }, 
+                {
+                    "CITATION-NAMES": "DELFRATE, D. G.", 
+                    "COMPLETE-NAME": "Denilso Geraldo Delfrate", 
+                    "ID": "4975666147086265"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "An effective Hamiltonian for 2D black hole physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "G. M. Kremer", 
+                    "COMPLETE-NAME": "Gilberto Medeiros Kremer", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Viscous cosmological models and accelerated universes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARCHIORO, D. F. Z.", 
+                    "COMPLETE-NAME": "Dafni Fernanda Zenedin Marchioro", 
+                    "ID": "3249724281609148"
+                }, 
+                {
+                    "CITATION-NAMES": "DELFRATE, D. G.", 
+                    "COMPLETE-NAME": "Denilso Geraldo Delfrate", 
+                    "ID": "4975666147086265"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Zero-Hamiltonian Problem in a Toy Gravity\n Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FROEHLICH, M.", 
+                    "COMPLETE-NAME": "Margaret Froehlich", 
+                    "ID": "3966273271896476"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-linear terms in 2D cosmologies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZANETTI, C. M.", 
+                    "COMPLETE-NAME": "Carina Maria Zanetti", 
+                    "ID": "6938704794893584"
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "CHRISTMANN, M.", 
+                    "COMPLETE-NAME": "Marcus Christmann", 
+                    "ID": "4341941758544557"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A transition from accelerated to decelerated regimes in JT and CGHS cosmologies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZANETTI, C. . M.", 
+                    "COMPLETE-NAME": "Carina Maria Zanetti", 
+                    "ID": "6938704794893584"
+                }, 
+                {
+                    "CITATION-NAMES": "G. M. Kremer", 
+                    "COMPLETE-NAME": "Gilberto Medeiros Kremer", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "CHRISTMANN, M.", 
+                    "COMPLETE-NAME": "Marcus Christmann", 
+                    "ID": "4341941758544557"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Inflationary and dark energy regimes in 2+1 cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FROEHLICH, M.", 
+                    "COMPLETE-NAME": "Margaret Froehlich", 
+                    "ID": "3966273271896476"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "3D gravity and non-linear cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "G. M. Kremer", 
+                    "COMPLETE-NAME": "Gilberto Medeiros Kremer", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermions as sources of accelerated regimes in cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cosmological model with non-minimally coupled fermionic field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "CHIMENTO, L. P.", 
+                    "COMPLETE-NAME": "Luis P. Chimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FORTE, M.", 
+                    "COMPLETE-NAME": "Monica Forte", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Phantom Cosmologies and fermions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SAMOJEDEN, L. L.", 
+                    "COMPLETE-NAME": "Lauro Luiz Samojeden", 
+                    "ID": "9357290779041030"
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G.", 
+                    "COMPLETE-NAME": "G.M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Accelerated expansion in bosonic and fermionic 2D cosmologies with quantum effects", 
+                "PORTUGUESE-TITLE": "Accelerated expansion in bosonic and fermionic 2D cosmologies with quantum effects"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G.", 
+                    "COMPLETE-NAME": "G.M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermionic cosmologies with yukawa type interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermions in a Walecka-type cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CHIMENTO, L P", 
+                    "COMPLETE-NAME": "CHIMENTO, L P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F P", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FORTE, M", 
+                    "COMPLETE-NAME": "FORTE, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G M", 
+                    "COMPLETE-NAME": "KREMER, G M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M O", 
+                    "COMPLETE-NAME": "RIBAS, M O", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAMOJEDEN, L L", 
+                    "COMPLETE-NAME": "SAMOJEDEN, L L", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermionic cosmologies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KREMER, G M", 
+                    "COMPLETE-NAME": "KREMER, G M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBAS, M. O.", 
+                    "COMPLETE-NAME": "Marlos O. Ribas", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Exit from accelerated regimes by symmetry breaking in a universe filled with fermionic and bosonic sources", 
+                "PORTUGUESE-TITLE": "Exit from accelerated regimes by symmetry breaking in a universe filled with fermionic and bosonic sources"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBAS, M O", 
+                    "COMPLETE-NAME": "RIBAS, M O", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAMOJEDEN, L L", 
+                    "COMPLETE-NAME": "SAMOJEDEN, L L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, F P", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G M", 
+                    "COMPLETE-NAME": "KREMER, G M", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Isotropization in Bianchi type-I cosmological model with fermions and bosons interacting via Yukawa potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBAS, MARLOS O.", 
+                    "COMPLETE-NAME": "RIBAS, MARLOS O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEVECCHI, FERNANDO P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, GILBERTO M.", 
+                    "COMPLETE-NAME": "KREMER, GILBERTO M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cosmological model with fermion and tachyon fields interacting via Yukawa-type potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAMOJEDEN, L. L.", 
+                    "COMPLETE-NAME": "Lauro Luiz Samojeden", 
+                    "ID": "9357290779041030"
+                }, 
+                {
+                    "CITATION-NAMES": "KREMER, G. M.", 
+                    "COMPLETE-NAME": "GILBERTO M. KREMER", 
+                    "ID": "3911808984710384"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermions in Brans-Dicke Cosmology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Relatividade Geral e Cosmologia"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "DEVECCHI, F. P.;DEVECCHI, F P;DEVECCHI, FERNANDO P.", 
+        "COMPLETE-NAME": "Fernando Pablo Devecchi", 
+        "ID": "7098990206686303", 
+        "PHD-BEGGINING": "1989", 
+        "PHD-ENDING": "1992"
+    }
+}

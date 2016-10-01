@@ -1,0 +1,2273 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A História da Fisica na Educação Brasileira"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M. P.", 
+                    "COMPLETE-NAME": "Marcia Pereira Attie", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CASTRO, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Castro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fotofragmentacao de Tiofeno excitado na borda S2p"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Silva L. F.", 
+                    "COMPLETE-NAME": "Luciano Fernandes Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Soares, J. B.", 
+                    "COMPLETE-NAME": "Jules Batista Soares", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Shinomiya G. K.", 
+                    "COMPLETE-NAME": "George Kouzo Shinomiya", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Oliveira Jr., Z. T.", 
+                    "COMPLETE-NAME": "Zolacir Trindade de Oliveira Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Caminhão com Ciência: Um Projeto de Divulgação Científica Pioneiro no Sul da Bahia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Santos, T. J.", 
+                    "COMPLETE-NAME": "Tiago de Jesus Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "STUCHI, A. M.", 
+                    "COMPLETE-NAME": "Stuchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Soares, J. B.", 
+                    "COMPLETE-NAME": "Jules Batista Soares", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Araújo, R. S.", 
+                    "COMPLETE-NAME": "Renato Santos Araújo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Aragão, E. C. B. .B.", 
+                    "COMPLETE-NAME": "Eduardo Cezar Barbosa de Barros Aragão", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Viana, W. E. S.", 
+                    "COMPLETE-NAME": "William Emanuel S. Viana", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Melo, C. A. S.", 
+                    "COMPLETE-NAME": "Carlos Antônio do Santos Melo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Oiticica, P. R. A.", 
+                    "COMPLETE-NAME": "Pedro Ramon Almeida Oiticica", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza Jr., J. J. S.", 
+                    "COMPLETE-NAME": "Joaquim José Soares Souza Júnior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Santana, L. B.", 
+                    "COMPLETE-NAME": "Lucas Brito de Santana", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Oliveira Jr., Z. T.", 
+                    "COMPLETE-NAME": "Zolacir Trindade de Oliveira Júnior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Shinomiya G. K.", 
+                    "COMPLETE-NAME": "George Kouzo Shinomiya", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Os Experimentos da Física no Caminhão com Ciência: Descrição e Perspectivas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "STUCHI, A. M.", 
+                    "COMPLETE-NAME": "Stuchi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O Parque do Conhecimento da Universidade Estadual de Santa Cruz"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Br?ndas, Erkki J.", 
+                    "COMPLETE-NAME": "Br?ndas, Erkki J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Combs, Leon L.", 
+                    "COMPLETE-NAME": "Combs, Leon L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor S.", 
+                    "COMPLETE-NAME": "Nestor S. Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1982", 
+                "ENGLIGH-TITLE": "Size consistency corrections for configurational interaction calculations", 
+                "PORTUGUESE-TITLE": "Size consistency corrections for configurational interaction calculations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Flores-Riveros, Antonio", 
+                    "COMPLETE-NAME": "Flores-Riveros, Antonio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "A?gren, Hans", 
+                    "COMPLETE-NAME": "A?gren, Hans", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Helenelund, Kurt", 
+                    "COMPLETE-NAME": "Helenelund, Kurt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Asplund, Lars", 
+                    "COMPLETE-NAME": "Asplund, Lars", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gelius, Ulrik", 
+                    "COMPLETE-NAME": "Gelius, Ulrik", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Theory of band shape formation in Auger and autoionization spectra of molecules. Numerical applications and new high-resolution spectra for CO", 
+                "PORTUGUESE-TITLE": "Theory of band shape formation in Auger and autoionization spectra of molecules. Numerical applications and new high-resolution spectra for CO"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Flores-Riveros, Antonio", 
+                    "COMPLETE-NAME": "Flores-Riveros, Antonio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "A?gren, Hans", 
+                    "COMPLETE-NAME": "A?gren, Hans", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pettersson, Lennart", 
+                    "COMPLETE-NAME": "Pettersson, Lennart", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ba?ckstro?m, Mats", 
+                    "COMPLETE-NAME": "Ba?ckstro?m, Mats", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nordgren, Joseph", 
+                    "COMPLETE-NAME": "Nordgren, Joseph", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Lifetime-vibrational interference effects in the ultra-soft x-ray emission spectrum of CO", 
+                "PORTUGUESE-TITLE": "Lifetime-vibrational interference effects in the ultra-soft x-ray emission spectrum of CO"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mujica, Vladimiro", 
+                    "COMPLETE-NAME": "Mujica, Vladimiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Goscinski, Osvaldo", 
+                    "COMPLETE-NAME": "Goscinski, Osvaldo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Fermion-propagator calculations of excitations in polyenes with the use of a Heisenberg (XYZ) Hamiltonian. I. Formalism and parametrization", 
+                "PORTUGUESE-TITLE": "Fermion-propagator calculations of excitations in polyenes with the use of a Heisenberg (XYZ) Hamiltonian. I. Formalism and parametrization"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mujica, Vladimiro", 
+                    "COMPLETE-NAME": "Mujica, Vladimiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Goscinski, Osvaldo", 
+                    "COMPLETE-NAME": "Goscinski, Osvaldo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Fermion-propagator calculations of excitations in polyenes with the use of a Heisenberg (XYZ) Hamiltonian. II. Applications to large systems", 
+                "PORTUGUESE-TITLE": "Fermion-propagator calculations of excitations in polyenes with the use of a Heisenberg (XYZ) Hamiltonian. II. Applications to large systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BAKER, J.", 
+                    "COMPLETE-NAME": "Jon Baker", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Predicted valence shell ionization spectrum of cyclobutadiene", 
+                "PORTUGUESE-TITLE": "Predicted valence shell ionization spectrum of cyclobutadiene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ågren, H.", 
+                    "COMPLETE-NAME": "Ågren, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FLORES-RIVEROS, A.", 
+                    "COMPLETE-NAME": "Antonio Flores-Riveros", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Jensen, H. J. AA.", 
+                    "COMPLETE-NAME": "Jensen, H. J. AA.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "Direct restricted-step MCSCF calculations on the structure and spectrum of cyclobutadiene", 
+                "PORTUGUESE-TITLE": "Direct restricted-step MCSCF calculations on the structure and spectrum of cyclobutadiene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Larsson, M", 
+                    "COMPLETE-NAME": "Larsson, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Baltzer, P", 
+                    "COMPLETE-NAME": "Baltzer, P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wannberg, B", 
+                    "COMPLETE-NAME": "Wannberg, B", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Martensson, N", 
+                    "COMPLETE-NAME": "Martensson, N", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brito, A Naves de", 
+                    "COMPLETE-NAME": "Brito, A Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M P", 
+                    "COMPLETE-NAME": "Keane, M P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Carlsson-Gothe, M", 
+                    "COMPLETE-NAME": "Carlsson-Gothe, M", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "X-ray photoelectron, Auger electron and ion fragment spectra of O2 and potential curves of O22+", 
+                "PORTUGUESE-TITLE": "X-ray photoelectron, Auger electron and ion fragment spectra of O2 and potential curves of O22+"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Baltzer, P", 
+                    "COMPLETE-NAME": "Baltzer, P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Carlsson-Gothe, M", 
+                    "COMPLETE-NAME": "Carlsson-Gothe, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M P", 
+                    "COMPLETE-NAME": "Keane, M P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brito, A Naves de", 
+                    "COMPLETE-NAME": "Brito, A Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wannberg, B", 
+                    "COMPLETE-NAME": "Wannberg, B", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The NVV Auger electron spectrum of the HI molecule"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GELIUS, U.", 
+                    "COMPLETE-NAME": "Ulrik Gelius", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lindberg, B. J.", 
+                    "COMPLETE-NAME": "Lindberg, B. J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Experimental and theoretical XPS study of model molecules for poly(methyl methacrylate)", 
+                "PORTUGUESE-TITLE": "Experimental and theoretical XPS study of model molecules for poly(methyl methacrylate)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S.", 
+                    "COMPLETE-NAME": "sTEN lUNELL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sjo?gren, B.", 
+                    "COMPLETE-NAME": "Sjo?gren, B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ingana?s, O.", 
+                    "COMPLETE-NAME": "Ingana?s, O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SALANECK, W. R.", 
+                    "COMPLETE-NAME": "William R Salaneck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "Gas-phase x-ray photoelectron spectroscopy of model molecules relating to the thermochromism in poly(3-alkylthiophene)", 
+                "PORTUGUESE-TITLE": "Gas-phase x-ray photoelectron spectroscopy of model molecules relating to the thermochromism in poly(3-alkylthiophene)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Adam, M", 
+                    "COMPLETE-NAME": "Adam, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "KALLNE, E.", 
+                    "COMPLETE-NAME": "Elisabeth Källne", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M", 
+                    "COMPLETE-NAME": "KEANE, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The high resolution inner-valence photoelectron spectrum of H2S induced by monochromatic A1 K? X-rays"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Adam, M", 
+                    "COMPLETE-NAME": "Adam, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BALTZER, P.", 
+                    "COMPLETE-NAME": "Peter Baltzer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WANNBERG, B.", 
+                    "COMPLETE-NAME": "Bjorn Wannberg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High resolution X-ray excited inner valence photoelectron spectra of HBr and DBr"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Adam, M", 
+                    "COMPLETE-NAME": "Adam, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WANNBERG, B.", 
+                    "COMPLETE-NAME": "Bjorn Wannberg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BALTZER, P.", 
+                    "COMPLETE-NAME": "Peter Baltzer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High resolution X-ray and He II excited inner valence photoelectron spectra of HI"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEANE, M", 
+                    "COMPLETE-NAME": "KEANE, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S", 
+                    "COMPLETE-NAME": "LUNELL, S", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Experimental and theoretical study of the N1s and C1s shake-up satellites in pyridine and aniline"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lisini, A", 
+                    "COMPLETE-NAME": "Lisini, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lunell, Sten", 
+                    "COMPLETE-NAME": "Lunell, Sten", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "X-ray photoelectron spectroscopy and ab initio CI study of the core and valence ionisation of formamide"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Keane, M.", 
+                    "COMPLETE-NAME": "Keane, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lögdlund, M.", 
+                    "COMPLETE-NAME": "Lögdlund, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Swanson, D.", 
+                    "COMPLETE-NAME": "Swanson, D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MacDiarmid, A.", 
+                    "COMPLETE-NAME": "MacDiarmid, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WANNBERG, B.", 
+                    "COMPLETE-NAME": "Bjorn Wannberg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GELIUS, U.", 
+                    "COMPLETE-NAME": "Ulrik Gelius", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lunell, Sten", 
+                    "COMPLETE-NAME": "Lunell, Sten", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Salaneck, W.", 
+                    "COMPLETE-NAME": "Salaneck, W.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Valence and core-shakeup photoelectron spectra of solid polyacetylene and related free model molecules", 
+                "PORTUGUESE-TITLE": "Valence and core-shakeup photoelectron spectra of solid polyacetylene and related free model molecules"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M.", 
+                    "COMPLETE-NAME": "Keane, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Observation of an energy shift in the S2p_{3/2} S2p_{1/2} spin-orbit splitting between x-ray photoelectron and Auger-electron spectra for the H_{2}S molecule", 
+                "PORTUGUESE-TITLE": "Observation of an energy shift in the S2p_{3/2} S2p_{1/2} spin-orbit splitting between x-ray photoelectron and Auger-electron spectra for the H_{2}S molecule"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Griffiths, W J", 
+                    "COMPLETE-NAME": "Griffiths, W J", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M P", 
+                    "COMPLETE-NAME": "Keane, M P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brito, A Naves de", 
+                    "COMPLETE-NAME": "Brito, A Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Doubly ionized states of N2O studied by photon-induced Auger electron and double charge transfer spectroscopies", 
+                "PORTUGUESE-TITLE": "Doubly ionized states of N2O studied by photon-induced Auger electron and double charge transfer spectroscopies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Liegener, C-M.", 
+                    "COMPLETE-NAME": "Liegener, C-M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CESAR, A.", 
+                    "COMPLETE-NAME": "Amary Cesar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "A?gren, H.", 
+                    "COMPLETE-NAME": "A?gren, H.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Doubly charged valence states of formaldehyde, acetaldehyde, acetone, and formamide studied by means of photon excited Auger electron spectroscopy and ab initio calculations", 
+                "PORTUGUESE-TITLE": "Doubly charged valence states of formaldehyde, acetaldehyde, acetone, and formamide studied by means of photon excited Auger electron spectroscopy and ab initio calculations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Baltzer, P", 
+                    "COMPLETE-NAME": "Baltzer, P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brito, A Naves de", 
+                    "COMPLETE-NAME": "Brito, A Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wannberg, B", 
+                    "COMPLETE-NAME": "Wannberg, B", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comment on the NVV Auger electron spectrum of the HI molecule"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KEANE, M", 
+                    "COMPLETE-NAME": "KEANE, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SALANECK, W", 
+                    "COMPLETE-NAME": "SALANECK, W", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEBRITO, A", 
+                    "COMPLETE-NAME": "DEBRITO, A", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S", 
+                    "COMPLETE-NAME": "LUNELL, S", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Photoelectron spectroscopic studies of some model molecules for poly(3-alkylthiophene)", 
+                "PORTUGUESE-TITLE": "Photoelectron spectroscopic studies of some model molecules for poly(3-alkylthiophene)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brito, A Naves de", 
+                    "COMPLETE-NAME": "Brito, A Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M P", 
+                    "COMPLETE-NAME": "Keane, M P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Liegener, C -M", 
+                    "COMPLETE-NAME": "Liegener, C -M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Agren, H", 
+                    "COMPLETE-NAME": "Agren, H", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The N 1s core electron shake-up and the shake-up Auger satellite spectrum of the N2 molecule"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pettersson, L. G. M.", 
+                    "COMPLETE-NAME": "Pettersson, L. G. M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LARSSON, M.", 
+                    "COMPLETE-NAME": "Mats Larsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Brostro?m, L.", 
+                    "COMPLETE-NAME": "Brostro?m, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MANNERVIK, S.", 
+                    "COMPLETE-NAME": "Sven Mannervik", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "The x-ray excited Auger electron spectrum of NO and potential curves and photodissociation of the NO2+ ion", 
+                "PORTUGUESE-TITLE": "The x-ray excited Auger electron spectrum of NO and potential curves and photodissociation of the NO2+ ion"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brito, A. Naves de", 
+                    "COMPLETE-NAME": "Brito, A. Naves de", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S", 
+                    "COMPLETE-NAME": "SVENSSON, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Keane, M. P", 
+                    "COMPLETE-NAME": "Keane, M. P", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Karlsson, L", 
+                    "COMPLETE-NAME": "Karlsson, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ågren, H", 
+                    "COMPLETE-NAME": "Ågren, H", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "The C 1 Core Binding-Energy Shifts of Ethene, 1,3-Butadiene, 1,3,5-Hexatriene. The Analogue to a Surface Shift Observed on a Quasi-One-Dimensional System", 
+                "PORTUGUESE-TITLE": "The C 1 Core Binding-Energy Shifts of Ethene, 1,3-Butadiene, 1,3,5-Hexatriene. The Analogue to a Surface Shift Observed on a Quasi-One-Dimensional System"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Naves de Brito, A", 
+                    "COMPLETE-NAME": "Naves de Brito, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGREN, H.", 
+                    "COMPLETE-NAME": "Hans Agren", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAIRANEN, O.", 
+                    "COMPLETE-NAME": "Olli-Pekka Sairanen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KIVIMAKI, A.", 
+                    "COMPLETE-NAME": "Antti Kivimäki", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AKSELA, S.", 
+                    "COMPLETE-NAME": "Seppo Aksela", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "X-ray induced electron yield spectrum of thin films of 1,3-trans-butadiene and 1,3,5-trans-hexatriene", 
+                "PORTUGUESE-TITLE": "X-ray induced electron yield spectrum of thin films of 1,3-trans-butadiene and 1,3,5-trans-hexatriene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Sjo?gren, B.", 
+                    "COMPLETE-NAME": "Sjo?gren, B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Brito, A. Naves", 
+                    "COMPLETE-NAME": "de Brito, A. Naves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ENKVIST, C.", 
+                    "COMPLETE-NAME": "Christer Enkvist", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S.", 
+                    "COMPLETE-NAME": "sTEN lUNELL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "The C1s core shake-up spectra of alkene molecules: An experimental and theoretical study", 
+                "PORTUGUESE-TITLE": "The C1s core shake-up spectra of alkene molecules: An experimental and theoretical study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Sjögren, B", 
+                    "COMPLETE-NAME": "Sjögren, B", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S", 
+                    "COMPLETE-NAME": "LUNELL, S", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WANNBERG, B.", 
+                    "COMPLETE-NAME": "Bjorn Wannberg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GELIUS, U.", 
+                    "COMPLETE-NAME": "Ulrik Gelius", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "A high resolution X-ray photoelectron spectroscopy and INDO/S-CI study of the core electron shake-up states in poly(methyl methacrylate) and related model molecules", 
+                "PORTUGUESE-TITLE": "A high resolution X-ray photoelectron spectroscopy and INDO/S-CI study of the core electron shake-up states in poly(methyl methacrylate) and related model molecules"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Liegener, C.-M.", 
+                    "COMPLETE-NAME": "Liegener, C.-M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Ågren, H.", 
+                    "COMPLETE-NAME": "Ågren, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Griffiths, W.", 
+                    "COMPLETE-NAME": "Griffiths, W.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Harris, F.", 
+                    "COMPLETE-NAME": "Harris, F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Auger and double-charge-transfer spectra of polyconjugated hydrocarbons: Butadiene, hexatriene, and polyacetylene", 
+                "PORTUGUESE-TITLE": "Auger and double-charge-transfer spectra of polyconjugated hydrocarbons: Butadiene, hexatriene, and polyacetylene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GRIFFITHS, W. J.", 
+                    "COMPLETE-NAME": "William J. Griffiths", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LANGFORD, M. L.", 
+                    "COMPLETE-NAME": "M. L. Langford", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HARRIS, F. M.", 
+                    "COMPLETE-NAME": "Frank M Harris", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Doubly ionized states of CH4 studied by double-charge-transfer and auger-electron spectroscopies", 
+                "PORTUGUESE-TITLE": "Doubly ionized states of CH4 studied by double-charge-transfer and auger-electron spectroscopies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WANNBERG, B.", 
+                    "COMPLETE-NAME": "Bjorn Wannberg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BALTZER, P.", 
+                    "COMPLETE-NAME": "Peter Baltzer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KARLSSON, L.", 
+                    "COMPLETE-NAME": "Leif Karlsson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ADAM, M.", 
+                    "COMPLETE-NAME": "Marie-Yvonne Adam", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AKSELA, H.", 
+                    "COMPLETE-NAME": "Helena Aksela", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AKSELA, S.", 
+                    "COMPLETE-NAME": "Seppo Aksela", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Vibrationally resolved states in the HS fragment studied by means of electron-excited Auger spectroscopy", 
+                "PORTUGUESE-TITLE": "Vibrationally resolved states in the HS fragment studied by means of electron-excited Auger spectroscopy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Griffiths, W", 
+                    "COMPLETE-NAME": "Griffiths, W", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "REID, C. J.", 
+                    "COMPLETE-NAME": "C. J. Reid", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Langford, Marion L.", 
+                    "COMPLETE-NAME": "Langford, Marion L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HARRIS, F. M.", 
+                    "COMPLETE-NAME": "Frank M Harris", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIEGENER, C.", 
+                    "COMPLETE-NAME": "Christopher-Maria Liegener", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGREN, H.", 
+                    "COMPLETE-NAME": "Hans Agren", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Doubly ionized states of carbon tetrafluoride"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Magela e Silva, Geraldo", 
+                    "COMPLETE-NAME": "Magela e Silva, Geraldo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, Alexandre", 
+                    "COMPLETE-NAME": "Naves de Brito, Alexandre", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "Dynamics of conformational defects in poly(3-hexyl)thiophene", 
+                "PORTUGUESE-TITLE": "Dynamics of conformational defects in poly(3-hexyl)thiophene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Sorensen, S. L.", 
+                    "COMPLETE-NAME": "Sorensen, S. L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Osborne, S. J.", 
+                    "COMPLETE-NAME": "Osborne, S. J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AUSMEES, A.", 
+                    "COMPLETE-NAME": "Andrus Ausmees", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KIKAS, A.", 
+                    "COMPLETE-NAME": "Arvo Kikas", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "PERSSON, P.", 
+                    "COMPLETE-NAME": "Peter Persson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S.", 
+                    "COMPLETE-NAME": "sTEN lUNELL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "Site-selective participator decay of core-excited butadiene", 
+                "PORTUGUESE-TITLE": "Site-selective participator decay of core-excited butadiene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Magnusson, Cecilia", 
+                    "COMPLETE-NAME": "Magnusson, Cecilia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Baron, John A.", 
+                    "COMPLETE-NAME": "Baron, John A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bergstr?m, Reinhold", 
+                    "COMPLETE-NAME": "Bergstr?m, Reinhold", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Adami, Hans-Olov", 
+                    "COMPLETE-NAME": "Adami, Hans-Olov", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Persson, Ingemar", 
+                    "COMPLETE-NAME": "Persson, Ingemar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Breast-cancer risk following long-term oestrogen- and oestrogen-progestin-replacement therapy", 
+                "PORTUGUESE-TITLE": "Breast-cancer risk following long-term oestrogen- and oestrogen-progestin-replacement therapy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "WEIDERPASS, E", 
+                    "COMPLETE-NAME": "WEIDERPASS, E", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BARON, J", 
+                    "COMPLETE-NAME": "BARON, J", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ADAMI, H", 
+                    "COMPLETE-NAME": "ADAMI, H", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAGNUSSON, C", 
+                    "COMPLETE-NAME": "MAGNUSSON, C", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LINDGREN, A", 
+                    "COMPLETE-NAME": "LINDGREN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BERGSTROM, R", 
+                    "COMPLETE-NAME": "BERGSTROM, R", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PERSSON, I", 
+                    "COMPLETE-NAME": "PERSSON, I", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Low-potency oestrogen and risk of endometrial cancer: a case-control study", 
+                "PORTUGUESE-TITLE": "Low-potency oestrogen and risk of endometrial cancer: a case-control study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "WEIDERPASS, E.", 
+                    "COMPLETE-NAME": "Elisabete Weiderpass", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Risk of Endometrial Cancer Following Estrogen Replacement With and Without Progestins", 
+                "PORTUGUESE-TITLE": "Risk of Endometrial Cancer Following Estrogen Replacement With and Without Progestins"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OSBY, U.", 
+                    "COMPLETE-NAME": "Urban Ösby", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, L.", 
+                    "COMPLETE-NAME": "Lena Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EKBOM, A.", 
+                    "COMPLETE-NAME": "Anders Ekbom", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPAREN, P.", 
+                    "COMPLETE-NAME": "Pär Sparén", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Time trends in schizophrenia mortality in Stockholm County, Sweden: cohort study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ösby, U", 
+                    "COMPLETE-NAME": "Ösby, U", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, L.", 
+                    "COMPLETE-NAME": "Lena Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EKBOM, A.", 
+                    "COMPLETE-NAME": "Anders Ekbom", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPAREN, P.", 
+                    "COMPLETE-NAME": "Pär Sparén", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mortality and causes of death in schizophrenia in Stockholm County, Sweden"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OSBY, U.", 
+                    "COMPLETE-NAME": "Urban Ösby", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, L.", 
+                    "COMPLETE-NAME": "Lena Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPAREN, P.", 
+                    "COMPLETE-NAME": "Pär Sparén", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EKBOM, A.", 
+                    "COMPLETE-NAME": "Anders Ekbom", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Excess Mortality in Bipolar and Unipolar Disorder in Sweden", 
+                "PORTUGUESE-TITLE": "Excess Mortality in Bipolar and Unipolar Disorder in Sweden"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGNUSSON, C.", 
+                    "COMPLETE-NAME": "Cecilia Magnusson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PERSSON, I.", 
+                    "COMPLETE-NAME": "Ingemar Persson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DICKMAN, P.", 
+                    "COMPLETE-NAME": "Paul Dickman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIMAN, T.", 
+                    "COMPLETE-NAME": "Thomas Riman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NORDLINDER, H.", 
+                    "COMPLETE-NAME": "H Nordlinder", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Risk factors for epithelial borderline ovarian tumors: results"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Riman, T", 
+                    "COMPLETE-NAME": "Riman, T", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Risk Factors for Epithelial Borderline Ovarian Tumors: Results of a Swedish Case Control Study", 
+                "PORTUGUESE-TITLE": "Risk Factors for Epithelial Borderline Ovarian Tumors: Results of a Swedish Case Control Study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIMAN, T.", 
+                    "COMPLETE-NAME": "Thomas Riman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Hormone Replacement Therapy and the Risk of Invasive Epithelial Ovarian Cancer in Swedish Women", 
+                "PORTUGUESE-TITLE": "Hormone Replacement Therapy and the Risk of Invasive Epithelial Ovarian Cancer in Swedish Women"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A História da Física Na Educação Brasileira"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M", 
+                    "COMPLETE-NAME": "MUNDIM, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N", 
+                    "COMPLETE-NAME": "MAKIUCHI, N", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEBRITO, A", 
+                    "COMPLETE-NAME": "DEBRITO, A", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M", 
+                    "COMPLETE-NAME": "ATTIE, M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Study of thiophene inner shell photofragmentation", 
+                "PORTUGUESE-TITLE": "Study of thiophene inner shell photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OSBY, U", 
+                    "COMPLETE-NAME": "OSBY, U", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, L", 
+                    "COMPLETE-NAME": "BRANDT, L", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EKBOM, A", 
+                    "COMPLETE-NAME": "EKBOM, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPAREN, P", 
+                    "COMPLETE-NAME": "SPAREN, P", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Excess mortality in schizophrenia in Stockholm County, Sweden", 
+                "PORTUGUESE-TITLE": "Excess mortality in schizophrenia in Stockholm County, Sweden"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LOPES, R. F.", 
+                    "COMPLETE-NAME": "Rafael Ferreira Lopes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVIM, R. A.", 
+                    "COMPLETE-NAME": "Rosana A. Alvim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVIM, R. C.", 
+                    "COMPLETE-NAME": "Ricardo C Alvim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Mathematical Modeling o f Composite Lightweight Mortar Reinforced w ith Piassava Fibers", 
+                "PORTUGUESE-TITLE": "Mathematical Modeling o f Composite Lightweight Mortar Reinforced w ith Piassava Fibers"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DOS SANTOS, SÉRGIO SELMA", 
+                    "COMPLETE-NAME": "DOS SANTOS, SÉRGIO SELMA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HOBBI, EDWIN", 
+                    "COMPLETE-NAME": "HOBBI, EDWIN", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Electronic Transport through Thiophene-1,4-Dithiol Molecule", 
+                "PORTUGUESE-TITLE": "Electronic Transport through Thiophene-1,4-Dithiol Molecule"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Griffiths, William J.", 
+                    "COMPLETE-NAME": "Griffiths, William J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Svensson, Svante", 
+                    "COMPLETE-NAME": "Svensson, Svante", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Brito, Arnaldo Naves", 
+                    "COMPLETE-NAME": "de Brito, Arnaldo Naves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wannberg, Bjorn", 
+                    "COMPLETE-NAME": "Wannberg, Bjorn", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Langford, Marion L.", 
+                    "COMPLETE-NAME": "Langford, Marion L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Harris, Frank M.", 
+                    "COMPLETE-NAME": "Harris, Frank M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Liegener, Christoph M.", 
+                    "COMPLETE-NAME": "Liegener, Christoph M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "?gren, Hans", 
+                    "COMPLETE-NAME": "?gren, Hans", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "Doubly ionized states of hexafluorobenzene studied by high-resolution Auger electron and double-charge-transfer spectroscopies", 
+                "PORTUGUESE-TITLE": "Doubly ionized states of hexafluorobenzene studied by high-resolution Auger electron and double-charge-transfer spectroscopies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Sistemas Complewxos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conceitos de Energia e Trabalho Princípios Gerais da Termodinâmica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "SALANECK, W. R.", 
+                    "COMPLETE-NAME": "William R Salaneck", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SVENSSON, S.", 
+                    "COMPLETE-NAME": "Svante Svensson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEANE, M. P.", 
+                    "COMPLETE-NAME": "Michael P Keane", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LOGLUND, M.", 
+                    "COMPLETE-NAME": "Michael Löglund", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SJOGREN, B.", 
+                    "COMPLETE-NAME": "Bo Sjögren", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "LUNELL, S.", 
+                    "COMPLETE-NAME": "sTEN lUNELL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Electronic and Chemical Structure of Poly(3-alkylthiophene) Studied by Photoelectron Spectroscopy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bim de Verdier", 
+                    "COMPLETE-NAME": "Bim de Verdier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Dissecar uma Nevasca", 
+                "PORTUGUESE-TITLE": "Dissecar uma Nevasca"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bim de Verdier", 
+                    "COMPLETE-NAME": "Bim de Verdier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Um Jogo de Sonhos", 
+                "PORTUGUESE-TITLE": "Um Jogo de Sonhos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "I Semana de Fisica da UESC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "https://www.facebook.com/nestor.correia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bim de Verdier", 
+                    "COMPLETE-NAME": "Bim de Verdier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, Nestor", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Dissecar uma Nevasca", 
+                "PORTUGUESE-TITLE": "Dissecar uma Nevasca"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bim de Verdier", 
+                    "COMPLETE-NAME": "Bim de Verdier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Correia, N.", 
+                    "COMPLETE-NAME": "Nestor Santos Correia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Trilogia do Bufão"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "CORREIA, N. S.;CORREIA, N;Correia, Nestor;Correia, N.;CORREIA, NESTOR SANTOS", 
+        "COMPLETE-NAME": "Nestor Santos Correia", 
+        "ID": "0266393899111143", 
+        "PHD-BEGGINING": "1977", 
+        "PHD-ENDING": "1984"
+    }
+}

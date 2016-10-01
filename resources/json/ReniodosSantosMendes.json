@@ -1,0 +1,4077 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M GOMES", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. S.", 
+                    "COMPLETE-NAME": "R S RIBEIRO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J DA SILVA", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quebra Espontânea de Simetria no Modelo O(N)XO(N)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L C MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Um Modelo BCS Generalizado com dois Campos Fermiônicos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Algumas relações gerais em uma termoestatística arbitrária"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L C MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A desigualdade de Bogoliubov para a estatística de Tsallis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L R EVANGELISTA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L C MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum corrections for generalized partition functions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L C MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Integral de trajetória e equação de Bloch na estatística de Tsallis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKI, J. N.", 
+                    "COMPLETE-NAME": "J N MAKI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Expansão perturbativa, desigualdade de Bogoliubov e representações integrais na estatística de Tsallis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "R O VALLEJOS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C TSALLIS", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Connection between energy-spectrum self similarity and specific heat log-periodicity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, R. L.", 
+                    "COMPLETE-NAME": "R L DA SILVA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "R O VALLEJOS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C TSALLIS", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spectrum energy multifractality and equilibrium thermodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "I T PEDRON", 
+                    "ID": "7512625230047947"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Aplicações de equações diferenciais ordinárias não lineares baseadas na entropia generalizada de Tsallis: equações de difusão anômala para meios porosos e de Thomas-Fermi"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "I T PEDRON", 
+                    "ID": "7512625230047947"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Equações Diferenciais Ordinárias não-Lineares Baseadas na Entropia Generalizada de Tsallis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIN K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Variational Method and Non-Gaussian States Based on Tsallis Statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "KENZI, e K", 
+                    "COMPLETE-NAME": "E K KENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "BORGES, E. P.", 
+                    "COMPLETE-NAME": "E P BORGES", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Uma Generalização da transformada de Laplace"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "P R B PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generalized Gaussian States"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "I T PEDRON", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, P. A.", 
+                    "COMPLETE-NAME": "PERSEU ANGELO SANTORO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A generalized steepest descents method"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Collisioness Boltzmann equation for systems obeying the Tsallis distribution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Distribuição q-exponencial de Weibull: Uma análise empírica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Equação não linear para difusão anômala: solução exata unificando lei de potência e exponencial alongada"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "q-exponencial distribution in urban agglomeration"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Distribuição q-stretched e classificação da ATP"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "Conmstantino Tsallis", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalization group approach to nonextensive statistical mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "PAULO ROBERTO BORBA PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Variational study of ground state and vortex states of Bose-Einstein condensation in anisotropic traps"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio Pícoli Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Power law in communication systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear Fokker-Planck equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear diffusion equation and fractal dimension: exact generalized gaussian solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "N-dimensional nonlinear Fokker-Planck equation with time-dependent coefficients"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BURATO, T. J.", 
+                    "COMPLETE-NAME": "Tom Jefferson Burato", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Logarithimic diffusion equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "PAULO ROBERTO BORBA PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Variational Study of Ground State and Vortex States of Bose-Einstein Condensation in Anisotropic Traps"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FONTANINNI, S.", 
+                    "COMPLETE-NAME": "S. FONTANINNI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Contribution of the smectic-nematic interface to the surface energy", 
+                "PORTUGUESE-TITLE": "Contribution of the smectic-nematic interface to the surface energy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Propagação e alargamento de pacotes de onda"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C. TSALLIS", 
+                    "ID": "8739431159426389"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "R. O. VALLEJOS", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, A. M.", 
+                    "COMPLETE-NAME": "A. M. MARIZ", 
+                    "ID": "7218040405934056"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Specific heat anomalies associated with Cantor-set energy spectra", 
+                "PORTUGUESE-TITLE": "Specific heat anomalies associated with Cantor-set energy spectra"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Some general relations in arbitrary thermostatistics", 
+                "PORTUGUESE-TITLE": "Some general relations in arbitrary thermostatistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Perturbation and Variational Methods in Nonextensive Tsallis Statistics", 
+                "PORTUGUESE-TITLE": "Perturbation and Variational Methods in Nonextensive Tsallis Statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAJAGOPAL, A. K.", 
+                    "COMPLETE-NAME": "A. K. RAJAGOPAL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Quantum Statistical Mechanics for Nonextensive Systems: Prediction for Possible Experimental Tests", 
+                "PORTUGUESE-TITLE": "Quantum Statistical Mechanics for Nonextensive Systems: Prediction for Possible Experimental Tests"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Quantum corrections for general partition functions", 
+                "PORTUGUESE-TITLE": "Quantum corrections for general partition functions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "R O VALLEJOS", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C TSALLIS", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Connection between energy spectrum, self-similarity, and specific heat log-periodicity", 
+                "PORTUGUESE-TITLE": "Connection between energy spectrum, self-similarity, and specific heat log-periodicity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "RAJAGOPAL, A. K.", 
+                    "COMPLETE-NAME": "A. K. RAJAGOPAL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Quantum statistical mechanics for nonextensive systems", 
+                "PORTUGUESE-TITLE": "Quantum statistical mechanics for nonextensive systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "KWOK, S. F.", 
+                    "COMPLETE-NAME": "S.F. KWOK", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKI, J. N.", 
+                    "COMPLETE-NAME": "J.N. MAKI", 
+                    "ID": "4056898690392973"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Perturbation expansion, Bogoliubov inequality and integral representations in nonextensive Tsallis statistics", 
+                "PORTUGUESE-TITLE": "Perturbation expansion, Bogoliubov inequality and integral representations in nonextensive Tsallis statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Field-theoretical methods and nonextensive systems", 
+                "PORTUGUESE-TITLE": "Field-theoretical methods and nonextensive systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C TSALLIS", 
+                    "ID": "8739431159426389"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PLASTINO, A. R.", 
+                    "COMPLETE-NAME": "A R PLASTINO", 
+                    "ID": "2018832306390171"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The role of constraints within generalized nonextensive statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "C TSALLIS", 
+                    "ID": "8739431159426389"
+                }, 
+                {
+                    "CITATION-NAMES": "BEMSKI, G.", 
+                    "COMPLETE-NAME": "G BEMSKI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Is re-association in folded proteins a case of nonextensivity?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M GOMES", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. F.", 
+                    "COMPLETE-NAME": "R F RIBEIRO", 
+                    "ID": "2935986111710315"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J DA SILVA", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Gauge structure, anomalies, and mass generation in a three-dimensional Thirring model", 
+                "PORTUGUESE-TITLE": "Gauge structure, anomalies, and mass generation in a three-dimensional Thirring model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M GOMES", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "J R S NASCIMENTO", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J DA SILVA", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Attractive forces between electrons in (2+1)-dimensional QED", 
+                "PORTUGUESE-TITLE": "Attractive forces between electrons in (2+1)-dimensional QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M GOMES", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "J R S NASCIMENTO", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J DA SILVA", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "Girotti et al.t/P reply", 
+                "PORTUGUESE-TITLE": "Girotti et al.t/P reply"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRUNELLI, C.", 
+                    "COMPLETE-NAME": "c brunelli", 
+                    "ID": "7936026626837085"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Quantization and 1/N Expansion"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Blackbody radiation in nonextensive Tsallis statistics: Exact solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "BORGES, E. P.", 
+                    "COMPLETE-NAME": "ERNESTO P BORGES", 
+                    "ID": "8552225968161165"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "A <i>q</i> -generalization of Laplace transforms", 
+                "PORTUGUESE-TITLE": "A <i>q</i> -generalization of Laplace transforms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Path integral approach to the nonextensive canonical density matrix", 
+                "PORTUGUESE-TITLE": "Path integral approach to the nonextensive canonical density matrix"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Statistical mechanics based on Renyi entropy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L C MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Regularities in football goal distributions", 
+                "PORTUGUESE-TITLE": "Regularities in football goal distributions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "RAJAGOPAL, A. K.", 
+                    "COMPLETE-NAME": "A. K. RAJAGOPAL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Green functions based on Tsallis nonextensive statistical mechanics: normalized q-expectation value formulation", 
+                "PORTUGUESE-TITLE": "Green functions based on Tsallis nonextensive statistical mechanics: normalized q-expectation value formulation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "I TAMARA PEDRON", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Nonlinear equation for anomalous diffusion:- Unified power-law and stretched exponential exact solution", 
+                "PORTUGUESE-TITLE": "Nonlinear equation for anomalous diffusion:- Unified power-law and stretched exponential exact solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "Kowok Sau Fa", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "PAULO ROBERTO BORBA PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "q-Gaussian trial function and Bose-Einstein condensation", 
+                "PORTUGUESE-TITLE": "q-Gaussian trial function and Bose-Einstein condensation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano Rodrigues da Silva", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Normalized Tsallis entropy and its implications for the nonextensive thermostatistics", 
+                "PORTUGUESE-TITLE": "Normalized Tsallis entropy and its implications for the nonextensive thermostatistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Collisionless Boltzmann equation for systems obeying Tsallis distribution", 
+                "PORTUGUESE-TITLE": "Collisionless Boltzmann equation for systems obeying Tsallis distribution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "Constantino Tsallis", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Renormalization group approach to nonextensive statistical mechanics", 
+                "PORTUGUESE-TITLE": "Renormalization group approach to nonextensive statistical mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "da SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano Rodrigues da Silva", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "Raul O Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "Constantino Tsallis", 
+                    "ID": "8739431159426389"
+                }, 
+                {
+                    "CITATION-NAMES": "ROUX, S.", 
+                    "COMPLETE-NAME": "S Roux", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Specific heat of multifractal energy spectra", 
+                "PORTUGUESE-TITLE": "Specific heat of multifractal energy spectra"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano Rodrigues da Silva", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Remarks on (1&#8722;q) expansion and factorization approximation in the Tsallis nonextensive statistical mechanics", 
+                "PORTUGUESE-TITLE": "Remarks on (1&#8722;q) expansion and factorization approximation in the Tsallis nonextensive statistical mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "da SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano Rodrigues da Silva", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "VALLEJOS, R. O.", 
+                    "COMPLETE-NAME": "Raul O Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Specific heat oscillations in quasi-periodic structures", 
+                "PORTUGUESE-TITLE": "Specific heat oscillations in quasi-periodic structures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Average entropy of a subsystem from its average Tsallis entropy", 
+                "PORTUGUESE-TITLE": "Average entropy of a subsystem from its average Tsallis entropy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Nonlinear anomalous diffusion equation and fractal dimension: Exact generalized Gaussian solution", 
+                "PORTUGUESE-TITLE": "Nonlinear anomalous diffusion equation and fractal dimension: Exact generalized Gaussian solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "N-dimensional nonlinear Fokker-Planck equation with time-dependent coefficients", 
+                "PORTUGUESE-TITLE": "N-dimensional nonlinear Fokker-Planck equation with time-dependent coefficients"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "q-exponential distribution in urban agglomeration", 
+                "PORTUGUESE-TITLE": "q-exponential distribution in urban agglomeration"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "Isabel Tamara Pedron", 
+                    "ID": "7512625230047947"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Anomalous diffusion, nonlinear fractional Fokker-Planck equation and solutions", 
+                "PORTUGUESE-TITLE": "Anomalous diffusion, nonlinear fractional Fokker-Planck equation and solutions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "TSALLIS, C.", 
+                    "COMPLETE-NAME": "Constantino Tsallis", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Crossover in diffusion equation: Anomalous and normal behaviors", 
+                "PORTUGUESE-TITLE": "Crossover in diffusion equation: Anomalous and normal behaviors"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kamins Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano Rodrigues da Silva", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Anomalous diffusion: Fractional Fokker-Planck equation and its solutions", 
+                "PORTUGUESE-TITLE": "Anomalous diffusion: Fractional Fokker-Planck equation and its solutions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, Ervin K", 
+                    "COMPLETE-NAME": "ERVIN K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, G. A.", 
+                    "COMPLETE-NAME": "Gabriel Alves Mendes", 
+                    "ID": "0040137813382875"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Exact solutions to nonlinear nonautonomous space-fractional diffusion equations with absorption", 
+                "PORTUGUESE-TITLE": "Exact solutions to nonlinear nonautonomous space-fractional diffusion equations with absorption"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "Kowok Sau Fa", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Solutions for a fractional nonlinear diffusion equation: Spatial time dependent diffusion coefficient and external forces", 
+                "PORTUGUESE-TITLE": "Solutions for a fractional nonlinear diffusion equation: Spatial time dependent diffusion coefficient and external forces"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "da SILVA, P. C.", 
+                    "COMPLETE-NAME": "Paulo Cesar da Silva", 
+                    "ID": "9835716071996289"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Anomalous diffusion and anisotropic nonlinear Fokker-Planck equation", 
+                "PORTUGUESE-TITLE": "Anomalous diffusion and anisotropic nonlinear Fokker-Planck equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "Kowok Sau Fa", 
+                    "ID": "9635313731595565"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Fractional and nonlinear diffusion equation: additional results", 
+                "PORTUGUESE-TITLE": "Fractional and nonlinear diffusion equation: additional results"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LOPES, C. A.", 
+                    "COMPLETE-NAME": "Carlos Alberto Lopes", 
+                    "ID": "9468541105097852"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Variational methods in nonextensive Tsallis statistics: a comparative study", 
+                "PORTUGUESE-TITLE": "Variational methods in nonextensive Tsallis statistics: a comparative study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, G. A.", 
+                    "COMPLETE-NAME": "Gabriel Alves Mendes", 
+                    "ID": "0040137813382875"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "KENZI, e K", 
+                    "COMPLETE-NAME": "E K KENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L R da", 
+                    "COMPLETE-NAME": "L R DA SILVA", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Anisotropic fractional diffusion equation", 
+                "PORTUGUESE-TITLE": "Anisotropic fractional diffusion equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "J. S. Andrade", 
+                    "COMPLETE-NAME": "J. S. Andrade", 
+                    "ID": "8711030043086711"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "N-dimensional fractional diffusion equation and Green function approach: Spatially dependent diffusion coefficient and external force", 
+                "PORTUGUESE-TITLE": "N-dimensional fractional diffusion equation and Green function approach: Spatially dependent diffusion coefficient and external force"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "FA, K. S.", 
+                    "COMPLETE-NAME": "KWOK SAU FA", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "L. S. Morais", 
+                    "COMPLETE-NAME": "L. S. Morais", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Nonlinear fractional diffusion equation: Exact results", 
+                "PORTUGUESE-TITLE": "Nonlinear fractional diffusion equation: Exact results"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LUCENA, L. S.", 
+                    "COMPLETE-NAME": "Liacir S Lucena", 
+                    "ID": "7151949476055522"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Multidimensional nonlinear diffusion equation: Spatial time dependent diffusion coefficient and external forces", 
+                "PORTUGUESE-TITLE": "Multidimensional nonlinear diffusion equation: Spatial time dependent diffusion coefficient and external forces"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDRON, I. T.", 
+                    "COMPLETE-NAME": "I T PEDRON", 
+                    "ID": "7512625230047947"
+                }, 
+                {
+                    "CITATION-NAMES": "T. J. Buratto", 
+                    "COMPLETE-NAME": "T. J. Buratto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Logarithmic diffusion and porous media equations: A unified description", 
+                "PORTUGUESE-TITLE": "Logarithmic diffusion and porous media equations: A unified description"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "P. C. Assis Jr.", 
+                    "COMPLETE-NAME": "P. C. Assis Jr.", 
+                    "ID": "1991495643298837"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Nonlinear diffusion equation, Tsallis formalism and exact solutions", 
+                "PORTUGUESE-TITLE": "Nonlinear diffusion equation, Tsallis formalism and exact solutions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "PICOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sergio Picoli Junior", 
+                    "ID": "5622855750043675"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Statistical properties of the circulation of magazines and newspapers", 
+                "PORTUGUESE-TITLE": "Statistical properties of the circulation of magazines and newspapers"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "M. F. De Andrade", 
+                    "COMPLETE-NAME": "M. F. De Andrade", 
+                    "ID": "9883010810486169"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Anomalous diffusion and fractional diffusion equation: anisotropic media and external forces", 
+                "PORTUGUESE-TITLE": "Anomalous diffusion and fractional diffusion equation: anisotropic media and external forces"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "G. Gonçalves", 
+                    "COMPLETE-NAME": "G. Gonçalves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "M. K. Lenzi", 
+                    "COMPLETE-NAME": "Marcelo Kaminski Lenzi", 
+                    "ID": "8471869055654497"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, L. R.", 
+                    "COMPLETE-NAME": "L. R. DA SILVA", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Fractional diffusion equation and Green function approach: Exact solutions", 
+                "PORTUGUESE-TITLE": "Fractional diffusion equation and Green function approach: Exact solutions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "U. M. S. Costa", 
+                    "COMPLETE-NAME": "U. M. S. Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "V. N. Freire", 
+                    "COMPLETE-NAME": "V. N. Freire", 
+                    "ID": "8647922327100953"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "PICOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sergio Picoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "E. A. Vasconcelos", 
+                    "COMPLETE-NAME": "E. A. Vasconcelos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "E. F. Da Silva Jr.", 
+                    "COMPLETE-NAME": "E. F. Da Silva Jr.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "An improved description of the dielectric breakdown in oxides based on a generalized Weibull distribution", 
+                "PORTUGUESE-TITLE": "An improved description of the dielectric breakdown in oxides based on a generalized Weibull distribution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ANTENEODO, Celia", 
+                    "COMPLETE-NAME": "Celia Anteneodo", 
+                    "ID": "8739431159426389"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Josiane Cristina", 
+                    "COMPLETE-NAME": "Josiane Cristina Dias", 
+                    "ID": "1195210391043072"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Long-time behavior of spreading solutions of Schrödinger and diffusion equations", 
+                "PORTUGUESE-TITLE": "Long-time behavior of spreading solutions of Schrödinger and diffusion equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PICOLI JUNIOR, Sergio de", 
+                    "COMPLETE-NAME": "Sergio de Picoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Scaling behavior in the dynamics of citations to scientific journals", 
+                "PORTUGUESE-TITLE": "Scaling behavior in the dynamics of citations to scientific journals"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin Kaminski", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "DAL MOLIN, J. P.", 
+                    "COMPLETE-NAME": "João Paulo Dal Molin", 
+                    "ID": "4808730411005067"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "A non-Gaussian model in polymeric network", 
+                "PORTUGUESE-TITLE": "A non-Gaussian model in polymeric network"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIN K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "M. K. Lenzi", 
+                    "COMPLETE-NAME": "Marcelo Kaminski Lenzi", 
+                    "ID": "8471869055654497"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "General solution of the diffusion equation with a nonlocal diffusive term and a linear force term", 
+                "PORTUGUESE-TITLE": "General solution of the diffusion equation with a nonlocal diffusive term and a linear force term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "ANTENEODO, Celia", 
+                    "COMPLETE-NAME": "Celia Anteneodo", 
+                    "ID": "8739431159426389"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Statistics of football dynamics", 
+                "PORTUGUESE-TITLE": "Statistics of football dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "PAPA, A. R. R.", 
+                    "COMPLETE-NAME": "Andres R. R. Papa", 
+                    "ID": "0101519503534885"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Similarities between the dynamics of geomagnetic signal and of heartbeat intervals", 
+                "PORTUGUESE-TITLE": "Similarities between the dynamics of geomagnetic signal and of heartbeat intervals"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SCHOT, Alexandre", 
+                    "COMPLETE-NAME": "Alexandre Schot", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "M. K. Lenzi", 
+                    "COMPLETE-NAME": "Marcelo Kaminski Lenzi", 
+                    "ID": "8471869055654497"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kamins Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Fractional diffusion equation with an absorbent term and a linear external force: Exact solution", 
+                "PORTUGUESE-TITLE": "Fractional diffusion equation with an absorbent term and a linear external force: Exact solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Universal features in the growth dynamics of religious activities", 
+                "PORTUGUESE-TITLE": "Universal features in the growth dynamics of religious activities"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "SATO, F.", 
+                    "COMPLETE-NAME": "Franciele Sato", 
+                    "ID": "7314370428188000"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "PAULO ROBERTO BORBA PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "BENTO, A. C.", 
+                    "COMPLETE-NAME": "Antonio Carlos Bento", 
+                    "ID": "3908553018044145"
+                }, 
+                {
+                    "CITATION-NAMES": "BAESSO, M. L.", 
+                    "COMPLETE-NAME": "Mauro Luciano Baesso", 
+                    "ID": "4676278711005293"
+                }, 
+                {
+                    "CITATION-NAMES": "ASTRATH, N. G. C.", 
+                    "COMPLETE-NAME": "Nelson G. C. Astrath", 
+                    "ID": "5219582653165363"
+                }, 
+                {
+                    "CITATION-NAMES": "SHEN, J.", 
+                    "COMPLETE-NAME": "J. Shen", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Nanoscale surface displacement detection in high absorbing solids by time-resolved thermal mirror", 
+                "PORTUGUESE-TITLE": "Nanoscale surface displacement detection in high absorbing solids by time-resolved thermal mirror"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIM K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, B. F.", 
+                    "COMPLETE-NAME": "Breno F. de Oliveira", 
+                    "ID": "2082288775452202"
+                }, 
+                {
+                    "CITATION-NAMES": "ASTRATH, N. G. C.", 
+                    "COMPLETE-NAME": "Nelson G. C. Astrath", 
+                    "ID": "5219582653165363"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "BAESSO, M. L.", 
+                    "COMPLETE-NAME": "Mauro Luciano Baesso", 
+                    "ID": "4676278711005293"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Fractional approach, quantum statistics, and non-crystalline solids at very low temperatures", 
+                "PORTUGUESE-TITLE": "Fractional approach, quantum statistics, and non-crystalline solids at very low temperatures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BIENZOBAZ, Paula Fernanda", 
+                    "COMPLETE-NAME": "Paula Fernanda Bienzobaz", 
+                    "ID": "9331515260533408"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "ERVIN K LENZI", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "An expansion approach in rubber elasticity", 
+                "PORTUGUESE-TITLE": "An expansion approach in rubber elasticity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "THOMAZ, S. M.", 
+                    "COMPLETE-NAME": "Sidinei M. Thomaz", 
+                    "ID": "1045670347248177"
+                }, 
+                {
+                    "CITATION-NAMES": "AGOSTINHO, A. A.", 
+                    "COMPLETE-NAME": "Angelo A. Agostinho", 
+                    "ID": "8899367535416723"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, L. C.", 
+                    "COMPLETE-NAME": "Luiz C. Gomes", 
+                    "ID": "8293391668117402"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "A unified index to measure ecological diversity and species rarity", 
+                "PORTUGUESE-TITLE": "A unified index to measure ecological diversity and species rarity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SATO, F.", 
+                    "COMPLETE-NAME": "Franciele Sato", 
+                    "ID": "7314370428188000"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "PEDREIRA, P. R. B.", 
+                    "COMPLETE-NAME": "P R B PEDREIRA", 
+                    "ID": "8021334686665437"
+                }, 
+                {
+                    "CITATION-NAMES": "Belancon, M. P.", 
+                    "COMPLETE-NAME": "Belancon, M. P.", 
+                    "ID": "5440773107691592"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "BAESSO, M. L.", 
+                    "COMPLETE-NAME": "Mauro Luciano Baesso", 
+                    "ID": "4676278711005293"
+                }, 
+                {
+                    "CITATION-NAMES": "ASTRATH, N. G. C.", 
+                    "COMPLETE-NAME": "Nelson G. C. Astrath", 
+                    "ID": "5219582653165363"
+                }, 
+                {
+                    "CITATION-NAMES": "SHEN, J.", 
+                    "COMPLETE-NAME": "J. Shen", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Time-resolved thermal mirror method: A theoretical study", 
+                "PORTUGUESE-TITLE": "Time-resolved thermal mirror method: A theoretical study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lenzi, E K", 
+                    "COMPLETE-NAME": "Lenzi, E K", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, M K", 
+                    "COMPLETE-NAME": "Lenzi, M K", 
+                    "ID": "8471869055654497"
+                }, 
+                {
+                    "CITATION-NAMES": "Evangelista, L R", 
+                    "COMPLETE-NAME": "Evangelista, L R", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "Malacarne, L C", 
+                    "COMPLETE-NAME": "Malacarne, L C", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R S", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Solutions for a fractional nonlinear diffusion equation with external force and absorbent term", 
+                "PORTUGUESE-TITLE": "Solutions for a fractional nonlinear diffusion equation with external force and absorbent term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "EVANGELISTA, H. B. A.", 
+                    "COMPLETE-NAME": "Heloisa B. A. Evangelista", 
+                    "ID": "9245093255446130"
+                }, 
+                {
+                    "CITATION-NAMES": "THOMAZ, S. M.", 
+                    "COMPLETE-NAME": "Sidinei M. Thomaz", 
+                    "ID": "1045670347248177"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Generalized entropy indices to measure alpha- and beta-diversities of macrophytes", 
+                "PORTUGUESE-TITLE": "Generalized entropy indices to measure alpha- and beta-diversities of macrophytes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kamins Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, G. A.", 
+                    "COMPLETE-NAME": "Gabriel Alves Mendes", 
+                    "ID": "0040137813382875"
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, L. R.", 
+                    "COMPLETE-NAME": "Luciano R. da Silva", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Symbolic sequences and Tsallis entropy", 
+                "PORTUGUESE-TITLE": "Symbolic sequences and Tsallis entropy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PÍCOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sérgio de Pícoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, R. P. B.", 
+                    "COMPLETE-NAME": "Ricardo Paupitz B. Santos", 
+                    "ID": "5313696806283523"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "q-distributions in complex systems: a brief review", 
+                "PORTUGUESE-TITLE": "q-distributions in complex systems: a brief review"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Souza, R. Teixeira", 
+                    "COMPLETE-NAME": "de Souza, R. Teixeira", 
+                    "ID": "6095448714892816"
+                }, 
+                {
+                    "CITATION-NAMES": "Dias, J.C.", 
+                    "COMPLETE-NAME": "Dias, J.C.", 
+                    "ID": "1195210391043072"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R.S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Evangelista, L.R.", 
+                    "COMPLETE-NAME": "Evangelista, L.R.", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Critical exponents for Freedericskz transition in nematics between concentric cylinders", 
+                "PORTUGUESE-TITLE": "Critical exponents for Fréedericskz transition in nematics between concentric cylinders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Malacarne, Luis C.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Astrath, Nelson G. C.", 
+                    "COMPLETE-NAME": "Astrath, Nelson G. C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pedreira, Paulo R. B.", 
+                    "COMPLETE-NAME": "Pedreira, Paulo R. B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, Renio S.", 
+                    "COMPLETE-NAME": "Mendes, Renio S.", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "Baesso, Mauro L.", 
+                    "COMPLETE-NAME": "Baesso, Mauro L.", 
+                    "ID": "4676278711005293"
+                }, 
+                {
+                    "CITATION-NAMES": "Joshi, Prakash R.", 
+                    "COMPLETE-NAME": "Joshi, Prakash R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bialkowski, Stephen E.", 
+                    "COMPLETE-NAME": "Bialkowski, Stephen E.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Analytical solution for mode-mismatched thermal lens spectroscopy with sample-fluid heat coupling", 
+                "PORTUGUESE-TITLE": "Analytical solution for mode-mismatched thermal lens spectroscopy with sample-fluid heat coupling"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Fa, Kwok Sau", 
+                    "COMPLETE-NAME": "Fa, Kwok Sau", 
+                    "ID": "9635313731595565"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R S", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "A continuous time random walk model with multiple characteristic times", 
+                "PORTUGUESE-TITLE": "A continuous time random walk model with multiple characteristic times"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, P. A.", 
+                    "COMPLETE-NAME": "PERSEU ANGELO SANTORO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamics of tournaments: the soccer case"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Mukai, H.", 
+                    "COMPLETE-NAME": "Mukai, H.", 
+                    "ID": "1857810385456326"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Continuous-time random walk as a guide to fractional Schro?dinger equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, R. P. B.", 
+                    "COMPLETE-NAME": "Ricardo Paupitz B. Santos", 
+                    "ID": "5313696806283523"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Earthquake-like patterns of acoustic emission in crumpled plastic sheets"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, H.", 
+                    "COMPLETE-NAME": "Ribeiro, H.", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Freire, F.", 
+                    "COMPLETE-NAME": "Freire, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Tateishi, A.", 
+                    "COMPLETE-NAME": "Tateishi, A.", 
+                    "ID": "8088163377844616"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E.", 
+                    "COMPLETE-NAME": "Lenzi, E.", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Universal patterns in sound amplitudes of songs and music genres"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Tateishi, A A", 
+                    "COMPLETE-NAME": "Tateishi, A A", 
+                    "ID": "8088163377844616"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E K", 
+                    "COMPLETE-NAME": "Lenzi, E K", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, H V", 
+                    "COMPLETE-NAME": "Ribeiro, H V", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Evangelista, L R", 
+                    "COMPLETE-NAME": "Evangelista, L R", 
+                    "ID": "3821297511662902"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R S", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, L R", 
+                    "COMPLETE-NAME": "da Silva, L R", 
+                    "ID": "5182830756789229"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Solutions for a diffusion equation with a backbone term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo V", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo V", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Souza, Rodolfo T", 
+                    "COMPLETE-NAME": "de Souza, Rodolfo T", 
+                    "ID": "6095448714892816"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, Ervin K", 
+                    "COMPLETE-NAME": "ERVIN K LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Evangelista, Luiz R", 
+                    "COMPLETE-NAME": "Evangelista, Luiz R", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The soundscape dynamics of human agglomeration"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, H.V.", 
+                    "COMPLETE-NAME": "Ribeiro, H.V.", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R.S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E.K.", 
+                    "COMPLETE-NAME": "Lenzi, E.K.", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Belancon, M.P.", 
+                    "COMPLETE-NAME": "Belancon, M.P.", 
+                    "ID": "5440773107691592"
+                }, 
+                {
+                    "CITATION-NAMES": "Malacarne, L.C.", 
+                    "COMPLETE-NAME": "Malacarne, L.C.", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the dynamics of bubbles in boiling water"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, H V", 
+                    "COMPLETE-NAME": "Ribeiro, H V", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E K", 
+                    "COMPLETE-NAME": "Lenzi, E K", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R S", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Santoro, P A", 
+                    "COMPLETE-NAME": "Santoro, P A", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Anomalous diffusion in a symbolic model", 
+                "PORTUGUESE-TITLE": "Anomalous diffusion in a symbolic model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ASTRATH, N. G. C.", 
+                    "COMPLETE-NAME": "Nelson G. C. Astrath", 
+                    "ID": "5219582653165363"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "ZANUTO, V. S.", 
+                    "COMPLETE-NAME": "V. S. Zanuto", 
+                    "ID": "3043938993637001"
+                }, 
+                {
+                    "CITATION-NAMES": "Belancon, M. P.", 
+                    "COMPLETE-NAME": "Belancon, M. P.", 
+                    "ID": "5440773107691592"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BAESSO, M. L.", 
+                    "COMPLETE-NAME": "Mauro Luciano Baesso", 
+                    "ID": "4676278711005293"
+                }, 
+                {
+                    "CITATION-NAMES": "JACINTO, C.", 
+                    "COMPLETE-NAME": "Carlos Jacinto", 
+                    "ID": "5196560719753785"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Finite-size effect on the surface deformation thermal mirror method", 
+                "PORTUGUESE-TITLE": "Finite-size effect on the surface deformation thermal mirror method"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Antonio, F.J.", 
+                    "COMPLETE-NAME": "Antonio, F.J.", 
+                    "ID": "2833172211868473"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R.S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Thomaz, S.M.", 
+                    "COMPLETE-NAME": "Thomaz, S.M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Identifying and modeling patterns of tetrapod vertebrate mortality rates in the Gulf of Mexico oil spill", 
+                "PORTUGUESE-TITLE": "Identifying and modeling patterns of tetrapod vertebrate mortality rates in the Gulf of Mexico oil spill"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PICOLI JUNIOR, Sergio de", 
+                    "COMPLETE-NAME": "Sergio de Picoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "Teixeira, Jorge Juarez Vieira", 
+                    "COMPLETE-NAME": "Teixeira, Jorge Juarez Vieira", 
+                    "ID": "0205072854607226"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo Valentin", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo Valentin", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "Santos, Ricardo Paupitz Barbosa dos", 
+                    "COMPLETE-NAME": "Santos, Ricardo Paupitz Barbosa dos", 
+                    "ID": "5313696806283523"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Spreading Patterns of the Influenza A (H1N1) Pandemic", 
+                "PORTUGUESE-TITLE": "Spreading Patterns of the Influenza A (H1N1) Pandemic"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mantovani, M. C.", 
+                    "COMPLETE-NAME": "Mantovani, M. C.", 
+                    "ID": "4460143905298458"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Moro, M. V.", 
+                    "COMPLETE-NAME": "Moro, M. V.", 
+                    "ID": "0533380768055768"
+                }, 
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Scaling laws and universality in the choice of election candidates", 
+                "PORTUGUESE-TITLE": "Scaling laws and universality in the choice of election candidates"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Tateishi, A.", 
+                    "COMPLETE-NAME": "Tateishi, A.", 
+                    "ID": "8088163377844616"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E.", 
+                    "COMPLETE-NAME": "Lenzi, E.", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, L.", 
+                    "COMPLETE-NAME": "da Silva, L.", 
+                    "ID": "5182830756789229"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, H.", 
+                    "COMPLETE-NAME": "Ribeiro, H.", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Different diffusive regimes, generalized Langevin and diffusion equations", 
+                "PORTUGUESE-TITLE": "Different diffusive regimes, generalized Langevin and diffusion equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo V.", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zunino, Luciano", 
+                    "COMPLETE-NAME": "Zunino, Luciano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, Ervin K.", 
+                    "COMPLETE-NAME": "Lenzi, Ervin K.", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Complexity-entropy causality plane: A useful approach for distinguishing songs", 
+                "PORTUGUESE-TITLE": "Complexity entropy causality plane: A useful approach for distinguishing songs"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "L. C. MALACARNE", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Scale-invariant structure of size fluctuations in plants"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LACZKOWSKI, I. M.", 
+                    "COMPLETE-NAME": "LACZKOWSKI, I. M.", 
+                    "ID": "9125564173199172"
+                }, 
+                {
+                    "CITATION-NAMES": "Mukai, H.", 
+                    "COMPLETE-NAME": "Mukai, H.", 
+                    "ID": "1857810385456326"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERNANDES, P. R. G.", 
+                    "COMPLETE-NAME": "FERNANDES, P. R. G.", 
+                    "ID": "3223135002950210"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, LUIZ ROBERTO", 
+                    "COMPLETE-NAME": "EVANGELISTA, LUIZ ROBERTO", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Anomalous Decay in Short Time Response of Ternary Mixtures with Ferrofluid"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo V.", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zunino, Luciano", 
+                    "COMPLETE-NAME": "Zunino, Luciano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, Ervin K.", 
+                    "COMPLETE-NAME": "Lenzi, Ervin K.", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, PERSEU A.", 
+                    "COMPLETE-NAME": "SANTORO, PERSEU A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, RENIO S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Complexity-Entropy Causality Plane as a Complexity Measure for Two-Dimensional Patterns", 
+                "PORTUGUESE-TITLE": "Complexity-Entropy Causality Plane as a Complexity Measure for Two-Dimensional Patterns"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo V.", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, RENIO S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, Ervin K.", 
+                    "COMPLETE-NAME": "Lenzi, Ervin K.", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "DEL CASTILLO-MUSSOT, MARCELO", 
+                    "COMPLETE-NAME": "DEL CASTILLO-MUSSOT, MARCELO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AMARAL, LUÍS A. N.", 
+                    "COMPLETE-NAME": "AMARAL, LUÍS A. N.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Move-by-Move Dynamics of the Advantage in Chess Matches Reveals Population-Level Learning of the Game", 
+                "PORTUGUESE-TITLE": "Move-by-Move Dynamics of the Advantage in Chess Matches Reveals Population-Level Learning of the Game"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, LUIZ G.A.", 
+                    "COMPLETE-NAME": "ALVES, LUIZ G.A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, Haroldo V.", 
+                    "COMPLETE-NAME": "Ribeiro, Haroldo V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, RENIO S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Scaling laws in the dynamics of crime growth rate", 
+                "PORTUGUESE-TITLE": "Scaling laws in the dynamics of crime growth rate"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "DOS SANTOS, M. A. F.", 
+                    "COMPLETE-NAME": "DOS SANTOS, M. A. F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROSSATO, R.", 
+                    "COMPLETE-NAME": "ROSSATO, R.", 
+                    "ID": "2100296121723581"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Time dependent solutions for a fractional Schro-dinger equation with delta potentials", 
+                "PORTUGUESE-TITLE": "Time dependent solutions for a fractional Schro-dinger equation with delta potentials"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mantovani, M. C.", 
+                    "COMPLETE-NAME": "Mantovani, M. C.", 
+                    "ID": "4460143905298458"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Engagement in the electoral processes: Scaling laws and the role of political positions", 
+                "PORTUGUESE-TITLE": "Engagement in the electoral processes: Scaling laws and the role of political positions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, ERVIN", 
+                    "COMPLETE-NAME": "LENZI, ERVIN", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DOS SANTOS, MAIKE", 
+                    "COMPLETE-NAME": "DOS SANTOS, MAIKE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MICHELS, FLAVIO", 
+                    "COMPLETE-NAME": "MICHELS, FLAVIO", 
+                    "ID": "0153927553411774"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, RENIO", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, LUIZ", 
+                    "COMPLETE-NAME": "EVANGELISTA, LUIZ", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Solutions of Some Nonlinear Diffusion Equations and Generalized Entropy Framework", 
+                "PORTUGUESE-TITLE": "Solutions of Some Nonlinear Diffusion Equations and Generalized Entropy Framework"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GUIMARÃES, R R", 
+                    "COMPLETE-NAME": "GUIMARÃES, R R", 
+                    "ID": "2092973792615484"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R S", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERNANDES, P R G", 
+                    "COMPLETE-NAME": "FERNANDES, P R G", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUKAI, H", 
+                    "COMPLETE-NAME": "MUKAI, H", 
+                    "ID": "1857810385456326"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Annihilation dynamics of stringlike topological defects in a nematic lyotropic liquid crystal", 
+                "PORTUGUESE-TITLE": "Annihilation dynamics of stringlike topological defects in a nematic lyotropic liquid crystal"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "ANTONIO, F. J.", 
+                    "COMPLETE-NAME": "ANTONIO, F. J.", 
+                    "ID": "2833172211868473"
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, L. G. A.", 
+                    "COMPLETE-NAME": "ALVES, L. G. A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Long-range spatial correlations and fluctuation statistics of lightning activity rates in Brazil", 
+                "PORTUGUESE-TITLE": "Long-range spatial correlations and fluctuation statistics of lightning activity rates in Brazil"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "GUIMARÃES, R. R.", 
+                    "COMPLETE-NAME": "GUIMARÃES, R. R.", 
+                    "ID": "2092973792615484"
+                }, 
+                {
+                    "CITATION-NAMES": "TEIXEIRA-SOUZA, R. T.", 
+                    "COMPLETE-NAME": "TEIXEIRA-SOUZA, R. T.", 
+                    "ID": "6095448714892816"
+                }, 
+                {
+                    "CITATION-NAMES": "Mukai, H.", 
+                    "COMPLETE-NAME": "Mukai, H.", 
+                    "ID": "1857810385456326"
+                }, 
+                {
+                    "CITATION-NAMES": "FERNANDES, P. R. G.", 
+                    "COMPLETE-NAME": "FERNANDES, P. R. G.", 
+                    "ID": "3223135002950210"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Antipersistent behavior of defects in a lyotropic liquid crystal during annihilation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, LUIZ G. A.", 
+                    "COMPLETE-NAME": "ALVES, LUIZ G. A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, HAROLDO V.", 
+                    "COMPLETE-NAME": "RIBEIRO, HAROLDO V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, Ervin K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Distance to the Scaling Law: A Useful Approach for Unveiling Relationships between Crime and Urban Metrics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Picoli, S.", 
+                    "COMPLETE-NAME": "Picoli, S.", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "CASTILLO-MUSSOT, M. DEL", 
+                    "COMPLETE-NAME": "CASTILLO-MUSSOT, M. DEL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "E. K. LENZI", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Universal bursty behaviour in human violent conflicts", 
+                "PORTUGUESE-TITLE": "Universal bursty behaviour in human violent conflicts"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, L.G.A.", 
+                    "COMPLETE-NAME": "ALVES, L.G.A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, H.V.", 
+                    "COMPLETE-NAME": "Ribeiro, H.V.", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "Lenzi, E.K.", 
+                    "COMPLETE-NAME": "Lenzi, E.K.", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "Mendes, R.S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Empirical analysis on the connection between power-law distributions and allometries for urban indicators", 
+                "PORTUGUESE-TITLE": "Empirical analysis on the connection between power-law distributions and allometries for urban indicators"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ANTONIO, FERNANDO JOSE", 
+                    "COMPLETE-NAME": "ANTONIO, FERNANDO JOSE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE PICOLI, SERGIO", 
+                    "COMPLETE-NAME": "DE PICOLI, SERGIO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Teixeira, Jorge Juarez Vieira", 
+                    "COMPLETE-NAME": "Teixeira, Jorge Juarez Vieira", 
+                    "ID": "0205072854607226"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Growth Patterns and Scaling Laws Governing AIDS Epidemic in Brazilian Cities", 
+                "PORTUGUESE-TITLE": "Growth Patterns and Scaling Laws Governing AIDS Epidemic in Brazilian Cities"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MENDES, G. A.", 
+                    "COMPLETE-NAME": "MENDES, G. A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, M. S.", 
+                    "COMPLETE-NAME": "RIBEIRO, M. S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "NOBRE, F. D.", 
+                    "COMPLETE-NAME": "NOBRE, F. D.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear Kramers equation associated with nonextensive statistical mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, LUIZ G. A.", 
+                    "COMPLETE-NAME": "ALVES, LUIZ G. A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, HAROLDO V.", 
+                    "COMPLETE-NAME": "RIBEIRO, HAROLDO V.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Scale-Adjusted Metrics for Predicting the Evolution of Urban Indicators and Quantifying the Performance of Cities"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, L.G.A.", 
+                    "COMPLETE-NAME": "ALVES, L.G.A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, H.V.", 
+                    "COMPLETE-NAME": "Ribeiro, H.V.", 
+                    "ID": "4481785491745188"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, M.A.F.", 
+                    "COMPLETE-NAME": "SANTOS, M.A.F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Solutions for a"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, L. G. A.", 
+                    "COMPLETE-NAME": "ALVES, L. G. A.", 
+                    "ID": "4465568770723983"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kaminski Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, H. V.", 
+                    "COMPLETE-NAME": "Haroldo V. Ribeiro", 
+                    "ID": "4481785491745188"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spatial correlations, clustering and percolation-like transitions in homicide crimes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ITAMI, A.S.", 
+                    "COMPLETE-NAME": "ITAMI, A.S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ANTONIO, F. J.", 
+                    "COMPLETE-NAME": "Fernando José Antônio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Very prolonged practice in block of trials: Scaling of fitness, universality and persistence"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, E. S. D.", 
+                    "COMPLETE-NAME": "SANTOS, E. S. D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PICOLI, S.", 
+                    "COMPLETE-NAME": "Sergio de Picoli Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DEPRÁ, P. P.", 
+                    "COMPLETE-NAME": "DEPRÁ, P. P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-Gaussian center-of-pressure velocity distribution during quiet stance"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIBEIRO, H.'V.", 
+                    "COMPLETE-NAME": "RIBEIRO, H.'V.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, L.'S.", 
+                    "COMPLETE-NAME": "COSTA, L.'S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, L.'G.'A.", 
+                    "COMPLETE-NAME": "ALVES, L.'G.'A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, P.'A.", 
+                    "COMPLETE-NAME": "SANTORO, P.'A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PICOLI, S.", 
+                    "COMPLETE-NAME": "Sergio de Picoli Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E.'K.", 
+                    "COMPLETE-NAME": "LENZI, E.'K.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Analogies Between the Cracking Noise of Ethanol-Dampened Charcoal and Earthquakes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PICOLI JUNIOR, S.", 
+                    "COMPLETE-NAME": "Sergio Picoli Junior", 
+                    "ID": "5622855750043675"
+                }, 
+                {
+                    "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": "1048662778515772"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, Luis Carlos", 
+                    "COMPLETE-NAME": "LUIS CARLOS MALACARNE", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "q-exponential, Weibull, and q-Weibull distributions: an empirical analysis", 
+                "PORTUGUESE-TITLE": "q-exponential, Weibull, and q-Weibull distributions: an empirical analysis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mendes, R. S.", 
+                    "COMPLETE-NAME": "Renio dos Santos Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luís Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, E. K.", 
+                    "COMPLETE-NAME": "Ervin Kamins Lenzi", 
+                    "ID": "9644741302334554"
+                }, 
+                {
+                    "CITATION-NAMES": "EVANGELISTA, L. R.", 
+                    "COMPLETE-NAME": "L. R. EVANGELISTA", 
+                    "ID": "3821297511662902"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "7th international conference on nonextensive statistical mechanics - foundations and applications", 
+                "PORTUGUESE-TITLE": "7th international conference on nonextensive statistical mechanics - foundations and applications"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "MENDES, Renio dos Santos;Mendes, R. S.;Mendes, R S;Mendes, R.S.;Malacarne, Luis C.;MENDES, RENIO S.;MENDES, RENIO;MENDES, R.'S.", 
+        "COMPLETE-NAME": "Renio dos Santos Mendes", 
+        "ID": "1048662778515772", 
+        "PHD-BEGGINING": "1988", 
+        "PHD-ENDING": "1994"
+    }
+}

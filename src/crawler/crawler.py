@@ -100,9 +100,14 @@ def solve_captcha(i,location,size,c):
 	
 
 if __name__=='__main__':
-	pages = load("../../resources/coauthors/ViktorDodonov.txt")
+	import os
 	
-	for page in pages:
-		print page
-		go(page)
-
+	d = "../../resources/coauthors/"
+	for f in os.listdir(d):
+	
+		pages = load(d+f)
+		
+		for page in pages:
+			print page
+			go(page)
+	

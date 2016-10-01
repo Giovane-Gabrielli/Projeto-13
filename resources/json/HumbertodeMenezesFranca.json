@@ -1,0 +1,956 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1982", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generalized Langevin Equation for The Extended Charge in Stochastic Electrodynamics. -Invited Paper-"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Electrodynamics with Nonlinear Forces."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Maxwell Electromagnetic Theory, Planck's Radiation Law and Bose- Einstein Statistics. -Invited Paper-"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Vacuum Fluctuations, Radiation Reaction And Sub-Heisenberg States. -Invited Paper-"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High Energy Collisions and The Proton Structure: an Ambiguity."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Recoil Effects in Elastic Electron Scattering."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Eletrodinâmica Estocástica e Eletrodinâmica Quantica em Cavidades. -Palestra Convidada-"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Aspectos Clássicos da Equação de Pauli-Schödinger"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Towards a classical re-interpretation of the Schrödinger equation according to stochastic electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARSHALL, T. W.", 
+                    "COMPLETE-NAME": "T. W. MARSHALL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E. SANTOS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WATSON, E. J.", 
+                    "COMPLETE-NAME": "E. J. WATSON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Possible Interference Effect In The Stern-Gerlach Phenomenon"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARSHALL, T. W.", 
+                    "COMPLETE-NAME": "T. W. MARSHALL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E. SANTOS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spontaneous Emission In Confined Space According To Stochastic Electrodynamics."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BARRANCO, A. V.", 
+                    "COMPLETE-NAME": "A. V. BARRANCO", 
+                    "ID": "5572050278838550"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Einstein-Ehrenfest's Radiation Theory And Compton-Debye's Kinematics."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BLANCO, R.", 
+                    "COMPLETE-NAME": "R. BLANCO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E. SANTOS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical Interpretation Of The Debye Law For The Specific Heat Of Solids."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BARRANCO, A. V.", 
+                    "COMPLETE-NAME": "A. V. BARRANCO", 
+                    "ID": "5572050278838550"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Electrodynamics And The Compton Effect"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BARRANCO, A. V.", 
+                    "COMPLETE-NAME": "A. V. BARRANCO", 
+                    "ID": "5572050278838550"
+                }, 
+                {
+                    "CITATION-NAMES": "BRUNINI, S. A.", 
+                    "COMPLETE-NAME": "S. A. BRUNINI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spin And Paramagnetism In Stochastic Electrodynamics."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARSHALL, T. W.", 
+                    "COMPLETE-NAME": "T. W. MARSHALL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Excited States In Stochastic Electrodynamics."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "THOMAZ, M. T.", 
+                    "COMPLETE-NAME": "M. T. THOMAZ", 
+                    "ID": "8627506263906532"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Erratum:Forced Harmonic Oscillator With Damping And Thermal Effects."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, G. C.", 
+                    "COMPLETE-NAME": "G. C. SANTOS", 
+                    "ID": "9800581085946445"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Extended Charge In Stochastic Electrodynamics."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "THOMAZ, M. T.", 
+                    "COMPLETE-NAME": "M. T. THOMAZ", 
+                    "ID": "8627506263906532"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Forced Harmonic Oscillator With Damping And Thermal Effects."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. SILVA", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Charge Magnetization And Hadronic Matter Densities Inside The Proton."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "HAMA, Y.", 
+                    "COMPLETE-NAME": "Y. HAMA", 
+                    "ID": "0326321170602739"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Energy Dependence Of The Eikonal In Pp Elastic Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "HAMA, Y.", 
+                    "COMPLETE-NAME": "Y. HAMA", 
+                    "ID": "0326321170602739"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Two Component Model For High Energy Collisions."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. SILVA", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Some Aspects Of The Classical Motion Of Extended Charges."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-Heisenberg States of Harmonic Oscillator"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MAIA JR, A.", 
+                    "COMPLETE-NAME": "A  Maia Jr", 
+                    "ID": "1726075817413396"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Maxwell electromagnetic theory, Planck's radiation law on Bose-Einstein statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCO, H.", 
+                    "COMPLETE-NAME": "H  Franco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A stochastic electrodynamics interpretation of spontaneous transitions in the hydrogen atom"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "BLANCO, R.", 
+                    "COMPLETE-NAME": "R Blanco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Casimir Interaction between a microscopic dipole oscillator and a macroscopic solenoid"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, R. B. B.", 
+                    "COMPLETE-NAME": "R B B Santos", 
+                    "ID": "8759782446074023"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Anomalous paramagnetic behavior: the role of zero-point electromagnetic fluctuations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "MAIA JR, A.", 
+                    "COMPLETE-NAME": "A Maia Jr", 
+                    "ID": "1726075817413396"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical aspects of the electromagnetic fluctuations: Considerations related to the Aharonov-Bohm effect"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical Aspects of the Pauli-Schrödinger equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, R. B. B.", 
+                    "COMPLETE-NAME": "R B B Santos", 
+                    "ID": "8759782446074023"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Resonant Paramagnetic Enhancement of the thermal and zero-point Nyquist noise"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "K. Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical re-interpretation of the Schrödinger equation according to Stochastic Electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The role of the zero-point fluctuations in the classical stochastic Schrödinger-like equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SPONCHIADO, R. C.", 
+                    "COMPLETE-NAME": "Rodrigo C. Sponchiado", 
+                    "ID": "0405498579305700"
+                }, 
+                {
+                    "CITATION-NAMES": "BLANCO, R.", 
+                    "COMPLETE-NAME": "R Blanco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Radiative noise in circuits with inductance"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "R. C. Sponchiado", 
+                    "COMPLETE-NAME": "R. C. Sponchiado", 
+                    "ID": "0405498579305700"
+                }, 
+                {
+                    "CITATION-NAMES": "A. J. Faria", 
+                    "COMPLETE-NAME": "A. J. Faria", 
+                    "ID": "2505829792657049"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Radiative noise in circuits with inductance: Poynting vector, radiation emitted by the solenoid and stability of the spectrum"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. J. Faria", 
+                    "COMPLETE-NAME": "A. J. Faria", 
+                    "ID": "2505829792657049"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "C P Malta", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "R. C. Sponchiado", 
+                    "COMPLETE-NAME": "R. C. Sponchiado", 
+                    "ID": "0405498579305700"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Critical assessment of the Schrodinger picture of quantum mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. J. Faria", 
+                    "COMPLETE-NAME": "A. J. Faria", 
+                    "ID": "2505829792657049"
+                }, 
+                {
+                    "CITATION-NAMES": "R. C. Sponchiado", 
+                    "COMPLETE-NAME": "R. C. Sponchiado", 
+                    "ID": "0405498579305700"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Tunneling as a Classical Escape Rate Induced by the Vacuum Zero-Point Radiation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, G. G.", 
+                    "COMPLETE-NAME": "Gerson Gregorio Gomes", 
+                    "ID": "8540929650510471"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Einstein e a danca dos graos de polen"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Faria, A. J.", 
+                    "COMPLETE-NAME": "Faria, A. J.", 
+                    "ID": "2505829792657049"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, G. G.", 
+                    "COMPLETE-NAME": "Gerson Gregorio Gomes", 
+                    "ID": "8540929650510471"
+                }, 
+                {
+                    "CITATION-NAMES": "SPONCHIADO, R. C.", 
+                    "COMPLETE-NAME": "Rodrigo Carvalho Sponchiado", 
+                    "ID": "0405498579305700"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "The Vacuum Electromagnetic Fields and the Schrödinger Equation", 
+                "PORTUGUESE-TITLE": "The Vacuum Electromagnetic Fields and the Schrödinger Equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "França, Humberto M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "The Stern Gerlach Phenomenon According to Classical Electrodynamics", 
+                "PORTUGUESE-TITLE": "The Stern Gerlach Phenomenon According to Classical Electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de la Peña, L.", 
+                    "COMPLETE-NAME": "de la Peña, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valdés-Hernández, A.", 
+                    "COMPLETE-NAME": "Valdés-Hernández, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Cetto, A.M.", 
+                    "COMPLETE-NAME": "Cetto, A.M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Genesis of quantum nonlocality"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "França, H. M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The short distance behavior of the proton electromagnetic structure"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KAMIMURA, A.", 
+                    "COMPLETE-NAME": "Arlindo Kamimura", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BURANI, G. F.", 
+                    "COMPLETE-NAME": "Geraldo Francsisco Burani", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "França, H. M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Economic System Seen As A Living\nSystem: A Lotka-Volterra Framework"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "L. de la Peña", 
+                    "COMPLETE-NAME": "L. de la Peña", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valdés-Hernández, A.", 
+                    "COMPLETE-NAME": "Valdés-Hernández, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Origin and meaning of quantum nonlocality"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCA, H. M.", 
+                    "COMPLETE-NAME": "Humberto de Menezes Franca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KAMIMURA, A.", 
+                    "COMPLETE-NAME": "Arlindo Kamimura", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BARRETO, G. A.", 
+                    "COMPLETE-NAME": "G. A. Barreto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Schrödinger Equation, the Zero-point electromagnetic radiation and the Photoelectric effect"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FRANCA, H. M.;França, H. M.;França, Humberto M.", 
+        "COMPLETE-NAME": "Humberto de Menezes Franca", 
+        "ID": "", 
+        "PHD-BEGGINING": "1976", 
+        "PHD-ENDING": "1979"
+    }
+}

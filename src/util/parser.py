@@ -4,6 +4,7 @@
 import xml.etree.ElementTree as ET
 
 import util
+import os
 
 # main information
 white_list = [u'PRODUCAO']
@@ -18,8 +19,20 @@ gray1 = u'TITULO'
 gray2 = u'ANO'
 gray_list = [gray1,gray2]
 
+SEP = os.path.sep
 
+def fail(p):
+	with open('fail.txt','a+') as f:
+		f.write(p+'\n')
 
+def load_xml(d):
+	
+	files = []
+	
+	for f in os.listdir(d):
+		if f.endswith('.xml'):
+			files.append(f)
+	return files
 
 # parse all the shit
 def parser(file,path):
@@ -37,16 +50,21 @@ def parser(file,path):
 	# SUCH AS ID, NAME AND CITATION NAMES
 	
 	general_info = {}
-	general_info['ID'] = root.get('NUMERO-IDENTIFICADOR').encode('utf-8')
-	info = root.find('DADOS-GERAIS')
-	general_info['COMPLETE-NAME'] = info.get('NOME-COMPLETO').encode('utf-8')
-	name = path + info.get('NOME-COMPLETO').replace(" ","") + ".json"
-	general_info['CITATION-NAMES'] = info.get('NOME-EM-CITACOES-BIBLIOGRAFICAS').encode('utf-8')#.split(",")
+	try:
+		general_info['ID'] = root.get('NUMERO-IDENTIFICADOR').encode('utf-8')
+		info = root.find('DADOS-GERAIS')
+		general_info['COMPLETE-NAME'] = info.get('NOME-COMPLETO').encode('utf-8')
+		name = path + info.get('NOME-COMPLETO').replace(" ","") + ".json"
+		general_info['CITATION-NAMES'] = info.get('NOME-EM-CITACOES-BIBLIOGRAFICAS').encode('utf-8')#.split(",")
+		
+		general_info['PHD-BEGGINING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-INICIO')
+		general_info['PHD-ENDING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-CONCLUSAO')
+		
+		data['GENERAL-INFORMATION'] = general_info
+	except:
+		fail(str(file))
+		return 
 	
-	general_info['PHD-BEGGINING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-INICIO')
-	general_info['PHD-ENDING'] = info.find('FORMACAO-ACADEMICA-TITULACAO').find('DOUTORADO').get('ANO-DE-CONCLUSAO')
-	
-	data['GENERAL-INFORMATION'] = general_info
 	articles_data = []
 	# CONTINUE
 	for child in root:
@@ -62,6 +80,8 @@ def parser(file,path):
 			
 	data['ARTICLES'] = articles_data
 	util.data2json(name,data)
+	
+	return name
 
 # FIND ALL THE AUTHORS, BABY
 def rem(node, t, articles):
@@ -128,7 +148,10 @@ def get_co(input_file):
 			if(current_id):
 				ids.append(current_id)
 	ids = list(set(ids))
-	ids.remove(author_id)
+	try:
+		ids.remove(author_id)
+	except:
+		pass
 	
 	with open(name,'w') as f:
 		for i in ids:
@@ -139,8 +162,15 @@ def get_co(input_file):
 	
 
 def main():
-	#parser('../../resources/xml/curriculo5.xml','../../resources/json/')
-	get_co('../../resources/json/ViktorDodonov.json')
+	d = "../../resources/xml/test/"
+	
+	files =  load_xml("../../resources/xml/test/")
+	
+	for f in files:
+		print f
+		name = parser(d+f,'../../resources/json/')
+		if(name):
+			get_co(name)
 
 if __name__=='__main__':
 	main()

@@ -1,0 +1,566 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Role of symmetry in the geo-effectiveness of interplanetary shocks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Impact angle control of interplanetary shock geoeffectiveness"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "OpenGGCM simulation of the April 24, 2009 interplanetary interaction with Earth's magnetosphere: effects of symmetry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Role of interplanetary shock impact angles in substorm triggering"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Geoeffectiveness of inclined interplanetary shocks: Results of numerical MHD simulations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TSURUTANI, B. T.", 
+                    "COMPLETE-NAME": "Bruce T. Tsurutani", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GJERLOEV, J. W.", 
+                    "COMPLETE-NAME": "Jesper W. Gjerloev", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A study of interplanetary shock geoeffectiveness controlled by impact angles using simulations and observations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ZHOU, X.", 
+                    "COMPLETE-NAME": "Xiaoyan Zhou", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZHOU, X.", 
+                    "COMPLETE-NAME": "Xu-Zhi Zhou", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ANGELOUPOLOS, V.", 
+                    "COMPLETE-NAME": "Vassilis Angeloupolos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Shocked Magnetotail: ARTEMIS observations and MHD simulations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Geomagnetic Activity Triggered by Interplanetary Shocks: Controlling Factors"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, JOACHIM", 
+                    "COMPLETE-NAME": "RAEDER, JOACHIM", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TSURUTANI, B. T.", 
+                    "COMPLETE-NAME": "Bruce T. Tsurutani", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GJERLOEV, J. W.", 
+                    "COMPLETE-NAME": "Jesper W. Gjerloev", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Geomagnetic activity triggered by interplanetary shocks: The shock impact angle as a controlling factor"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LE, G.", 
+                    "COMPLETE-NAME": "Guan Le", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FISCHER, D.", 
+                    "COMPLETE-NAME": "David Fischer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAKAMURA, R.", 
+                    "COMPLETE-NAME": "Rumi Nakamura", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LEIWEBER, H.", 
+                    "COMPLETE-NAME": "Hannes Leiweber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TORBERT, R.", 
+                    "COMPLETE-NAME": "Roy Torbert", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CONTEL, O. L.", 
+                    "COMPLETE-NAME": "Olivier Le Contel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, JOACHIM", 
+                    "COMPLETE-NAME": "RAEDER, JOACHIM", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KEPKO, L.", 
+                    "COMPLETE-NAME": "Larry Kepko", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LUHR, H.", 
+                    "COMPLETE-NAME": "Hermann Luhr", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ANDERSON, B.", 
+                    "COMPLETE-NAME": "Brian Anderson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "STRANGEWAY, R.", 
+                    "COMPLETE-NAME": "Robert Strangeway", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RUSSELL, C.", 
+                    "COMPLETE-NAME": "Christopher Russell", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SLAVIN, J.", 
+                    "COMPLETE-NAME": "James Slavin", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BROMUND, K.", 
+                    "COMPLETE-NAME": "Kenneth Bromund", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PLASCHKE, F.", 
+                    "COMPLETE-NAME": "Ferdinand Plaschke", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAGNES, W.", 
+                    "COMPLETE-NAME": "Werner Magnes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Swarm Observations of Field Aligned Currents during Geomagnetic Storms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZESTA, E.", 
+                    "COMPLETE-NAME": "Eftyhia Zesta", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CONNOR, H. K.", 
+                    "COMPLETE-NAME": "Hyunju K Connor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SUN, Y.", 
+                    "COMPLETE-NAME": "Yi-Jiun Sun", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SUTTON, E.", 
+                    "COMPLETE-NAME": "Eric Sutton", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HUANG, C.", 
+                    "COMPLETE-NAME": "Cheryl Huang", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OBER, D. M.", 
+                    "COMPLETE-NAME": "Daniel M Ober", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DELAY, S.", 
+                    "COMPLETE-NAME": "Susan Delay", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SCHUCK, P. W.", 
+                    "COMPLETE-NAME": "Peter W Schuck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Superposed epoch analysis of storm time response of the ionosphere-thermosphere (IT) system"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D.M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZESTA, E.", 
+                    "COMPLETE-NAME": "Eftyhia Zesta", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SCHUCK, P. W.", 
+                    "COMPLETE-NAME": "Peter W Schuck", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SUTTON, E.", 
+                    "COMPLETE-NAME": "Eric Sutton", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SHI, Y.", 
+                    "COMPLETE-NAME": "Yong Shi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Superposed epoch analysis of the thermosphere global time response to geomagnetic storms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ZHOU, X.", 
+                    "COMPLETE-NAME": "Xiaoyan Zhou", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZHOU, X.", 
+                    "COMPLETE-NAME": "Xu-Zhi Zhou", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ANGELOUPOLOS, V.", 
+                    "COMPLETE-NAME": "Vassilis Angeloupolos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SHI, Q.", 
+                    "COMPLETE-NAME": "Quanqi Shi", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Observations and MHD Simulations for a Shocked Magnetotail"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Oliveira, Denny Mauricio de;Oliveira, D.;OLIVEIRA, D. M.;OLIVEIRA, DENNY M.;OLIVEIRA, D.M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": "8948149876020303"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Uma proposta para o ensino de teoria quântica de campos na graduação: a eletrodinâmica de Maxwell-Chern-Simons como motivação"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Oliveira, D.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionosphere-magnetosphere coupling and field-aligned currents"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, DENNY M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, JOACHIM", 
+                    "COMPLETE-NAME": "RAEDER, JOACHIM", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Impact angle control of interplanetary shock geoeffectiveness: A statistical study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TSURUTANI, B. T.", 
+                    "COMPLETE-NAME": "Bruce T. Tsurutani", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GJERLOEV, J. W.", 
+                    "COMPLETE-NAME": "Jesper W. Gjerloev", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effects of Interplanetary Shock Inclinations on Nightside Auroral Power Intensity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D.M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVEIRA, M.V.D.", 
+                    "COMPLETE-NAME": "SILVEIRA, M.V.D.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Clima espacial e choques interplanetários"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, D. M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAEDER, J.", 
+                    "COMPLETE-NAME": "RAEDER, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Impact angle control of interplanetary shock geoeffectiveness"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Oliveira, Denny Mauricio de;Oliveira, D.;OLIVEIRA, D. M.;OLIVEIRA, DENNY M.;OLIVEIRA, D.M.", 
+                    "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+                    "ID": "8948149876020303"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantização de Sistemas Mecânicos Simples e Leis de Conservação em Teoria Clássica de Campos"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "Oliveira, Denny Mauricio de;Oliveira, D.;OLIVEIRA, D. M.;OLIVEIRA, DENNY M.;OLIVEIRA, D.M.", 
+        "COMPLETE-NAME": "Denny Mauricio de Oliveira", 
+        "ID": "8948149876020303", 
+        "PHD-BEGGINING": "2011", 
+        "PHD-ENDING": "2015"
+    }
+}

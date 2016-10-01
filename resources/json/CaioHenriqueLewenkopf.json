@@ -1,0 +1,3262 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Marcus Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "Furuya, K.", 
+                    "COMPLETE-NAME": "Kyoko Furuya", 
+                    "ID": "9473803818951985"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Particle-spin coupling in a chaotic system: localization-delocalization in the Husimi distribution", 
+                "PORTUGUESE-TITLE": "Particle-spin coupling in a chaotic system: localization-delocalization in the Husimi distribution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }, 
+                {
+                    "CITATION-NAMES": "Marvulle, V.", 
+                    "COMPLETE-NAME": "Valdecir Marvulle", 
+                    "ID": "4326120141922689"
+                }, 
+                {
+                    "CITATION-NAMES": "Pato, M. P.", 
+                    "COMPLETE-NAME": "Maurício Porto Pato", 
+                    "ID": "1285782650534192"
+                }, 
+                {
+                    "CITATION-NAMES": "Wreszinski, W. F.", 
+                    "COMPLETE-NAME": "Walter Wreszinski", 
+                    "ID": "0101175960574194"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Level statistics transitions in the spin-boson model", 
+                "PORTUGUESE-TITLE": "Level statistics transitions in the spin-boson model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Gräf, H.-D.", 
+                    "COMPLETE-NAME": "Gräf, H.-D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Harney, H. L.", 
+                    "COMPLETE-NAME": "Hanns Ludwig Harney", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lengeler, H.", 
+                    "COMPLETE-NAME": "Lengeler, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rangacharyulu, C.", 
+                    "COMPLETE-NAME": "C Rangacharyulu", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, A.", 
+                    "COMPLETE-NAME": "Achim Richter", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Schardt, P.", 
+                    "COMPLETE-NAME": "Peter Schardt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Distribution of eigenmodes in a superconducting stadium billiard with chaotic dynamics", 
+                "PORTUGUESE-TITLE": "Distribution of eigenmodes in a superconducting stadium billiard with chaotic dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Dreute, J.", 
+                    "COMPLETE-NAME": "J Dreute", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Abul-Magd, A.", 
+                    "COMPLETE-NAME": "Adel Abul-Magd", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Aichelin, J.", 
+                    "COMPLETE-NAME": "Jorg Aichelin", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Heinrich, W.", 
+                    "COMPLETE-NAME": "W Heinrich", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Hüfner, J.", 
+                    "COMPLETE-NAME": "Jorg Hüfner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rusch, G.", 
+                    "COMPLETE-NAME": "Rusch, G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wiegel, B.", 
+                    "COMPLETE-NAME": "B Wiegel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Fragmentation of gold projectiles with energies of 200 980 MeV/nucleon. II. Multiplicity distributions and correlations", 
+                "PORTUGUESE-TITLE": "Fragmentation of gold projectiles with energies of 200 980 MeV/nucleon. II. Multiplicity distributions and correlations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Müller, A.", 
+                    "COMPLETE-NAME": "Andreas Müller", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Doron, E.", 
+                    "COMPLETE-NAME": "Eyal Doron", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Microwave scattering in an irregularly shaped cavity: Random-matrix analysis", 
+                "PORTUGUESE-TITLE": "Microwave scattering in an irregularly shaped cavity: Random-matrix analysis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Marcus Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "Furuya, K.", 
+                    "COMPLETE-NAME": "Kyoko Furuya", 
+                    "ID": "9473803818951985"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Chaos in a spin-boson system", 
+                "PORTUGUESE-TITLE": "Chaos in a spin-boson system"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Chaotic scattering: A toy model for the compound nucleus", 
+                "PORTUGUESE-TITLE": "Chaotic scattering: A toy model for the compound nucleus"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Sign correlations in parity-violating compound-nucleus reactions", 
+                "PORTUGUESE-TITLE": "Sign correlations in parity-violating compound-nucleus reactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Müller-Groeling, A.", 
+                    "COMPLETE-NAME": "Axel MüllerGroeling", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "Interacting electrons in mesoscopic rings", 
+                "PORTUGUESE-TITLE": "Interacting electrons in mesoscopic rings"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Wang, Y.", 
+                    "COMPLETE-NAME": "Yang Wang", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Tománek, D.", 
+                    "COMPLETE-NAME": "David Tománek", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bertsch, G.", 
+                    "COMPLETE-NAME": "George Bertsch", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Saito, S.", 
+                    "COMPLETE-NAME": "Susumo Saito", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "Collective electronic excitations and their damping in small metallic clusters", 
+                "PORTUGUESE-TITLE": "Collective electronic excitations and their damping in small metallic clusters"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bulgac, A.", 
+                    "COMPLETE-NAME": "Aurel Bulgac", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "Stable deformations in large metallic clusters", 
+                "PORTUGUESE-TITLE": "Stable deformations in large metallic clusters"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zelevinski, V. G.", 
+                    "COMPLETE-NAME": "Vladimir G Zelevinsky", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "Single and multiple giant resosnances: counterplay of collective and chaotic dynamics", 
+                "PORTUGUESE-TITLE": "Single and multiple giant resonances: counterplay of collective and chaotic dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "New aspects of stochastic phenomena related to nuclear physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pluhar, Z.", 
+                    "COMPLETE-NAME": "Zdenek Pluhar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zuk, J. A.", 
+                    "COMPLETE-NAME": "Joe Zuk", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "Suppression of Weak Localization Due to Magnetic Flux in Few-Channel Ballistic Microstructures", 
+                "PORTUGUESE-TITLE": "Suppression of Weak Localization Due to Magnetic Flux in Few-Channel Ballistic Microstructures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bulgac, A.", 
+                    "COMPLETE-NAME": "Aurel Bulgac", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "Temperature effects in the excitation spectrum of small metallic clusters", 
+                "PORTUGUESE-TITLE": "Temperature effects in the excitation spectrum of small metallic clusters"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pluhar, Z.", 
+                    "COMPLETE-NAME": "Zdenek Pluhar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zuk, J. A.", 
+                    "COMPLETE-NAME": "Joe Zuk", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Wegner, F. J.", 
+                    "COMPLETE-NAME": "Franz J Wegner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "Crossover from Orthogonal to Unitary Symmetry for Ballistic Electron Transport in Chaotic Microstructures", 
+                "PORTUGUESE-TITLE": "Crossover from Orthogonal to Unitary Symmetry for Ballistic Electron Transport in Chaotic Microstructures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alhassid, Y.", 
+                    "COMPLETE-NAME": "Yoram Alhassid", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "Statistical Distributions of Level Widths and Conductance Peaks in Irregularly Shaped Quantum Dots", 
+                "PORTUGUESE-TITLE": "Statistical Distributions of Level Widths and Conductance Peaks in Irregularly Shaped Quantum Dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bulgac, A.", 
+                    "COMPLETE-NAME": "Aurel Bulgac", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Mickrjukov, V.", 
+                    "COMPLETE-NAME": "Vadim Mickrjukov", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "Generalized local approximation to the exchange potential", 
+                "PORTUGUESE-TITLE": "Generalized local approximation to the exchange potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Kusnezov, D.", 
+                    "COMPLETE-NAME": "Dimitri Kusnezov", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "Lévy diffusion and classes of universal parametric correlations", 
+                "PORTUGUESE-TITLE": "Lévy diffusion and classes of universal parametric correlations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bruus, H.", 
+                    "COMPLETE-NAME": "Henrik Bruus", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "Parametric conductance correlation for irregularly shaped quantum dots", 
+                "PORTUGUESE-TITLE": "Parametric conductance correlation for irregularly shaped quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alhassid, Y.", 
+                    "COMPLETE-NAME": "Yoram Alhassid", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Signatures of chaos in the statistical distribution of conductance peaks in quantum dots", 
+                "PORTUGUESE-TITLE": "Signatures of chaos in the statistical distribution of conductance peaks in quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bruus, H.", 
+                    "COMPLETE-NAME": "Henrik Bruus", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Parametric correlation of Coulomb blockade peaks in chaotic quantum dots", 
+                "PORTUGUESE-TITLE": "Parametric correlation of Coulomb blockade peaks in chaotic quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "Universal versus non-universal features in electronic ballistic transport", 
+                "PORTUGUESE-TITLE": "Universal versus non-universal features in electronic ballistic transport"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Ozorio de Almeida, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Ozorio de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Quantum time-delay in chaotic scattering: a semiclassical approach", 
+                "PORTUGUESE-TITLE": "Quantum time-delay in chaotic scattering: a semiclassical approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ozorio de Almeida, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Ozorio de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Semiclassical limit of universal parametric density correlations", 
+                "PORTUGUESE-TITLE": "Semiclassical limit of universal parametric density correlations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "Coulomb Blockade Peak Spacing Fluctuations in Deformable Quantum Dots: A Further Test of Random Matrix Theory", 
+                "PORTUGUESE-TITLE": "Coulomb Blockade Peak Spacing Fluctuations in Deformable Quantum Dots: A Further Test of Random Matrix Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Coulomb-blockade conductance-peak-height fluctuations in quantum dots and the independent-particle model", 
+                "PORTUGUESE-TITLE": "Coulomb-blockade conductance-peak-height fluctuations in quantum dots and the independent-particle model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Goldman, I. D.", 
+                    "COMPLETE-NAME": "Iuda Dawid Goldman", 
+                    "ID": "9212159731490812"
+                }, 
+                {
+                    "CITATION-NAMES": "da Cruz, M. T. F.", 
+                    "COMPLETE-NAME": "Manuel Tiago da Cruz", 
+                    "ID": "2972499869471878"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "One-quasiparticle coupling to a Bohr core", 
+                "PORTUGUESE-TITLE": "One-quasiparticle coupling to a Bohr core"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "Limits of level-spacing fluctuations as a characterization of quantum chaos", 
+                "PORTUGUESE-TITLE": "Limits of level-spacing fluctuations as a characterization of quantum chaos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "dos Santos, E. R.", 
+                    "COMPLETE-NAME": "Edson Ribeiro dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Distribution of the conductance peak height parametric derivatives in the Coulomb-blockade regime", 
+                "PORTUGUESE-TITLE": "Distribution of the conductance peak height parametric derivatives in the Coulomb-blockade regime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Huckestein, B.", 
+                    "COMPLETE-NAME": "Bodo Huckestein", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ketzmerick, R.", 
+                    "COMPLETE-NAME": "Roland Ketzmerick", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Quantum Transport through Ballistic Cavities: Soft vs Hard Quantum Chaos", 
+                "PORTUGUESE-TITLE": "Quantum Transport through Ballistic Cavities: Soft vs Hard Quantum Chaos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "On the semiclassical theory for universal transmission fluctuations in chaotic systems: the importance of unitarity", 
+                "PORTUGUESE-TITLE": "On the semiclassical theory for universal transmission fluctuations in chaotic systems: the importance of unitarity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Schanze, H.", 
+                    "COMPLETE-NAME": "Hendrik Schanze", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Alves, É. R. P.", 
+                    "COMPLETE-NAME": "Érica Renata Alves", 
+                    "ID": "5748331546346504"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stöckmann, H.-J.", 
+                    "COMPLETE-NAME": "Hans-Jürgen Stöckmann", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Transmission fluctuations in chaotic microwave billiards with and without time-reversal symmetry", 
+                "PORTUGUESE-TITLE": "Transmission fluctuations in chaotic microwave billiards with and without time-reversal symmetry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Huckestein, B.", 
+                    "COMPLETE-NAME": "Bodo Huckestein", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ketzmerick, R.", 
+                    "COMPLETE-NAME": "Roland Ketzmerick", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Erratum: Quantum Transport through Ballistic Cavities: Soft vs Hard Quantum Chaos [Phys. Rev. Lett. 84, 5504 (2000)]", 
+                "PORTUGUESE-TITLE": "Erratum: Quantum Transport through Ballistic Cavities: Soft vs Hard Quantum Chaos [Phys. Rev. Lett. 84, 5504 (2000)]"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pluhar, Z.", 
+                    "COMPLETE-NAME": "Zdenek Pluhar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zuk, J. A.", 
+                    "COMPLETE-NAME": "Joe Zuk", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "Suppression of Weak Localization due to Magnetic Flux in Few-Channel Ballistic Microstructures", 
+                "PORTUGUESE-TITLE": "Suppression of Weak Localization due to Magnetic Flux in Few-Channel Ballistic Microstructures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Toscano, F.", 
+                    "COMPLETE-NAME": "Fabricio Toscano", 
+                    "ID": "8520453442492592"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Semiclassical spatial correlations in chaotic wave functions", 
+                "PORTUGUESE-TITLE": "Semiclassical spatial correlations in chaotic wave functions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gefen, Y.", 
+                    "COMPLETE-NAME": "Yuval Gefen", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Orthogonality catastrophe in parametric random matrices", 
+                "PORTUGUESE-TITLE": "Orthogonality catastrophe in parametric random matrices"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Cucchietti, F. M.", 
+                    "COMPLETE-NAME": "Fernando Cucchietti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Measuring the Lyapunov exponent using quantum mechanics", 
+                "PORTUGUESE-TITLE": "Measuring the Lyapunov exponent using quantum mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alves, É. R. P.", 
+                    "COMPLETE-NAME": "Érica Renata Alves", 
+                    "ID": "5748331546346504"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Conductance Fluctuations and Weak Localization in Chaotic Quantum Dots", 
+                "PORTUGUESE-TITLE": "Conductance Fluctuations and Weak Localization in Chaotic Quantum Dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ozorio de Almeida, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Ozorio de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Tomsovic, S.", 
+                    "COMPLETE-NAME": "Steven Tomsovic", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "On resumming periodic orbits in the spectra of integrable systems", 
+                "PORTUGUESE-TITLE": "On resumming periodic orbits in the spectra of integrable systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A model for dephasing in quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Méndez-Sánchez, R. A.", 
+                    "COMPLETE-NAME": "Rafael Méndez-Sánchez", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Kuhl, U.", 
+                    "COMPLETE-NAME": "Ulrich Kuhl", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Barth, M.", 
+                    "COMPLETE-NAME": "Barth, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stöckmann, H.-J.", 
+                    "COMPLETE-NAME": "Hans-Jürgen Stöckmann", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Distribution of Reflection Coefficients in Absorbing Chaotic Microwave Cavities", 
+                "PORTUGUESE-TITLE": "Distribution of Reflection Coefficients in Absorbing Chaotic Microwave Cavities"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Foa Torres, L. E. F.", 
+                    "COMPLETE-NAME": "Luis Foa Torres", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "Coherent versus Sequential Electron Tunneling in Quantum Dots", 
+                "PORTUGUESE-TITLE": "Coherent versus Sequential Electron Tunneling in Quantum Dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Open orbits and the semiclassical dwell time", 
+                "PORTUGUESE-TITLE": "Open orbits and the semiclassical dwell time"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Dias da Silva, L. G. G. V.", 
+                    "COMPLETE-NAME": "Luís Gregório Dias da Silva", 
+                    "ID": "8873706094524180"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Studart, Nelson", 
+                    "COMPLETE-NAME": "Nelson Studart", 
+                    "ID": "0451310772113076"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Orbital magnetic properties of quantum dots: The role of electron-electron interactions", 
+                "PORTUGUESE-TITLE": "Orbital magnetic properties of quantum dots: The role of electron-electron interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Martínez-Mares, M.", 
+                    "COMPLETE-NAME": "Moisés Martínez-Mares", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Statistical fluctuations of pumping and rectification currents in quantum dots", 
+                "PORTUGUESE-TITLE": "Statistical fluctuations of pumping and rectification currents in quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Foa Torres, L. E. F.", 
+                    "COMPLETE-NAME": "Luis Foa Torres", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Conductance fluctuations in Coulomb-blockaded dots: from the sequential theory to a quantum coherent description", 
+                "PORTUGUESE-TITLE": "Conductance fluctuations in Coulomb-blockaded dots: from the sequential theory to a quantum coherent description"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Classical-quantum correspondence for the scattering dwell time", 
+                "PORTUGUESE-TITLE": "Classical-quantum correspondence for the scattering dwell time"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Schanze, H.", 
+                    "COMPLETE-NAME": "Hendrik Schanze", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stöckmann, H.-J.", 
+                    "COMPLETE-NAME": "Hans-Jürgen Stöckmann", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Martínez-Mares, M.", 
+                    "COMPLETE-NAME": "Moisés Martínez-Mares", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Universal transport properties of open microwave cavities with and without time-reversal symmetry", 
+                "PORTUGUESE-TITLE": "Universal transport properties of open microwave cavities with and without time-reversal symmetry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Kondo temperature for a quantum dot in an Aharonov-Bohm ring", 
+                "PORTUGUESE-TITLE": "Kondo temperature for a quantum dot in an Aharonov-Bohm ring"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pinheiro, F. A.", 
+                    "COMPLETE-NAME": "Felipe Pinheiro", 
+                    "ID": "3131518471129590"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Fractal conductance fluctuations in electron billiards: a random matrix approach", 
+                "PORTUGUESE-TITLE": "Fractal conductance fluctuations in electron billiards: a random matrix approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Cucchietti, F. M.", 
+                    "COMPLETE-NAME": "Fernando Cucchietti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Decay of the Loschmidt echo in a time-dependent environment", 
+                "PORTUGUESE-TITLE": "Decay of the Loschmidt echo in a time-dependent environment"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Glazman, L. I.", 
+                    "COMPLETE-NAME": "Leonid Glazman", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "g-factors and discrete energy level velocities in nanoparticles", 
+                "PORTUGUESE-TITLE": "g-factors and discrete energy level velocities in nanoparticles"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Apel, V. M.", 
+                    "COMPLETE-NAME": "Marcelo Apel", 
+                    "ID": "4460790884431460"
+                }, 
+                {
+                    "CITATION-NAMES": "Pinheiro, F. A.", 
+                    "COMPLETE-NAME": "Felipe Pinheiro", 
+                    "ID": "3131518471129590"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Quantum electronic transport: Linear and nonlinear conductance from the Keldysh approach", 
+                "PORTUGUESE-TITLE": "Quantum electronic transport: Linear and nonlinear conductance from the Keldysh approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Spin pumping with quantum dots", 
+                "PORTUGUESE-TITLE": "Spin pumping with quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Castro Neto, A. H.", 
+                    "COMPLETE-NAME": "Antonio Hélio Castro Neto", 
+                    "ID": "8243214711342192"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Numerical studies of conductivity and Fano factor in disordered graphene", 
+                "PORTUGUESE-TITLE": "Numerical studies of conductivity and Fano factor in disordered graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mendoza, M.", 
+                    "COMPLETE-NAME": "Michel Mendoza", 
+                    "ID": "0152878452483878"
+                }, 
+                {
+                    "CITATION-NAMES": "Schulz, P. A.", 
+                    "COMPLETE-NAME": "Peter Schulz", 
+                    "ID": "6073974259027393"
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Fano resonances in the conductance of quantum dots with mixed dynamics", 
+                "PORTUGUESE-TITLE": "Fano resonances in the conductance of quantum dots with mixed dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Castro Neto, A. H.", 
+                    "COMPLETE-NAME": "Antonio Hélio Castro Neto", 
+                    "ID": "8243214711342192"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Conductance quantization and transport gaps in disordered graphene nanoribbons", 
+                "PORTUGUESE-TITLE": "Conductance quantization and transport gaps in disordered graphene nanoribbons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Weidenmüller, H. A.", 
+                    "COMPLETE-NAME": "Hans Arwed Weidenmüller", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "Stochastic versus semiclassical approach to quantum chaotic scattering", 
+                "PORTUGUESE-TITLE": "Stochastic versus semiclassical approach to quantum chaotic scattering"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Pinheiro, F. A.", 
+                    "COMPLETE-NAME": "Felipe Pinheiro", 
+                    "ID": "3131518471129590"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Adiabatic charge pumping through quantum dots in the Coulomb blockade regime", 
+                "PORTUGUESE-TITLE": "Adiabatic charge pumping through quantum dots in the Coulomb blockade regime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Nonlinear Conductance in a Ballistic Aharonov-Bohm Ring", 
+                "PORTUGUESE-TITLE": "Nonlinear Conductance in a Ballistic Aharonov-Bohm Ring"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Disorder and electronic transport in graphene", 
+                "PORTUGUESE-TITLE": "Disorder and electronic transport in graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Carmier, P.", 
+                    "COMPLETE-NAME": "Pierre Carmier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ullmo, Denis", 
+                    "COMPLETE-NAME": "Ullmo, Denis", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Graphene n-p junction in a strong magnetic field: A semiclassical study", 
+                "PORTUGUESE-TITLE": "Graphene n-p junction in a strong magnetic field: A semiclassical study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pereira, A. L.", 
+                    "COMPLETE-NAME": "Ana Luiza Pereira", 
+                    "ID": "5752805089479492"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Correlated random hopping disorder in graphene at high magnetic fields: Landau level broadening and localization properties"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ramos, J. G. G. S.", 
+                    "COMPLETE-NAME": "Jorge Gabriel", 
+                    "ID": "4289978259221930"
+                }, 
+                {
+                    "CITATION-NAMES": "Bazeia, D.", 
+                    "COMPLETE-NAME": "Dionísio Bazeia", 
+                    "ID": "4482175736711280"
+                }, 
+                {
+                    "CITATION-NAMES": "Hussein, M. S.", 
+                    "COMPLETE-NAME": "Mahir Hussein", 
+                    "ID": "9153729894133543"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conductance Peaks in Open Quantum Dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Carmier, P.", 
+                    "COMPLETE-NAME": "Pierre Carmier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ullmo, Denis", 
+                    "COMPLETE-NAME": "Ullmo, Denis", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Semiclassical magnetotransport in graphene n-p junctions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Croy, Alexander", 
+                    "COMPLETE-NAME": "Alex Croy", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Saalmann, U.", 
+                    "COMPLETE-NAME": "Saalmann, Ulf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonadiabatic electron pumping through interacting quantum dots"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Finite-difference method for transport of two-dimensional massless Dirac fermions in a ribbon geometry", 
+                "PORTUGUESE-TITLE": "Finite-difference method for transport of two-dimensional massless Dirac fermions in a ribbon geometry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lima, L. R. F.", 
+                    "COMPLETE-NAME": "Leandro Lima", 
+                    "ID": "8401910985046201"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Pinheiro, F. A.", 
+                    "COMPLETE-NAME": "Felipe Pinheiro", 
+                    "ID": "3131518471129590"
+                }, 
+                {
+                    "CITATION-NAMES": "Capaz, R. B.", 
+                    "COMPLETE-NAME": "Rodrigo Capaz", 
+                    "ID": "2713375538068664"
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Effects of disorder range and electronic energy on the perfect transmission in graphene nanoribbons", 
+                "PORTUGUESE-TITLE": "Effects of disorder range and electronic energy on the perfect transmission in graphene nanoribbons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ramos, J. G. G. S.", 
+                    "COMPLETE-NAME": "Jorge Gabriel", 
+                    "ID": "4289978259221930"
+                }, 
+                {
+                    "CITATION-NAMES": "Barbosa, A. L. R.", 
+                    "COMPLETE-NAME": "Anderson Barbosa", 
+                    "ID": "8767909842015132"
+                }, 
+                {
+                    "CITATION-NAMES": "Bazeia, D.", 
+                    "COMPLETE-NAME": "Dionísio Bazeia", 
+                    "ID": "4482175736711280"
+                }, 
+                {
+                    "CITATION-NAMES": "Hussein, M. S.", 
+                    "COMPLETE-NAME": "Mahir Hussein", 
+                    "ID": "9153729894133543"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Generalized correlation functions for conductance fluctuations and the mesoscopic spin Hall effect", 
+                "PORTUGUESE-TITLE": "Generalized correlation functions for conductance fluctuations and the mesoscopic spin Hall effect"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear electronic transport in nanoscopic devices: nonequilibrium Green s functions versus scattering approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The recursive Green-s function method for graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Hüfner, J.", 
+                    "COMPLETE-NAME": "Jorg Hüfner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C.H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Multiple scattering in random colour fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Carvalho, A. R.", 
+                    "COMPLETE-NAME": "André Ricardo Carvalho", 
+                    "ID": "2783520625871378"
+                }, 
+                {
+                    "CITATION-NAMES": "Warnes, J. H.", 
+                    "COMPLETE-NAME": "Jesus Warnes", 
+                    "ID": "6049214278133044"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Edge magnetization and local density of states in chiral graphene nanoribbons", 
+                "PORTUGUESE-TITLE": "Edge magnetization and local density of states in chiral graphene nanoribbons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda, V. G.", 
+                    "COMPLETE-NAME": "Vladimir Miranda", 
+                    "ID": "5215239800185395"
+                }, 
+                {
+                    "CITATION-NAMES": "Dias da Silva, L. G. G. V.", 
+                    "COMPLETE-NAME": "Luís Gregório Dias da Silva", 
+                    "ID": "8873706094524180"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Disorder-mediated Kondo effect in graphene", 
+                "PORTUGUESE-TITLE": "Disorder-mediated Kondo effect in graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Burgos, R.", 
+                    "COMPLETE-NAME": "Rhonald Burgos", 
+                    "ID": "2336374606450504"
+                }, 
+                {
+                    "CITATION-NAMES": "Warnes, J. H.", 
+                    "COMPLETE-NAME": "Jesus Warnes", 
+                    "ID": "6049214278133044"
+                }, 
+                {
+                    "CITATION-NAMES": "Lima, L. R. F.", 
+                    "COMPLETE-NAME": "Leandro Lima", 
+                    "ID": "8401910985046201"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effects of a random gauge field on the conductivity of graphene sheets with disordered ripples"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ridolfi, E.", 
+                    "COMPLETE-NAME": "Emilia Ridolfi", 
+                    "ID": "0505834016611734"
+                }, 
+                {
+                    "CITATION-NAMES": "Le, D.", 
+                    "COMPLETE-NAME": "Duy Le", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rahman. T. S.", 
+                    "COMPLETE-NAME": "Talat Rahman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A tight-binding model for MoS              monolayers"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Arias, E.", 
+                    "COMPLETE-NAME": "Enrique Arias", 
+                    "ID": "4213143968851274"
+                }, 
+                {
+                    "CITATION-NAMES": "Hernández, A. R.", 
+                    "COMPLETE-NAME": "Alexis Hernández", 
+                    "ID": "4116987223813441"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gauge fields in graphene with nonuniform elastic deformations: A quantum field theory approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MIDTVEDT, DANIEL", 
+                    "COMPLETE-NAME": "Daniel Midtvedt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Croy, Alexander", 
+                    "COMPLETE-NAME": "Alex Croy", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Strain-displacement relations for strain engineering in single-layer 2d materials"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIMA, LEANDRO R. F.", 
+                    "COMPLETE-NAME": "Leandro Lima", 
+                    "ID": "8401910985046201"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Disorder-assisted transmission due to charge puddles in monolayer graphene: Transmission enhancement and local currents", 
+                "PORTUGUESE-TITLE": "Disorder-assisted transmission due to charge puddles in monolayer graphene: Transmission enhancement and local currents"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DUFFY, JOHN", 
+                    "COMPLETE-NAME": "John Duffy", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LAWLOR, JAMES", 
+                    "COMPLETE-NAME": "LAWLOR, JAMES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, Caio", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, MAURO S.", 
+                    "COMPLETE-NAME": "Mauro Fereira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Impurity invisibility in graphene: Symmetry guidelines for the design of efficient sensors", 
+                "PORTUGUESE-TITLE": "Impurity invisibility in graphene: Symmetry guidelines for the design of efficient sensors"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda, V. G.", 
+                    "COMPLETE-NAME": "Vladimir Miranda", 
+                    "ID": "5215239800185395"
+                }, 
+                {
+                    "CITATION-NAMES": "Dias da Silva, Luis G. G. V.", 
+                    "COMPLETE-NAME": "Luis Gregório Dias da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coulomb charging energy of vacancy-induced states in graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Furuya, K.", 
+                    "COMPLETE-NAME": "Kyoko Furuya", 
+                    "ID": "9473803818951985"
+                }, 
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Marcus Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "Husimi distributions of a spin-boson system and the signatures of its classical dynamics", 
+                "PORTUGUESE-TITLE": "Husimi distributions of a spin-boson system and the signatures of its classical dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metallic clusters - Palestra convidada no Symposium on symmetries and chaos in nuclei (Heidelberg, Alemanha)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "New aspects of chaos in nuclei - Palestra convidada na Reunião de Trabalho de Física Nuclear (Serra Negra)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Weak localization in quantum dots - Palestra no Workshop on chaos in complex systems (Seattle, EUA)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Temperature dependence of the plasmon width in metallic clusters - Palestra convidada no Metallic clusters workshop (Trento, Itália)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conductance fluctuations in quantum dots - Comunicação oral no March Meeting (San Jose, EUA)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Statistical theory of effective operators - Painel em Nuclear dynamics at short and long distances (Angra dos Reis)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaotic transport in mesoscopic devices - Palestra no: Research Workshop in Mesoscopic Physics (Trieste, Itália)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bulgac, A.", 
+                    "COMPLETE-NAME": "Aurel Bulgac", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Temperature effects in metallic clusters - Painel em ISSPIC 8 (Copenhague, Dinamarca)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transporte balístico em sistemas mesoscópicos: correções à teoria de partícula independente - Comunicação oral no XX Encontro Nacional de Física da Matéria Condensada"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conductance peak spacing distribution in the Coulomb blockade regime - Palestra convidada em Disorder, Chaos and Interactions in Mesoscopic Physics (Trieste, Itália)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conductance peak spacing fluctuations in the Coulomb blockade regime - Palestra convidada em Quantum Chaos and Mesoscopic Physics (Aspen, EUA)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Measuring the Lyapunov exponent using quantum mechanics - Palestra convidada em Chaos in few and many-body problems (Cuernavaca, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transporte eletrônico em duas, uma e zero dimensões: a nanotecnologia se aproxima de nossos lares - Palestra na IX Semana da Física (UERJ, Rio de Janeiro)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Models for dephasing in quantum dots - Palestra convidada no Workshop on Mechanisms for Decoherence -Ttheory and Applications to Nanotechnology and Quantum Information Science (Austin, EUA)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Current fluctuations of an adiabatic quantum pump - Palestra convidada em Quantum chaos: theory and applications (Cocoyoc, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conductance fluctuations in the voltage probe model for dephasing in quantum dots - Comunicação oral em Chaos, decoherence and quantum entanglement (Ushuaia, Argentina)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coulomb blockade conductance peak fluctuations in quantum dots and the independent particle model - Comunicação oral em VI Latin American Workshop on Nonlinear Phenomena (LAWNP'99) (Huerta Grande, Argentina)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Cucchietti, F. M.", 
+                    "COMPLETE-NAME": "Fernando Cucchietti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Uma proposta para medir o expoente de Lyapunov usando mecânica quântica - Contribuição oral na XXV ENFMC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The fidelity decay in dynamical systems: from exponential to power law - Palestra convidada na IUPAP Conference on Quantum entanglement, complexity and physical basis for quantum computation (Rio de Janeiro)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Almost coherent transport in open and nearly closed quantum dots - Palestra plenária na Reunião Anual da AFA (Huerta Grande, Argentina)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Exponential and power law decay of the fidelity - Palestra convidada no I Encontro do Instituto do Milênio de Informação Quântica (Belo Horizonte)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dephasing in electronic transmission through quantum dots - palestra convidada no PASI on Physics of Information (Búzios, Brasil)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Adiabatic spin pumping - Palestra convidada no simpósio: Quantum Chaos in the 21st Century (Cuernava, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mesoscopic Kondo temperature fluctuations - Palestra convidada no Workshop of quantum systems out of equilibrium (Trieste, Itália)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nanociências: aplicações físicas - Palestra convidada na Semana da Física da UERJ (Rio de Janeiro)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spin pumps using quantum dots - Palestra convidada no Workshop on Quantum structures for quantum information (Castasegna, Suiça)."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Short-time corrections to universal conductance fluctuations - Palestra convidada no workshop Aspects of quantum chaotic scattering (Dresden, Alemanha)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Kondo temperature fluctuations in quantum dots - Palestra convidada no XII CLACSA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spin and charge pumping in quantum dots - Palestra convidada na Australia-Brazil Bio Nano Technology Conference (Brisbane, Austrália)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electronic transport in disordered graphene sheets and nanoribbons- Palestra convidada no XXXII ENFMC (Caxambu)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electronic transport in disordered graphene - Palestra convidada no workshop Physical Properties of Nanoscopic Systems (Rio de Janeiro)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electronic transport and many-body effects in disordered graphene - Palestra convidada no workshop 'Wave transport in the frequency and time domain' (Cuernavaca, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electronic transport in graphene: Insights from the theory of massless Dirac fermions - Palestra convidada no V Leopoldo Garcia-Colin Mexican Meeting (Colegio Nacional, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Spin relaxation by local magnetic moments in disordered graphene - Palestra convidada no Graphene Brazil 2013 (Búzios)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transport of massless electrons under random gauge fields - CIAM workshop"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transport in disordered graphene - Palestra na Universidade Chalmers (Gotemburgo, Suécia)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Trransport of massless electrons under random gauge fields - Palestra convidada no 'Workshop on Nanophysics and Spintronics' (ICT-SAIFR)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Emergence of magnetism in graphene systems, Palestra convidada na XIV Escola Brasileira de Estrutura Eletrônica ? Fortaleza, Ceará"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transporte de elétrons sem massa em campos de calibre aleatórios, Palestra geral convidada, UFMG"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Graphene electronic properties in random magnetic fields: theory and experiments, Palestra convidada na ETH ? Zurique, Suiça"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Emergence of magnetism in graphene systems, Colóquio na Universidade de Ohio ? Athens, EUA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Grafenos e suas propriedades exóticas, Colóquio no Centro Brasileiro de Pesquisas Físicas (CBPF) ? Rio de Janeiro"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Isolantes topológicos: uma revolução no transporte eletrônico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bombeamento (quase) coerente de carga em ponto quântico - Contribuição oral no XXV ENFMC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Nonlinear dynamics in nanoscale systems - XXXVI Escola Latino-Americana de Física (ELAF): Nonlinear dynamics from nm to km"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Teoria de Matrizes Aleatórias - mini-curso de Pós-Graduação ministrado no CBPF"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Tópicos de Mecânica Analítica - Escola de Verão da UFPE"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Transporte eletrônico em sistemas nanoscópicos - I Escola de Física da UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Tutorial: Introdução ao grafeno - Encontro Nacional da Física da Matéria Condensada"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Teoria das Matrizes Aleatórias - noções básicas e aplicações na IV Escola de Computação de Alto Desempenho para Sistemas Complexos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Introduction to quantum electronic transport - School of Nanostructured Materials"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Electronic transport theory, na School on Electronic Structure and Quantum Transport Methods - ICTP-SAIFR"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Masterclass: Quantum electronic transport: from nanoscale conductors to topological insulators - Trinity College (Irlanda)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Tutorial: Mesoscopic Physics - 9th Brazilian Workshop on Semiconductor Physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Propriedades estruturais e eletrônicas de aglomerados metálicos - Palestra na V Escola de Estrutura Eletrônica Jorge André Swieca"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transporte eletrônico em sistemas mesoscópicos - Palestra convidada na Escola de Inverno de Matéria Condensada (UFRJ, Rio de Janeiro)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mini-curso: Electronic transport in molecules - PASI: Electronic properties of complex systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mesoscopic Electronics - Escola de Inverno (Brasília) - Membro do comitê de programa"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Olimpíada Brasileira de Física - Coordenador estadual do Rio de Janeiro"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "11th Brazilian Workshop on Semiconductor Physics - Membro do Comitê Organizador Nacional"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "International Conference on Superlattices, Nanostructures, and Nanodevices - Membro do Comitê de Programa (Cancún, México)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Marcus Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Vallejos, R. O.", 
+                    "COMPLETE-NAME": "Raúl Vallejos", 
+                    "ID": "9142251320645916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Wanderings in classical and quantum chaos: a symposium in honour of Alfredo Ozorio de Almeida's 60th birthday"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Fazzio, A.", 
+                    "COMPLETE-NAME": "Adalberto Fazzio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silva, A. J. R.", 
+                    "COMPLETE-NAME": "Antônio José Roque da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Capaz, R. B.", 
+                    "COMPLETE-NAME": "Rodrigo Capaz", 
+                    "ID": "2713375538068664"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "I Encontro Brasileiro de Eletrônica Molecular (I EBEM) - Coordenador"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "1st LNLS-2 Workshop: Development and Scientific Applications - Coordenador"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Silva, A. J. R.", 
+                    "COMPLETE-NAME": "Antônio José Roque da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "13th Brazilian Workshop on Semiconductor Physics - Membro do comiê de programa"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ozorio de Almeida, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Ozorio de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Saraceno, M.", 
+                    "COMPLETE-NAME": "Marcos Saraceno", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Latin American Winter School on Hamiltonian Systems: Chaos and Quantization (CBPF, Rio de Janeiro) - Membro do comitê organizador"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mariconda, P. R.", 
+                    "COMPLETE-NAME": "Pablo Rubén Mariconda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Zanetic, J.", 
+                    "COMPLETE-NAME": "João Zanetic", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Aproximações entre ciência e sociedade - UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Panorama da Divulgação Científica do Brasil, VII Semana da Biologia, UFF"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Capozzoli, U.", 
+                    "COMPLETE-NAME": "Ulisses Capozzoli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Marques, F.", 
+                    "COMPLETE-NAME": "Fabrício Marques", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Divulgação científica: Uma ponte entre a ciência e o grande público - USP"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ozorio de Almeida, A. M.", 
+                    "COMPLETE-NAME": "Alfredo Ozorio de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Mucciolo, E. R.", 
+                    "COMPLETE-NAME": "Eduardo Mucciolo", 
+                    "ID": "6781935523613102"
+                }, 
+                {
+                    "CITATION-NAMES": "Furuya, K.", 
+                    "COMPLETE-NAME": "Kyoko Furuya", 
+                    "ID": "9473803818951985"
+                }, 
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Marcus Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "Nemes, M. C.", 
+                    "COMPLETE-NAME": "Maria Carolina Nemes", 
+                    "ID": "9125203013352543"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "PRONEX - Sistemas Hamiltonianos: Caos e Quantização"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cooperação Brasil-Argentina (Fundação Vitae) - Efeitos de descoerência em sistemas mesoscópicos - coordenador"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pato, M. P.", 
+                    "COMPLETE-NAME": "Maurício Porto Pato", 
+                    "ID": "1285782650534192"
+                }, 
+                {
+                    "CITATION-NAMES": "Leboeuf, P.", 
+                    "COMPLETE-NAME": "Patricio Leboeuf", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Bogomolny, E.", 
+                    "COMPLETE-NAME": "Evgenii Bogomolny", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Hussein, M. S.", 
+                    "COMPLETE-NAME": "Mahir Hussein", 
+                    "ID": "9153729894133543"
+                }, 
+                {
+                    "CITATION-NAMES": "Bohigas, O.", 
+                    "COMPLETE-NAME": "Oriol Bohigas", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cooperação Brasil-França (CAPES-COFECUB): Mecânica Quântica de Sistemas Complexos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bolsa Cientistas do Nosso Estado (FAPERJ)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bolsa Cientistas do Nosso Estado (FAPERJ)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bolsa Cientistas do Nosso Estado (FAPERJ)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+                    "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+                    "ID": "8567960115058074"
+                }, 
+                {
+                    "CITATION-NAMES": "Pastawski, H. M.", 
+                    "COMPLETE-NAME": "Horacio Pastawski", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cooperação Argentina-Brasil (Antorchas) - Decoherence in Mesoscopic Systems - vice-coordenador"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "Lewenkopf, C. H.;Lewenkopf, Caio H.;Lewenkopf, C H;Lewenkopf, Caio;Lewenkopf, C.;Lewenkopf, C.H.;LEWENKOPF, CAIO H", 
+        "COMPLETE-NAME": "Caio Henrique Lewenkopf", 
+        "ID": "8567960115058074", 
+        "PHD-BEGGINING": "1988", 
+        "PHD-ENDING": "1991"
+    }
+}

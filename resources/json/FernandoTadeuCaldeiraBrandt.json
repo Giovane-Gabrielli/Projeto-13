@@ -1,0 +1,2254 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal forward scattering amplitudes in temporal gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Resummation of Infrared Divergences in the Free-Energy of Spin-two Fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J. B. F.", 
+                    "COMPLETE-NAME": "J. BRANDT FT FRENKEL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WONG, S. M. H.", 
+                    "COMPLETE-NAME": "S.M.H. WONG", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effective Actions For Braaten-Pisarski Resummation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generalized Forward Scattering Amplitudes In Qcd At High Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Barton Expansion And The Path Integral Approach In Thermal Field Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Multiparticle Tree Amplitudes In Scalar Field Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear Couplings And Tree Amplitudes In Gauge Theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High-Temperature QCD And The Classical Boltzmann-Equation In Curved Spacetime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear Electromagnetic Interactions In Thermal QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. P.", 
+                    "COMPLETE-NAME": "A.P. ALMEIDA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal Matter And Radiation In A Gravitational Field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Energy Of The High Temperature Quark - Gluon Plasma"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metric Dependence Of Partition Function At High Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cancellation Of Soft Interactions With Spectators In The Drell-Yan Process"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Color-Dielectric Parameter In 2+1-Dimensional QCD"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared Behavior of 3-Gluon And 4-Gluon Vertices In Yang-Mills Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High Temperature Ln(T) Contributions In Thermal Field Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.", 
+                    "COMPLETE-NAME": "O.J.P. EBOLI", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E.M. GREGORES", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M.B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "P.G. MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S.F. NOVAES", 
+                    "ID": "7924815022468819"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Triple-Vector-Boson Processes In Gamma-Gamma Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear-Interaction Between Electromagnetic-Fields Athigh-Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Graviton Self-Energy In Thermal Quantum-Gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Three-graviton vertex function in thermal quantum gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KRAMER, G.", 
+                    "COMPLETE-NAME": "G. KRAMER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NYEO, S. L.", 
+                    "COMPLETE-NAME": "S.L. NYEO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "W, Z Plus Jet Production At P-Pbar Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KRAMER, G.", 
+                    "COMPLETE-NAME": "G. KRAMER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NYEO, S. L.", 
+                    "COMPLETE-NAME": "S.L. NYEO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Weak Boson Plus Jet Production In 2nd-Order Qcd"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Calculation Of Finite-Temperature Effects In Field-Theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Antiscreening Effects Of Classical Yang-Mills Fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUERRA, A.", 
+                    "COMPLETE-NAME": "A Guerra", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Boltzmann Equation In Scalar Field Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Structure Of The Graviton Selfenergy At Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Soluble Theory Of Massless Scalar Two-Dimensional Qed"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Retarded Green?s functions and forward scattering amplitudes in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General Structure Of The Graviton Selfenergy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Retarded thermal Greens functions and forward scatteringamplitudes at two loops"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Behavior of logarithmic branch cuts in the self-energy of gluonsat finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Finite temperature gluon self-energy in a class of generaltemporal gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SHERRY, T. N.", 
+                    "COMPLETE-NAME": "T. N. Sherry", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetry in 2 + 2 Dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Parity-violating electromagnetic interactions in three-dimensional QED at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "RAO, K.", 
+                    "COMPLETE-NAME": "K. Rao", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Two-loop corrections to the topological mass term in thermal QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Absence of higher order corrections to the non-Abelian topological mass term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Absence of higher order corrections to the non-Abelian Chern-Simons coefficient"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Behavior of the thermal gluon self-energy in the Coulomb gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Derivative Expansion and the Parity Violating Effective Action for Thermal (2+1)-dimensional QED at higher orders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DUNNE, G. V.", 
+                    "COMPLETE-NAME": "G. V. Dunne", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-Abelian thermal large gauge transformations in 2+1 dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Induced parity violating thermal effective action for (2 + 1)-dimensional fermions interacting with anon-Abelian background"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Kronecker delta energy terms in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General structure of the photon self-energy in noncommutative QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal effects in noncommutative U(N) Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }, 
+                {
+                    "CITATION-NAMES": "MEDINA, R.", 
+                    "COMPLETE-NAME": "Ricardo Medina", 
+                    "ID": "8934263630465920"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The open superstring 5-point amplitude revisited"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical transport equation in noncommutative QED at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dispersion relations for the self-energy in noncommutative field theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transport equation and hard thermal loops in noncommutative Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Static Effective Action for non-commutative QED at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }, 
+                {
+                    "CITATION-NAMES": "MELGAR, B. M. C.", 
+                    "COMPLETE-NAME": "Bertha María Cuadros Melgar", 
+                    "ID": "6417216091455652"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal one- and two-graviton Green's functions in the temporal gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The vacuum polarization in two dimensional noncommutative QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHISHTIE, F. A.", 
+                    "COMPLETE-NAME": "Farrukh. A. Chishtie", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The renormalization group improved effective potential in massless models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }, 
+                {
+                    "CITATION-NAMES": "ESPINOSA, O.", 
+                    "COMPLETE-NAME": "Olivier Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Factorization of finite temperature graphs in thermal QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "ESPINOSA, O.", 
+                    "COMPLETE-NAME": "Olivier Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator representation of finite temperature graphs. II."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "ESPINOSA, O.", 
+                    "COMPLETE-NAME": "Olivier Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator representation of finite temperature graphs."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MURAMOTO, C.", 
+                    "COMPLETE-NAME": "Cleber Muramoto", 
+                    "ID": "9773832248290118"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the free energy of noncommutative quantum electrodynamics at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cancellation Of Spectator Interactions In The Drell-Yan And Deep Inelastic Processes."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ELIAS FILHO, M. R.", 
+                    "COMPLETE-NAME": "Manoel Reinaldo Elias Filho", 
+                    "ID": "3251650293404219"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Scalar-graviton interaction in the noncommutative space"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "ESPINOSA, O.", 
+                    "COMPLETE-NAME": "Olivier Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator and cutting rules at finite temperature and chemical potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MEDINA, R.", 
+                    "COMPLETE-NAME": "Ricardo Medina", 
+                    "ID": "8934263630465920"
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Open and Closed Superstring Five-Point Amplitudes at Tree-Level"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Forward scattering amplitudes and the thermal operator representation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MURAMOTO, C.", 
+                    "COMPLETE-NAME": "Cleber Muramoto", 
+                    "ID": "9773832248290118"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermionic contributions to the free energy of noncommutative quantum electrodynamics at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHISHTIE, F. A.", 
+                    "COMPLETE-NAME": "Farrukh. A. Chishtie", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Effective Potential in the Massive /phi^4_4 Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General covariant gauge fixing for massless spin-two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "FRENKEL, J", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Instabilities in thermal gravity with a cosmological constant"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Das, Ashok", 
+                    "COMPLETE-NAME": "Das, Ashok", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal instability in a gravity-like scalar theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "Taylor, J.C.", 
+                    "COMPLETE-NAME": "Taylor, J.C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The long wavelength limit of hard thermal loop effective actions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonquadratic gauge fixing and global gauge invariance in the effective action"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Resummation of infrared divergences in the free energy of spin-two fields", 
+                "PORTUGUESE-TITLE": "Resummation of infrared divergences in the free energy of spin-two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J.C. TAYLOR", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Noise in resistively shunted Josephson junctions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bessa, A.", 
+                    "COMPLETE-NAME": "Bessa, A.", 
+                    "ID": "4650366708697254"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Carvalho, C.", 
+                    "COMPLETE-NAME": "de Carvalho, C.", 
+                    "ID": "1194014265686812"
+                }, 
+                {
+                    "CITATION-NAMES": "Fraga, E.", 
+                    "COMPLETE-NAME": "Fraga, E.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum statistical correlations in thermal field theories: Boundary effective theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bessa, A.", 
+                    "COMPLETE-NAME": "Bessa, A.", 
+                    "ID": "4650366708697254"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "C. A. A. de Carvalho", 
+                    "COMPLETE-NAME": "C. A. A. de Carvalho", 
+                    "ID": "1194014265686812"
+                }, 
+                {
+                    "CITATION-NAMES": "Fraga, E.", 
+                    "COMPLETE-NAME": "Fraga, E.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Pressure of massless hot scalar theory in the boundary effective theory framework"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "McKeon, D.", 
+                    "COMPLETE-NAME": "McKeon, D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Nonquadratic gauge fixing and ghosts for gauge theories on the hypersphere", 
+                "PORTUGUESE-TITLE": "Nonquadratic gauge fixing and ghosts for gauge theories on the hypersphere"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PATRUSHEV, A.", 
+                    "COMPLETE-NAME": "PATRUSHEV, A.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "ELECTRODYNAMICS IN A BACKGROUND CHIRAL FIELD", 
+                "PORTUGUESE-TITLE": "ELECTRODYNAMICS IN A BACKGROUND CHIRAL FIELD"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal effective Lagrangian of static gravitational fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brandt, F. T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Hard Thermal Loops in the n-Dimensional  3 Theory", 
+                "PORTUGUESE-TITLE": "Hard Thermal Loops in the n-Dimensional  3 Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.'T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.'B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.'B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "QED plasma in a background of static gravitational fields", 
+                "PORTUGUESE-TITLE": "QED plasma in a background of static gravitational fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.'T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, R.'B.", 
+                    "COMPLETE-NAME": "FERREIRA, R.'B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "THUORST, J.'F.", 
+                    "COMPLETE-NAME": "THUORST, J.'F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Classical Boltzmann equation and high-temperature QED", 
+                "PORTUGUESE-TITLE": "Classical Boltzmann equation and high-temperature QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.'T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D.'G.'C.", 
+                    "COMPLETE-NAME": "MCKEON, D.'G.'C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Perturbative calculations with the first order form of gauge theories", 
+                "PORTUGUESE-TITLE": "Perturbative calculations with the first order form of gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brandt, F. T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SÁNCHEZ-MONROY, J. A.", 
+                    "COMPLETE-NAME": "SÁNCHEZ-MONROY, J. A.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Induced magnetic moment for a spinless charged particle in the thin-layer approach", 
+                "PORTUGUESE-TITLE": "Induced magnetic moment for a spinless charged particle in the thin-layer approach"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.'T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D.'G.'C.", 
+                    "COMPLETE-NAME": "MCKEON, D.'G.'C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Radiative corrections and the Palatini action", 
+                "PORTUGUESE-TITLE": "Radiative corrections and the Palatini action"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SÁNCHEZ-MONROY, J.A.", 
+                    "COMPLETE-NAME": "SÁNCHEZ-MONROY, J.A.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Dirac equation on a curved surface", 
+                "PORTUGUESE-TITLE": "Dirac equation on a curved surface"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.;Brandt, F. T.;BRANDT, F.'T.;BRANDT, F.T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J. B.", 
+                    "COMPLETE-NAME": "João Bosco de Siqueira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High temperature limit in static backgrounds"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.;Brandt, F. T.;BRANDT, F.'T.;BRANDT, F.T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J. B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J. B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Improved ring approximation for the free energy in thermal scalar field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.;Brandt, F. T.;BRANDT, F.'T.;BRANDT, F.T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J. B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J. B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal loops in static background fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.;Brandt, F. T.;BRANDT, F.'T.;BRANDT, F.T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonanalyticity of the free energy in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "A. Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transport equation for the photon Wigner operator\nin noncommutative QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Calibres não co-variantes na teoria de Yang-Mills a temperatura finita"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MACHADO, F. R.", 
+                    "COMPLETE-NAME": "Fabiano Rabelo Machado", 
+                    "ID": "2019950121438508"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal Forward Scattering Amplitudes in Temporal Gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal Forward Scattering Amplitudes in Temporal Gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The free-energy of spin-two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brandt, F. T.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Static Gravitational Fields at Finite Temperature", 
+                "PORTUGUESE-TITLE": "Static Gravitational Fields at Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "J Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "MCKEON, D. G. C.", 
+                    "COMPLETE-NAME": "D.G.C. MCKEON", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Covarinat gauge fixing for massless spin two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XVI Encontro Nacional de Física de Partículas e Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XXI Encontro Nacional de Física de Partículas e Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XXVI Encontro Nacional de Física de Partículas e Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.", 
+                    "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XII Jorge André Swieca Summer School"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "BRANDT, F.;Brandt, F. T.;BRANDT, F.'T.;BRANDT, F.T.", 
+        "COMPLETE-NAME": "Fernando Tadeu Caldeira Brandt", 
+        "ID": "1905496680025212", 
+        "PHD-BEGGINING": "1984", 
+        "PHD-ENDING": "1986"
+    }
+}

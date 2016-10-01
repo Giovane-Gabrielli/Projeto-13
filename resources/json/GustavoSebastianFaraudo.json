@@ -1,0 +1,458 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Heterogenous photochemistry of ClONO2 adsorbed on ice crystals."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, M.", 
+                    "COMPLETE-NAME": "Marysilvia Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Coutinho, L.H.", 
+                    "COMPLETE-NAME": "Coutinho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAVES DE BRITO, A.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fotodegradation of polymers induced by VUV photons: ionic desorption studies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, M.", 
+                    "COMPLETE-NAME": "Marysilvia Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High-resolution time-of-flight mass spectrometry of polymers using synchrotron radiation in single-bunch mode"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effect of HCl addition and temperature on the heterogeneous chemistry and photochemistry of ClONO2 adsorbed on ice crystals."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Low-cost temperature control from 160 K to ambient temperature using liquid nitrogen evaporation."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHO, R. R.", 
+                    "COMPLETE-NAME": "Roberto Rossa Pinho", 
+                    "ID": "3436280923713085"
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionic desorption in poly(methyl methacrylate) induced by fast electrons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionic desorption from PMMA irradiated with multi-bunch synchrotron radiation in the 21.21-300 eV photon energy range."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "WEIBEL, Daniel Eduardo", 
+                    "COMPLETE-NAME": "Daniel Eduardo Weibel", 
+                    "ID": "2874968687083444"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHO, R. R.", 
+                    "COMPLETE-NAME": "Roberto Rossa Pinho", 
+                    "ID": "3436280923713085"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Irradiação de Polímeros com Feixe de Elétrons: Caracterização de Íons Positivos Através da Técnica de Tempo-De-Vôo."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Site-specific fragmentation in poly(vinyl chloride) (PVC) photoexcited around the Cl 2p edge."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHO, R. R.", 
+                    "COMPLETE-NAME": "Roberto Rossa Pinho", 
+                    "ID": "3436280923713085"
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, M.", 
+                    "COMPLETE-NAME": "Marysilvia Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionic desorption in valence- and core-excited poly(vinyl chloride)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Rocco Duarte Pereira", 
+                    "ID": "4515687356330538"
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Development of a pulsed system for ion desorption studies from polymers irradiated with multi-bunch synchrotron radiation."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "Maria Luiza Miranda Rocco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. C.", 
+                    "COMPLETE-NAME": "Frederico Celestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHO, R. R.", 
+                    "COMPLETE-NAME": "Roberto Rosa Pinho", 
+                    "ID": "3436280923713085"
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, M.", 
+                    "COMPLETE-NAME": "Marysilvia Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionic Desorption in Valence- and Core- Excited Polymers: Poly(vinyl Chloride) and Poly(vinylidene Chloride)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FARENZENA, L. S.", 
+                    "COMPLETE-NAME": "Lucio Sartori Farenzena", 
+                    "ID": "8160153673698979"
+                }, 
+                {
+                    "CITATION-NAMES": "IZA, P.", 
+                    "COMPLETE-NAME": "Peter Iza", 
+                    "ID": "2801534384291167"
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINEZ, R.", 
+                    "COMPLETE-NAME": "Rafael Martinez", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERNANDEZ-LIMA, F. A.", 
+                    "COMPLETE-NAME": "Francisco A. Fernandez-Lima", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SEPERUELO DUARTE, E.", 
+                    "COMPLETE-NAME": "Eduardo Seperuelo Duarte", 
+                    "ID": "1500666653320692"
+                }, 
+                {
+                    "CITATION-NAMES": "PONCIANO, C. R.", 
+                    "COMPLETE-NAME": "Cassia Ribeiro PONCIANO", 
+                    "ID": "6412844524894201"
+                }, 
+                {
+                    "CITATION-NAMES": "HOMEM, M. G. P.", 
+                    "COMPLETE-NAME": "Manoel Gustavo Petrucelli Homem", 
+                    "ID": "2059356773212608"
+                }, 
+                {
+                    "CITATION-NAMES": "de SILVEIRA E. F.", 
+                    "COMPLETE-NAME": "Enio Frota de Silveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WIEN, K.", 
+                    "COMPLETE-NAME": "K. WIEN", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAVES DE BRITO, A.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FARAUDO, G. S.", 
+                    "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electronic Sputtering Analysis of Astrophysical Ices"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FARAUDO, G. S.", 
+        "COMPLETE-NAME": "Gustavo Sebastian Faraudo", 
+        "ID": "8397853381596636", 
+        "PHD-BEGGINING": "1999", 
+        "PHD-ENDING": "2004"
+    }
+}

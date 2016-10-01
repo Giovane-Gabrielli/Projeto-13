@@ -1,0 +1,3259 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "E J Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M Baranger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K T R Davies", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Genealogy Of Periodic Trajectories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Period N-Upling Bifurcations In Two Degrees Of Freedom"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A M O de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Signature Of A Period-Doubling Bifurcation Of A Periodic Orbit"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Singularity Structure Of The Hopf Bifurcation Surface Of A Differential Equation With Two Delays"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaos In Multi-Looped Negative Feedback Systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Efeito Quantico de Bifurcacao de Duplicacao de Periodo de Orbita Classica "
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Delay Induced Transient In A Two-Neuron Network"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANDERSON, E. A.", 
+                    "COMPLETE-NAME": "E A Sanderson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1973", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hartree-Fock calculations plus 2nd order corrections using the modified Sussex interaction"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Delay effect in Cooperative Neural networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "ARINO, O.", 
+                    "COMPLETE-NAME": "O Arino", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Oscillations in continuous-time graded-response neuron networks with delay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastability for delay differential equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastability in delay differential equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Applying the approximate entropy for detecting complexity/regularity in time series"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modelling with delay equations: criterium for convergence of a chaotic solution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "L Diambra", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "J C BASTOS DE FIGUEIREDO", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear tools for detecting complexity/regularity in a time series"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. P. B. Tufaile", 
+                    "COMPLETE-NAME": "Adriana P. B. Tufaile", 
+                    "ID": "7866377101423210"
+                }, 
+                {
+                    "CITATION-NAMES": "M. P. Pato", 
+                    "COMPLETE-NAME": "Mauricio Porto Pato", 
+                    "ID": "1285782650534192"
+                }, 
+                {
+                    "CITATION-NAMES": "M. S. Hussein", 
+                    "COMPLETE-NAME": "Mahir S. Hussein", 
+                    "ID": "9153729894133543"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effect of symmetry breaking on level curvature distributions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Towards a classical re-interpretation of the Schroedinger equation according to Stochastic Electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Computational model for the heart-beat time interval series during meditation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "Galvao", 
+                    "COMPLETE-NAME": "D S Galvao", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mechanical Properties of nanowires and nanosprings"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modelo deterministico, nao linear, com dependencia do passado"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Kirchhoff rods with nonhomogeneous cross section"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Insights from a biophysical model about the effects of metronomized breathing"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "CONTRERAS, P.", 
+                    "COMPLETE-NAME": "P. Contreras", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIGLIARO, E. R.", 
+                    "COMPLETE-NAME": "E. R. Migliaro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Crosscorrelation of heartbeat and respiration rhythms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PINTO, R. D.", 
+                    "COMPLETE-NAME": "Reynaldo Daniel Pinto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOMBACH, J. C.", 
+                    "COMPLETE-NAME": "Jose Carlos Mombach", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, H.", 
+                    "COMPLETE-NAME": "Henrique Lenzi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROMANHA, W. S.", 
+                    "COMPLETE-NAME": "Waldemiro de Souza Romanha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PELAJO-MACHADO, M.", 
+                    "COMPLETE-NAME": "Marcelo Pelajo-Machado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minicurso de Modelagem em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "Emerson Jose Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "SAUER, P. U.", 
+                    "COMPLETE-NAME": "Peter U. Sauer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Variations of BHF and RBHF energy functionals"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. R.", 
+                    "COMPLETE-NAME": "Cesar Rogerio de Oliveira", 
+                    "ID": "5485204156806697"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "How universal is the period-doubling phenomenon in equations with quadratic nolinearity ?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "Emerson Jose Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M Baranger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K. T. R. DAVIES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The genealogy of periodic trajectories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A. M. O. DE ALMEIDA", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum signature of a periodic orbit family in a Hamiltonian system"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effects of sequence-dependent elastic properties in tandemly repeated DNA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "Galvao", 
+                    "COMPLETE-NAME": "D S Galvao", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Elastic Properties of Normal and Binormal Helical Nanowire"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A M O de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Signature Of A Period-Doubling Bifurcation And Scars Of Periodic Orbits"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C. G. RAGAZZO", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Singularity Structure Of The Hopf Bifurcation Surface Of A Differential Equation With Two Delays"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C. G. RAGAZZO", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bifurcation Structure Of Scalar Differential Delayed Equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GLASS, L.", 
+                    "COMPLETE-NAME": "L. GLASS", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaos In Multi-Looped Negative Feedback Systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Floating Bubbles In One-Parameter Hamiltonian Systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A. M. O. DE ALMEIDA", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Signature Of A Periodic Orbit Family In A Hamiltonian System"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. F. PEREZ", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Using The Variational Principle To Prove The Existence Of Bound States : A Remark"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M. A. M. DE AGUIAR", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Isochronous And Period-Doubling Bifurcations Of Periodic Solutions Of Non-Integrable Hamiltonian Systems With Reflexion Symmetries"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. R.", 
+                    "COMPLETE-NAME": "Cesar Rogerio de Oliveira", 
+                    "ID": "5485204156806697"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Period-Doubling Phenomenon In A Class Of Time-Delay Equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M. BARANGER", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K. T. R. DAVIES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bifurcation Of Periodic Solutions Of Non-Integrable Hamiltonians With Two Degrees Of Freedom: Numerical And Analytical Results."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. F. PEREZ", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Lower Bound For The Ground-State Energy Of Many Particles Moving In One Dimension"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M. A. M. DE AGUIAR", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Time Dependent Variational Description Of One-Dimensional Inelastic Scattering"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. FERNANDO Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On Some General Properties Of The Point Spectrum Of Three Particles Moving In One Dimension"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. R.", 
+                    "COMPLETE-NAME": "C. R. DE OLIVEIRA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Action-Angle Variables For The Harmonic Oscillator: Ambiguity Spin X Duplication Spin."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. FERNANDO Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Sufficient Conditions For The Existence Of A Bound State In The N-Bodyproblem"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. FERNANDO Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On The Existence Of Bound States Of N-Particle System In One And Two Dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J. FERNANDO Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F. A. B. COUTINHO", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Qualitative Analysis Of Oscillations In Isolated Populations Of Flies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The One-Boson Exchange Potential And The Shell-Model Spectra Of Mass- 18 Nuclei."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANDERSON, A.", 
+                    "COMPLETE-NAME": "A. SANDERSON", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1974", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hartree-Fock Calculations Using Sussex Matrix Elements"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MAIA, A.", 
+                    "COMPLETE-NAME": "A Maia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Maxwell Electromagnetic Theory, Planck'S Radiation Law And Bose-Einstein Statistics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effect Of The Delay On The Boundary Of The Basin Of Attraction In A Self Excited Single Graded-Response Neuron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "ARINO, O.", 
+                    "COMPLETE-NAME": "O Arino", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Oscillations In Continuous Time Cooperative Ring Neural Networks With Delay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARSHALL, T. S.", 
+                    "COMPLETE-NAME": "T S MARSHALL", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, E.", 
+                    "COMPLETE-NAME": "E SANTOS", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Wigner Density Of A Rigid Rotator"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCO, H.", 
+                    "COMPLETE-NAME": "H Franco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Stochastic Electrodynamics Interpretation Of Spontaneous Transitions In Hydrogen Atom"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Note On Convergence Under Dynamical Thresholds With Delays"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "ARINO, O.", 
+                    "COMPLETE-NAME": "O Arino", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effect Of Delay On The Boundary Of The Basin Of Attraction In A System Of Two Neurons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Two Important Numbers In The Hénon-Heiles Dynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lyapunov Graph For 2-Parameters Map: Application To The Circle Map"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transient Regime Duration In A Continuous-Time Neural Networks With Delay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical Aspects Of The Pauli-Schroedinger Equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear Models For Detecting Epileptic Spikes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Epileptic activity recognition in EEG recording"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "COON, S. A.", 
+                    "COMPLETE-NAME": "Sidney A Coon", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MCCARTHY, R. J.", 
+                    "COMPLETE-NAME": "Robert J McCarthy", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A three-nucleon force and A=18 shell-model spectra"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GLOECKLE, W.", 
+                    "COMPLETE-NAME": "W Gloeckle", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Playing with the collective state"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F A B Coutinho", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J Fernando Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Qualitative features of the spectrum of one-dimensional three-body system"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J Fernando Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F A B Coutinho", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Erratum: On some general properties of the point spectrum of three-particles moving in one dimension"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KRMPOTIC, F.", 
+                    "COMPLETE-NAME": "F Krmpotic", 
+                    "ID": "0739265079239996"
+                }, 
+                {
+                    "CITATION-NAMES": "NAKAYAMA, K.", 
+                    "COMPLETE-NAME": "K Nakayama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLEMT, V.", 
+                    "COMPLETE-NAME": "V Klemt", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Particle-hole random-phase-approximation with good isospin"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J Fernando Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F A B Coutinho", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bound-states of N-particles: a variational approah"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J Fernando Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F A B Coutinho", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Logarithmic corrections to the uncertainty principle and infinitude of the number of bound states of N-particle systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M Baranger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K T R Davies", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "E J Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Periodic trajectories of non-integrable two-dimensional Hamiltonians"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastability for delayed differential equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Asymptotic behavior of irreducible excitatory networks of analog graded-response neurons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "M L S Teles", 
+                    "COMPLETE-NAME": "M. L. S. Teles", 
+                    "ID": "1687372204548986"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear delay differential equation: comparison of integration methods"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Dechoum", 
+                    "COMPLETE-NAME": "K. Dechoum", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The role of the zero-point fluctuations in the classical stochastic Schroedinger-like equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "L Diambra", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "FERNÁNDEZ, J.", 
+                    "COMPLETE-NAME": "J Fernández", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear structures in electroencephalogram signals"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "GLASS, L.", 
+                    "COMPLETE-NAME": "L. GLASS", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaos in two-looped negative feedback systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "M. S. Hussein", 
+                    "COMPLETE-NAME": "Mahir S. Hussein", 
+                    "ID": "9153729894133543"
+                }, 
+                {
+                    "CITATION-NAMES": "M. P. Pato", 
+                    "COMPLETE-NAME": "Mauricio Porto Pato", 
+                    "ID": "1285782650534192"
+                }, 
+                {
+                    "CITATION-NAMES": "A. P. B. Tufaile", 
+                    "COMPLETE-NAME": "Adriana P. B. Tufaile", 
+                    "ID": "7866377101423210"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effect of symmetry breaking on level curvature distributions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comment on \"Dynamics of some neural network models with delay\""
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "R. C. Sponchiado", 
+                    "COMPLETE-NAME": "Rodrigo C. Sponchiado", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "A. J. Faria", 
+                    "COMPLETE-NAME": "Alencar Jose de Faria", 
+                    "ID": "2505829792657049"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Critical assessment of the Schroedinger picture of quantum mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Model for the heart beat-to-beat time series during meditation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Noise autocorrelation and jamming avoidance performance in pulse type electric fish"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Resonant helical deformations in nonhomogeneous Kirchhoff filaments"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "L Diambra", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Model for the respiratory modulationof the heart beat-to-beat time reversal series"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "L Diambra", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MIGLIARO, E. R.", 
+                    "COMPLETE-NAME": "E. R. Migliaro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "CONTRERAS, P.", 
+                    "COMPLETE-NAME": "P. Contreras", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cross-correlation of heart and respiration rhythms"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "GALVAO, D. S.", 
+                    "COMPLETE-NAME": "Douglas S. Galvao", 
+                    "ID": "9138028556380501"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Elastic properties of nanowires"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "GALVAO, D. S.", 
+                    "COMPLETE-NAME": "Douglas S. Galvao", 
+                    "ID": "9138028556380501"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mechanical properties of amorphous nanosprings"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "CONTRERAS, P.", 
+                    "COMPLETE-NAME": "P. Contreras", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIGLIARO, E. R.", 
+                    "COMPLETE-NAME": "E. R. Migliaro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Respiratory modulation of heart beat-to-beat interval in diabetic patients"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alexandre F. Fonseca", 
+                    "COMPLETE-NAME": "Alexandre F. Fonseca", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "GALVAO, D. S.", 
+                    "COMPLETE-NAME": "Douglas S. Galvao", 
+                    "ID": "9138028556380501"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Is it possible to grow amorphous normal nanospring ?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Long-term oscillations in the sleep/wake cycle of infants"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Grotta-Ragazzo, C.", 
+                    "COMPLETE-NAME": "Grotta-Ragazzo, C.", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastable Periodic Patterns in Singularly Perturbed Delayed Equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Figueiredo, Julio Cesar Bastos", 
+                    "COMPLETE-NAME": "de Figueiredo, Julio Cesar Bastos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Malta, Coraci Pereira", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Convergence Criterium of Numerical Chaotic Solutions Based on Statistical Measures", 
+                "PORTUGUESE-TITLE": "Convergence Criterium of Numerical Chaotic Solutions Based on Statistical Measures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Diambra, Luis", 
+                    "COMPLETE-NAME": "Diambra, Luis", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "Malta, Coraci P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modeling the Emergence of Circadian Rhythms in a Clock Neuron Network"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PELLEGRIN, XAVIER", 
+                    "COMPLETE-NAME": "PELLEGRIN, XAVIER", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "Grotta-Ragazzo, C.", 
+                    "COMPLETE-NAME": "Grotta-Ragazzo, C.", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastable periodic patterns in singularly perturbed state-dependent delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "ARINO, O.", 
+                    "COMPLETE-NAME": "O Arino", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "VIBERT, J. F.", 
+                    "COMPLETE-NAME": "J F VIBERT", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Oscillations in continuous-time graded response neural networks with delay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DECHOUM, K.", 
+                    "COMPLETE-NAME": "Kaled Dechoum", 
+                    "ID": "6371765252952688"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANÇA, H. M.", 
+                    "COMPLETE-NAME": "H M FRANÇA", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Towards a classical re-interpretation of the Schroedinger equation according to stochastic electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "COUTINHO, F. A. B.", 
+                    "COMPLETE-NAME": "F A B Coutinho", 
+                    "ID": "2081306887051760"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, J. F.", 
+                    "COMPLETE-NAME": "J Fernando Perez", 
+                    "ID": "6338093724217559"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fundamentos da Fisica Moderna"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "4804300167674691"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastable Periodic Patterns in singularly perturbed delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "E J Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "SAUER, P. U.", 
+                    "COMPLETE-NAME": "Peter U. Sauer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Variations of BHF and RBHF energy functionals"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. R.", 
+                    "COMPLETE-NAME": "Cesar Rogerio de Oliveira", 
+                    "ID": "5485204156806697"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "How universal is the period-doubling phenomenon in equations with quadratic non-linearity ?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. R.", 
+                    "COMPLETE-NAME": "Cesar Rogerio de Oliveira", 
+                    "ID": "5485204156806697"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Period-doubling bifurcations in time delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "Emerson Jose Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M Baranger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K T R Davies", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A genealogia das trajetorias periodicas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E. J. V.", 
+                    "COMPLETE-NAME": "Emerson Jose Veloso de Passos", 
+                    "ID": "6194513214617495"
+                }, 
+                {
+                    "CITATION-NAMES": "BARANGER, M.", 
+                    "COMPLETE-NAME": "M Baranger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAVIES, K. T. R.", 
+                    "COMPLETE-NAME": "K T R Davies", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The genealogy of Periodic trajectories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bifurcation estructure of delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A M O de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum signature of a period-doubling bifurcationand scars of periodic orbits"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A. M. O.", 
+                    "COMPLETE-NAME": "A M O de Almeida", 
+                    "ID": "9086942443411513"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum signature of a period-doubling bifurcation and scars of periodic orbits"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bifurcations and singularity structure of scalar differential delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Entropia aproximada para analisar complexidade de series temporais"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FIGUEIREDO, J. C. B.", 
+                    "COMPLETE-NAME": "Julio Cesar Bastos de Figueiredo", 
+                    "ID": "0259183104678819"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Convergence of numerical solutions of differential equations with delay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GLASS, L.", 
+                    "COMPLETE-NAME": "L. GLASS", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chaos in multi-looped negative feedback systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Computational model for the heartbeat time interval series during meditation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Biomatematica: uma visao geral e perspectivas profissionais"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modelling Biological Systems with delay differential equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Helmholtz: sensacoes sonoras e a Teoria da Musica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAMBRA, L.", 
+                    "COMPLETE-NAME": "Luis Diambra", 
+                    "ID": "4068680566185841"
+                }, 
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Constructing the average natural history of HIV-1 infection"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Long transients for delay differential equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PELLEGRIN, X.", 
+                    "COMPLETE-NAME": "Xavier Pellegrin", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PAKDAMAN, K.", 
+                    "COMPLETE-NAME": "K Pakdaman", 
+                    "ID": "8130639478752607"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metastable periodic patterns in singularly perturbed state dependent delayed equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERREIRA, L. G.", 
+                    "COMPLETE-NAME": "Luiz Guimaraes Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1982", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Exercicios Fisica Basica resolvidos numericamente"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERREIRA, L. G.", 
+                    "COMPLETE-NAME": "Luiz Guimaraes Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KINOSHITA, D. L.", 
+                    "COMPLETE-NAME": "Dina Lida Kinoshita", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Experiencias Simuladas no Computador"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica 3 para IME, IQ e IG"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica 4 para IME, IQ e IG"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Laboratorio de Fisica 2 para IME"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Laboratorio de Fisica 3 para IME"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PIZA, A. F. R. T.", 
+                    "COMPLETE-NAME": "Antonio Fernando Ribeiro de Toledo Piza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica 1 para alunos do IF"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PIZA, A. F. R. T.", 
+                    "COMPLETE-NAME": "Antonio Fernando Ribeiro de Toledo Piza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica 2 para alunos do IF"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estrutura Nuclear, pos-graduacao"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Laboratorio de Fisica 3 para alunos do IQ"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Laboratorio de Fisica 4 para alunos do IQ"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "STRUCHINER, C. S.", 
+                    "COMPLETE-NAME": "Claudio S. Struchiner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUERRINI, I. A.", 
+                    "COMPLETE-NAME": "Ivan Amaral Guerrini", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BEVILACQUA, L.", 
+                    "COMPLETE-NAME": "Luiz Bevilacqua", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modelagem em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PINTO, R. D.", 
+                    "COMPLETE-NAME": "Reynaldo Daniel Pinto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOMBACH, J. C.", 
+                    "COMPLETE-NAME": "Jose Carlos Mombach", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, H.", 
+                    "COMPLETE-NAME": "Henrique Lenzi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROMANHA, W. S.", 
+                    "COMPLETE-NAME": "Waldemiro de Souza Romanha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PELAJO-MACHADO, M.", 
+                    "COMPLETE-NAME": "Marcelo Pelajo-Machado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Notas em Matematica Aplicada, Volume 13"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BEVILACQUA, J. S.", 
+                    "COMPLETE-NAME": "Joyce da Silva Bevilacqua", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MASSAD, E.", 
+                    "COMPLETE-NAME": "Eduardo Massad", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BARROS, L. G. X.", 
+                    "COMPLETE-NAME": "Luiz G. Xavier de Barros", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIGNORELLI, S. F.", 
+                    "COMPLETE-NAME": "Shirley Ferreira Signorelli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XXVIII CNMAC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "STRUCHINER, C. S.", 
+                    "COMPLETE-NAME": "Claudio S. Struchiner", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUERRINI, I. A.", 
+                    "COMPLETE-NAME": "Ivan Amaral Guerrini", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BEVILACQUA, L.", 
+                    "COMPLETE-NAME": "Luiz Bevilacqua", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minicurso sobre Modelagem em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAPURRO, A.", 
+                    "COMPLETE-NAME": "A Capurro", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "A. F. da Fonseca", 
+                    "COMPLETE-NAME": "Alexandre Fontes da Fonseca", 
+                    "ID": "5474049197041676"
+                }, 
+                {
+                    "CITATION-NAMES": "MASSAD, E.", 
+                    "COMPLETE-NAME": "Eduardo Massad", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAFALDA, P.", 
+                    "COMPLETE-NAME": "Paulo Mafalda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CODECO, C. T.", 
+                    "COMPLETE-NAME": "Claudia Torres Codeco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FORGER, F. M.", 
+                    "COMPLETE-NAME": "Frank Michael Forger", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minisimposio em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOMBACH, J. C.", 
+                    "COMPLETE-NAME": "Jose Carlos Mombach", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINTO, R. D.", 
+                    "COMPLETE-NAME": "Reynaldo Daniel Pinto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, H.", 
+                    "COMPLETE-NAME": "Henrique Lenzi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROMANHA, W. S.", 
+                    "COMPLETE-NAME": "Waldemiro de Souza Romanha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PELAJO-MACHADO, M.", 
+                    "COMPLETE-NAME": "Marcelo Pelajo-Machado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minicurso sobre Modelagem em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "HONORIO, K. M.", 
+                    "COMPLETE-NAME": "Katia M. Honorio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, D.", 
+                    "COMPLETE-NAME": "Domingos Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINTO, R. D.", 
+                    "COMPLETE-NAME": "Reynaldo Daniel Pinto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minisimposio em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FONSECA, R. L.", 
+                    "COMPLETE-NAME": "Rafael Luiz Fonseca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, L. F.", 
+                    "COMPLETE-NAME": "Luciano Fontoura da Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "M A M de Aguiar", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "LENZI, H.", 
+                    "COMPLETE-NAME": "Henrique Lenzi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHO, J. R. R.", 
+                    "COMPLETE-NAME": "Joao Renato Rabelo Pinho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SORIANO, F. G.", 
+                    "COMPLETE-NAME": "Francisco Garcia Soriano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Minisimposio em Biomatematica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Workshop on nonlinear dynamics in physical and Biological systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PESCE, C.", 
+                    "COMPLETE-NAME": "Celso Pesce", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAGAZZO, C. G.", 
+                    "COMPLETE-NAME": "C Grotta Ragazzo", 
+                    "ID": "8130639478752607"
+                }, 
+                {
+                    "CITATION-NAMES": "H. Morishita", 
+                    "COMPLETE-NAME": "Helio Morishita", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ASSUMPCAO, J. R.", 
+                    "COMPLETE-NAME": "Jesse R. de Assumpcao", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ARANHA, J. A. P.", 
+                    "COMPLETE-NAME": "Jose Arruda Penteado Aranha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRUZ, J. J.", 
+                    "COMPLETE-NAME": "J Jaime da Cruz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NISHIMOTO, K.", 
+                    "COMPLETE-NAME": "Kazuo Nishimoto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPHAIER, S.", 
+                    "COMPLETE-NAME": "Sergio Sphaier", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+                    "COMPLETE-NAME": "Coraci Pereira Malta", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "PROCAP2000: Metodologia e ferramentas de projetos de sistemas de ancoragem"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "MALTA, C. P.;Malta, Coraci Pereira;Malta, Coraci P.;MALTA, C.P.", 
+        "COMPLETE-NAME": "Coraci Pereira Malta", 
+        "ID": "8130639478752607", 
+        "PHD-BEGGINING": "1969", 
+        "PHD-ENDING": "1972"
+    }
+}

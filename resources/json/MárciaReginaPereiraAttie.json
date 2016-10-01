@@ -1,0 +1,1659 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "FERNANDEZ, Francisco Javier Ramirez", 
+                    "COMPLETE-NAME": "Francisco Javier Ramirez Fernandez", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Sensor de Radiação ionizante de baixa energia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "TABACNIKS, Manfredo", 
+                    "COMPLETE-NAME": "Manfredo Tabacniks", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAKAMATSU, Sandra", 
+                    "COMPLETE-NAME": "Sandra Nakamatsu", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Passivação de filmes de cobre/alumínio através de tratamento térmico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "TABACNIKS, Manfredo", 
+                    "COMPLETE-NAME": "Manfredo Tabacniks", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAKAMATSU, Sandra", 
+                    "COMPLETE-NAME": "Sandra Nakamatsu", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estudo da passivação de filmes de cobre utilizando Retroespalhamento Rutherford"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, D. D.", 
+                    "COMPLETE-NAME": "Dalila D Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "THIZAY,", 
+                    "COMPLETE-NAME": "Thizay", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Photofragmentation of thiophene and bithiophene at C1s and S2p edges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of the thiophene photofragmentation around the S2p and C1s edges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estudo da fotofragmentação da molécula livre de tiofeno na borda de excitação S2p"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Utilização de ajuste multivariado na determinação da cinética de oxidação do cobre"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MESSIAS, C.", 
+                    "COMPLETE-NAME": "Camila Messias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VELASCO, Fermin G.", 
+                    "COMPLETE-NAME": "Fermin G. Velasco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "MOL, A.", 
+                    "COMPLETE-NAME": "Anderson Mol", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ARLEO, S.", 
+                    "COMPLETE-NAME": "Susana Arléo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Controle de Qualidade em Equipamentos de Diagnósticos por Imagem em Instituição de Saúde"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "THIZAY,", 
+                    "COMPLETE-NAME": "Thizay", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, D. D.", 
+                    "COMPLETE-NAME": "Dalila D. Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Modelos Moleculares para fotofragmentação de polímeros: Estudo do tiofeno e bitiofeno excitadosna borda do C1S com radiação síncroton"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, D. D.", 
+                    "COMPLETE-NAME": "Dalila D. Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "THIZAY,", 
+                    "COMPLETE-NAME": "Thizay", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Seletividade angular na Fotofragmentação de Tiofeno excitado na borda S2p do enxofre."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Carlos Henrique Pianezzola", 
+                    "COMPLETE-NAME": "Carlos Henrique Pianezzola", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VELASCO, Fermin G.", 
+                    "COMPLETE-NAME": "Fermin G. Velasco", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FAUSTO, Agnes Maria da Fonseca", 
+                    "COMPLETE-NAME": "Agnes Maria da Fonseca Fausto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOL, A.", 
+                    "COMPLETE-NAME": "Anderson Mol", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Eliana Alcântara Lisboa", 
+                    "COMPLETE-NAME": "Eliana Alcântara Lisboa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, Marcos Ely Andrade", 
+                    "COMPLETE-NAME": "Marcos Ely Andrade Almeida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MESSIAS, C.", 
+                    "COMPLETE-NAME": "Camila Messias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CASTRO, Murilo Fagundes de", 
+                    "COMPLETE-NAME": "Murilo Fagundes de Castro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Contribuição à implantação do programa de controle de qualidde em diagnóstico por imagem em um hospital de Ilhéus"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CASTRO, Murilo Fagundes de", 
+                    "COMPLETE-NAME": "Murilo Fagundes de Castro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "MOL, A.", 
+                    "COMPLETE-NAME": "Anderson Mol", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FAUSTO, Agnes Maria da Fonseca", 
+                    "COMPLETE-NAME": "Agnes Maria da Fonseca Fausto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estudo comparativo de dose na entrada da pele em alta e baixa kilovoltagem em equipamentos de raios-X diagnóstico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CASTRO, Murilo Fagundes de", 
+                    "COMPLETE-NAME": "Murilo Fagundes de Castro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A ressonãncia nuclear magnética na avaliação do acidente vascular cerebral isquêmico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "TABACNIKS, M.H.", 
+                    "COMPLETE-NAME": "Manfredo Harri Tabacniks", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Oxidação de cobre em baixas temperaturas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Souza, D.B.", 
+                    "COMPLETE-NAME": "Danilo Brito Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VERAS, E. P. C.", 
+                    "COMPLETE-NAME": "Erlana Pereira Cavalcanti Veras", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, C. D. C. M.", 
+                    "COMPLETE-NAME": "Carlos Danilo Cardoso Matos Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MILAN, F. M.", 
+                    "COMPLETE-NAME": "Felix Max Milan", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Desenvovimento de um programa para avaliação de doses de radiação em exames tomográficos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Pilling S.", 
+                    "COMPLETE-NAME": "Sérgio Pilling", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Simulação da Dinâmica de Fotofragmentação da Molécula de Tiofeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico Blohem de Carvalho Júnior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. P. B. C.", 
+                    "COMPLETE-NAME": "Laélia Pumilla Bôtelho Campos dos Santos", 
+                    "ID": "2554422948649781"
+                }, 
+                {
+                    "CITATION-NAMES": "Cunha, C.J", 
+                    "COMPLETE-NAME": "Cunha", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Avaliação da dose recebida por membros do público expostos a pacientes submetidos ao tratamento com 131I"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Cunha, C.J", 
+                    "COMPLETE-NAME": "Cunha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico Blohem de Carvalho Júnior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. P. B. C.", 
+                    "COMPLETE-NAME": "Laélia Pumilla Bôtelho Campos dos Santos", 
+                    "ID": "2554422948649781"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estimativa de dose recebida por indivíduos expostos a pacientes radioativos utilizando Monte Carlo e duplas de simuladores antropomórficos voxel sentados"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, W. S.", 
+                    "COMPLETE-NAME": "William Silva Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico Blohem de Carvalho Júnior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAIA, A. F.", 
+                    "COMPLETE-NAME": "Ana Figueiredo Maia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, C.C.", 
+                    "COMPLETE-NAME": "CássioFerreira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cálculo de coeficientes de dose efetiva e equivalente obtidos em procedimento hemodinâmico utilizando duplas de simuladores voxel e método monte carlo201"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GUIMARAES, V.", 
+                    "COMPLETE-NAME": "Viviane Guimarães", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, S.S.", 
+                    "COMPLETE-NAME": "Simara Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GENNARI, R.", 
+                    "COMPLETE-NAME": "Roseli Gennari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, E. G", 
+                    "COMPLETE-NAME": "FERREIRA, E. G", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRASIL, I. M", 
+                    "COMPLETE-NAME": "BRASIL, I. M", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MORORO, F. I", 
+                    "COMPLETE-NAME": "MORORO, F. I", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, S. O", 
+                    "COMPLETE-NAME": "Susana Souza", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Análise da biodisponibilidade de radionuclídeos em indivíduos moradores no entorno da mina de urânio em Santa Quitéria CE utilizando dentes como bioindicadores."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "J.F.L. Pimentel", 
+                    "COMPLETE-NAME": "Jomara Fraga Lima Pimentel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Auditoria em serviço mamográfico aplicando os dados de um registro hospitalar"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Lima, F.R.A,", 
+                    "COMPLETE-NAME": "Fernando Roberto de Andrade Lima", 
+                    "ID": "9870663748100803"
+                }, 
+                {
+                    "CITATION-NAMES": "AMARAL, A.", 
+                    "COMPLETE-NAME": "Ademir Amaral", 
+                    "ID": "6883487078033005"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dose absorvida pela tireóide em casos de acidentes nuclares"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of bitiophene inner shell photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, M.", 
+                    "COMPLETE-NAME": "Monise Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, F. A. R.", 
+                    "COMPLETE-NAME": "Fabio A. Rolemberg Silva", 
+                    "ID": "5667535411134517"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": ". Optimização e redução da dose em Tomografia Computadorizada de Crânio"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOREIRA, L.", 
+                    "COMPLETE-NAME": "Leilane Moreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Avaliação da dose e optimização dos parâmetros em Tomografia Computadorizada de Abdômen"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Lima, F.R.A,", 
+                    "COMPLETE-NAME": "Fernando Roberto de Andrade Lima", 
+                    "ID": "9870663748100803"
+                }, 
+                {
+                    "CITATION-NAMES": "AMARAL, A.", 
+                    "COMPLETE-NAME": "Ademir Amaral", 
+                    "ID": "6883487078033005"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dose absorvida pela tireóide em casos de acidentes nucleares"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico B. Carvalho Junior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comparação da dose recebida por um indivíduo exposto a um paciente radioativo utilizando duplas de simuladores antropomórficos em diferentes posturas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico Blohem de Carvalho Júnior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Determinação de Fatores de Correção em medidas de Exposição utilizando Simuladores Antropomórficos e o Método Monte Carlo"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "F.C.L.Ferreira", 
+                    "COMPLETE-NAME": "Fernanda Carla Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRAGOSO, M. C. F", 
+                    "COMPLETE-NAME": "FRAGOSO, M. C. F", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Cunha, C.J", 
+                    "COMPLETE-NAME": "Cunha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Dullius, M A", 
+                    "COMPLETE-NAME": "Dullius, Marco A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "S.O.Souza", 
+                    "COMPLETE-NAME": "Susana Oliveira Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Influência do Posicionamento de Fontes Radioativas em um Medidor de Atividade de um Serviço de Medicina Nuclear do Estado de Sergipe"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Desempenho dos dispositivos de visualização utilizados nos serviços de radiologia diagnóstica de Aracaju"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Avaliação do desempenho dos dispositivos de exibição em radiologia diagnóstica."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Perfomance of Display devices in diagnostic radiology service from Aracaju"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Evaluation of digital displays and viewboxes in diagnostic radiology services"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "F.C.L.Ferreira", 
+                    "COMPLETE-NAME": "Fernanda Carla Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRAGOSO, M. C. F", 
+                    "COMPLETE-NAME": "FRAGOSO, M. C. F", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Cunha, C.J", 
+                    "COMPLETE-NAME": "Cunha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Dullius, M A", 
+                    "COMPLETE-NAME": "Dullius, Marco A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, S. O", 
+                    "COMPLETE-NAME": "Susana Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Influência do Posicionamento de Fontes Radioativas em um Medidor de Atividade de um Serviço de Medicina Nuclear do Estado de Sergipe"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "KOSKINAS, Marina Fallone", 
+                    "COMPLETE-NAME": "Marina Fallone Koskinas", 
+                    "ID": "4837690067875747"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Mauro da Silva", 
+                    "COMPLETE-NAME": "Mauro da Silva Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FONSECA, Kátia", 
+                    "COMPLETE-NAME": "Kátia Fonseca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Absolute Disintegration Rate Measurements of Ga-67"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of thiophene inner shell photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GUIMARAES, V.", 
+                    "COMPLETE-NAME": "Viviane Guimarães", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Icaro M, Brasil", 
+                    "COMPLETE-NAME": "Icaro Brasil", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, S.S.", 
+                    "COMPLETE-NAME": "Simara Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gennari, Roseli F", 
+                    "COMPLETE-NAME": "Roseli  Gennari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "S.O.Souza", 
+                    "COMPLETE-NAME": "Susana Oliveira Souza", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dose Due the incorporation of radionuclides using teeth as bioindicators nearby Caetité uranium mines"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "Nilo Makiuchi", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Selective fragmentation by resonant excitation at S2p edges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lenise Garcia", 
+                    "COMPLETE-NAME": "Lenise Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sofia campiolo", 
+                    "COMPLETE-NAME": "Sofia campiolo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "João Paulo Attie", 
+                    "COMPLETE-NAME": "João Paulo Attie", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lee Chen Chen", 
+                    "COMPLETE-NAME": "Lee Chen Chen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Henri Plana", 
+                    "COMPLETE-NAME": "Henri Plana", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Angela Maria Zanon", 
+                    "COMPLETE-NAME": "Angela Maria Zanon", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Paulo Tadeu da Silva", 
+                    "COMPLETE-NAME": "Paulo Tadeu da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Paulo dos Santos Terra", 
+                    "COMPLETE-NAME": "Paulo dos Santos Terra", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Márcio Galdino dos Santos", 
+                    "COMPLETE-NAME": "Márcio Galdino dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Cassia Cristina Fernandes Alves", 
+                    "COMPLETE-NAME": "Cassia Cristina Fernandes Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ana Cristina Caribé dos Santos", 
+                    "COMPLETE-NAME": "Ana Cristina Caribé dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ronaldo L. Gomes", 
+                    "COMPLETE-NAME": "Ronaldo L. Gomes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Água e Soluções"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MAIA, A. F.", 
+                    "COMPLETE-NAME": "Ana Figueiredo Maia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Apostila de Laboratório de Física B"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Assesment Image Quality In Radiography Displays Devices in Services Radiodiagnosis. Radiation Physics and Chemistry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Amorim, R.S.", 
+                    "COMPLETE-NAME": "Ricardo Santos Amorim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Evaluation of digital displays and viewboxes in diagnostic radiology services"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "TABACNIKS, M.H.", 
+                    "COMPLETE-NAME": "Manfredo Harri Tabacniks", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Oxidação de cobre em baixas temperaturas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "utilização de ajuste multivariado para determinação da cinética de oxidação do cobre"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Campos, L.P.", 
+                    "COMPLETE-NAME": "Laélia Campos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of bitiophene inner shell photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "Alexandra Mocellin", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREA, Nestor", 
+                    "COMPLETE-NAME": "Nestor Correa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of bitiophene inner shell photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAIA, A. F.", 
+                    "COMPLETE-NAME": "Ana Figueiredo Maia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. P. B. C.", 
+                    "COMPLETE-NAME": "Laélia Pumilla Bôtelho Campos dos Santos", 
+                    "ID": "2554422948649781"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Apostila de Laboratório de Física B"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Souza, D.N.", 
+                    "COMPLETE-NAME": "Divanizia do Nascimento Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAIA, A. F.", 
+                    "COMPLETE-NAME": "Ana Figueiredo Maia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO JUNIOR, A. B.", 
+                    "COMPLETE-NAME": "Albérico Blohem de Carvalho Júnior", 
+                    "ID": "9424812283571226"
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, C. F.", 
+                    "COMPLETE-NAME": "Cássio Ferreira da Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HELENA, E. L. S.", 
+                    "COMPLETE-NAME": "Emerson Luis de Santa Helena", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. P. B. C.", 
+                    "COMPLETE-NAME": "Laélia Pumilla Bôtelho Campos dos Santos", 
+                    "ID": "2554422948649781"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XV Congresso Brasileiro de Física Médica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA JUNIOR, E. A.", 
+                    "COMPLETE-NAME": "Edvaldo Alves de Souza Junior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XVII Encontro Sergipano de Física"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Duarte, G.C.", 
+                    "COMPLETE-NAME": "Gerson Cortês Duarte Filho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Avila, J.F. M", 
+                    "COMPLETE-NAME": "Jhon Fredy Martinez Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Souza, E. A.", 
+                    "COMPLETE-NAME": "Edvaldo Alves de Souza Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Scarano, S.", 
+                    "COMPLETE-NAME": "Sergio Scarano Jr", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silva, P. B.", 
+                    "COMPLETE-NAME": "Petrucio Barrozo da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lima, A. F.", 
+                    "COMPLETE-NAME": "Adilmo Francisco de Lima", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XIX Encontro Sergipano de Física"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Avila, J.F. M", 
+                    "COMPLETE-NAME": "Jhon Fredy Martinez Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "Duarte, G.C.", 
+                    "COMPLETE-NAME": "Gerson Cortês Duarte Filho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA JUNIOR, E. A.", 
+                    "COMPLETE-NAME": "Edvaldo Alves de Souza Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, P. B.", 
+                    "COMPLETE-NAME": "Petrúcio Barroso da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XX Encontro Sergipano de Física"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, P. B.", 
+                    "COMPLETE-NAME": "Petrúcio Barroso da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORTES, G.", 
+                    "COMPLETE-NAME": "Gerson Cortês", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.R.P.", 
+                    "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+                    "ID": "3668199929036388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XVIII Encontro Sergipano de Física"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "ATTIE, M.R.P.", 
+        "COMPLETE-NAME": "Márcia Regina Pereira Attie", 
+        "ID": "3668199929036388", 
+        "PHD-BEGGINING": "2003", 
+        "PHD-ENDING": "2008"
+    }
+}

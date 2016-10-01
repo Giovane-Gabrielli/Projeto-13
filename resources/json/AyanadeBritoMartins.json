@@ -1,0 +1,669 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.;Martins, A.B.;Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": "6413699370955977"
+                }, 
+                {
+                    "CITATION-NAMES": "Ventura, I.M.", 
+                    "COMPLETE-NAME": "Ventura, I.M.", 
+                    "ID": "2985710650239557"
+                }, 
+                {
+                    "CITATION-NAMES": "Klaczko, L.B.", 
+                    "COMPLETE-NAME": "Klaczko, L.B.", 
+                    "ID": "1047679012524576"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Spiroplasma infection in Drosophila melanogaster: What is the advantage of killing males?", 
+                "PORTUGUESE-TITLE": "Spiroplasma infection in Drosophila melanogaster: What is the advantage of killing males?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ventura, Iuri M.", 
+                    "COMPLETE-NAME": "Ventura, Iuri M.", 
+                    "ID": "2985710650239557"
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lyra, Mariana L.", 
+                    "COMPLETE-NAME": "Lyra, Mariana L.", 
+                    "ID": "7733423085707334"
+                }, 
+                {
+                    "CITATION-NAMES": "Andrade, Carlos A. C.", 
+                    "COMPLETE-NAME": "Andrade, Carlos A. C.", 
+                    "ID": "6739589601830850"
+                }, 
+                {
+                    "CITATION-NAMES": "Carvalho, Klélia A.", 
+                    "COMPLETE-NAME": "Carvalho, Klélia A.", 
+                    "ID": "4613430443545992"
+                }, 
+                {
+                    "CITATION-NAMES": "Klaczko, Louis B.", 
+                    "COMPLETE-NAME": "Klaczko, Louis B.", 
+                    "ID": "1047679012524576"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Spiroplasma in Drosophila melanogaster Populations: Prevalence, Male-Killing, Molecular Identification, and No Association with Wolbachia", 
+                "PORTUGUESE-TITLE": "Spiroplasma in Drosophila melanogaster Populations: Prevalence, Male-Killing, Molecular Identification, and No Association with Wolbachia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, M. A. M.", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "BAR-YAM, Y.", 
+                    "COMPLETE-NAME": "BAR-YAM, Y.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Evolution and stability of ring species", 
+                "PORTUGUESE-TITLE": "Evolution and stability of ring species"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SCHNEIDER, D. M.", 
+                    "COMPLETE-NAME": "David M. Schneider", 
+                    "ID": "8457529698895809"
+                }, 
+                {
+                    "CITATION-NAMES": "CARMO, E.", 
+                    "COMPLETE-NAME": "Eduardo do Carmo", 
+                    "ID": "5794388757286951"
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, M. A. M.", 
+                    "ID": "6114863866102325"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Toward a theory of topopatric speciation: The role of genetic assortative mating", 
+                "PORTUGUESE-TITLE": "Toward a theory of topopatric speciation: The role of genetic assortative mating"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SCHNEIDER, DAVID M.", 
+                    "COMPLETE-NAME": "SCHNEIDER, DAVID M.", 
+                    "ID": "8457529698895809"
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, MARCUS A.M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, MARCUS A.M.", 
+                    "ID": "6114863866102325"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "The mutation-drift balance in spatially structured populations", 
+                "PORTUGUESE-TITLE": "The mutation-drift balance in spatially structured populations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DE AGUIAR, MARCUS A.M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, MARCUS A.M.", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "SCHNEIDER, DAVID M.", 
+                    "COMPLETE-NAME": "SCHNEIDER, DAVID M.", 
+                    "ID": "8457529698895809"
+                }, 
+                {
+                    "CITATION-NAMES": "DO CARMO, EDUARDO", 
+                    "COMPLETE-NAME": "DO CARMO, EDUARDO", 
+                    "ID": "5794388757286951"
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, PAULO R.A.", 
+                    "COMPLETE-NAME": "CAMPOS, PAULO R.A.", 
+                    "ID": "5468845680173423"
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Error catastrophe in populations under similarity-essential recombination"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, MARCUS A.M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, MARCUS A.M.", 
+                    "ID": "6114863866102325"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Speciation with gene flow when mate choice relies on phenotype matching of multiple traits", 
+                "PORTUGUESE-TITLE": "Speciation with gene flow when mate choice relies on phenotype matching of multiple traits"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, MARCUS A.M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, MARCUS A.M.", 
+                    "ID": "6114863866102325"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Why are ring species so rare?", 
+                "PORTUGUESE-TITLE": "Why are ring species so rare?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, MARCUS A.M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, MARCUS A.M.", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "BAR-YAM, Y.", 
+                    "COMPLETE-NAME": "BAR-YAM, Y.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Evolution and stability of ring species"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "What can we learn from models in ecology and evolution?", 
+                "PORTUGUESE-TITLE": "O que podemos aprender com modelos em ecologia e evolução?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "What can we learn from models in ecology and evolution?", 
+                "PORTUGUESE-TITLE": "O que podemos aprender com modelos em ecologia e evolução?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ventura, Iuri M.", 
+                    "COMPLETE-NAME": "Ventura, Iuri M.", 
+                    "ID": "2985710650239557"
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lyra, Mariana L.", 
+                    "COMPLETE-NAME": "Lyra, Mariana L.", 
+                    "ID": "7733423085707334"
+                }, 
+                {
+                    "CITATION-NAMES": "Andrade, Carlos A. C.", 
+                    "COMPLETE-NAME": "Andrade, Carlos A. C.", 
+                    "ID": "6739589601830850"
+                }, 
+                {
+                    "CITATION-NAMES": "Carvalho, Klélia A.", 
+                    "COMPLETE-NAME": "Carvalho, Klélia A.", 
+                    "ID": "4613430443545992"
+                }, 
+                {
+                    "CITATION-NAMES": "Klaczko, Louis B.", 
+                    "COMPLETE-NAME": "Klaczko, Louis B.", 
+                    "ID": "1047679012524576"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Spiroplasma in Drosophila melanogaster populations: prevalence, male-killing, molecular identification and no association with Wolbachia", 
+                "PORTUGUESE-TITLE": "Spiroplasma in Drosophila melanogaster populations: prevalence, male-killing, molecular identification and no association with Wolbachia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, M. A. M.", 
+                    "ID": "6114863866102325"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "How do different geographical barriers affect ring species formation and persistence?", 
+                "PORTUGUESE-TITLE": "How do different geographical barriers affect ring species formation and persistence?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ventura, Iuri M.", 
+                    "COMPLETE-NAME": "Ventura, Iuri M.", 
+                    "ID": "2985710650239557"
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Klaczko, Louis B.", 
+                    "COMPLETE-NAME": "Klaczko, Louis B.", 
+                    "ID": "1047679012524576"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Prevalence and male-killing effect of the bacteria Spiroplasma poulsonii in Drosophila species", 
+                "PORTUGUESE-TITLE": "Prevalência e efeito androcida da bactéria Spiroplasma poulsonii em espécies de Drosophila"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SHIMIZU, G. H.", 
+                    "COMPLETE-NAME": "Gustavo Hi Shimizu", 
+                    "ID": "3148480399206038"
+                }, 
+                {
+                    "CITATION-NAMES": "CHABES, M. L.", 
+                    "COMPLETE-NAME": "Chabes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZANOTTI-MAGALHÃES, E. M.", 
+                    "COMPLETE-NAME": "Eliana Magalhães", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FARANI, T. L.", 
+                    "COMPLETE-NAME": "Farani", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANT'ANA, J. M.", 
+                    "COMPLETE-NAME": "João Moreno", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RÉ-JORGE, L.", 
+                    "COMPLETE-NAME": "Leonardo Ré", 
+                    "ID": "6510325607610167"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGALHÃES, L. A.", 
+                    "COMPLETE-NAME": "Luís Magalhães", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIOS, N. M.", 
+                    "COMPLETE-NAME": "Natalie Rios", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RODRIGUES, P. E.", 
+                    "COMPLETE-NAME": "Paulo Rodrigues", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Temperature effect in the develpment of Angiostrongylus costaricensis in Biomphalaria glabrata", 
+                "PORTUGUESE-TITLE": "Influência da temperatura ambiente no desenvolvimento de Angiostrongylus costaricensis em Biomphalaria glabrata"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUIDO, R. T.", 
+                    "COMPLETE-NAME": "Renata Guido", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RÉ-JORGE, L.", 
+                    "COMPLETE-NAME": "Leonardo Ré", 
+                    "ID": "6510325607610167"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, E.", 
+                    "COMPLETE-NAME": "Elizabeth Pereira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comparação do conhecimento de biologia, baseado no PCN, de alunos de escolas particulares e públicas em duas cidades no estado de São Paulo"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BONAFÉ, C. F. S.", 
+                    "COMPLETE-NAME": "Carlos Francisco Sampaio Bonafe", 
+                    "ID": "8396546305564316"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Termodinâmica da desnaturação do vírus do mosaico do tabaco (TMV) por agentes desnaturantes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LANDINI, G. F.", 
+                    "COMPLETE-NAME": "Gustavo Fraga Landini", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, J. L. R.", 
+                    "COMPLETE-NAME": "Jose Luis da Rocha Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BISPO, J. A. C.", 
+                    "COMPLETE-NAME": "José A. C. Bispo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NORBERTO, D. R.", 
+                    "COMPLETE-NAME": "Douglas R. Norberto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BONAFÉ, C. F. S.", 
+                    "COMPLETE-NAME": "Carlos Francisco Sampaio Bonafe", 
+                    "ID": "8396546305564316"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Properties of the lizard Teiu Tupinambis Merianae Hb by potentiometric titration"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, J. L. R.", 
+                    "COMPLETE-NAME": "Jose Luis da Rocha Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BISPO, J. A. C.", 
+                    "COMPLETE-NAME": "José A. C. Bispo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LANDINI, G. F.", 
+                    "COMPLETE-NAME": "Gustavo Fraga Landini", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NORBERTO, D. R.", 
+                    "COMPLETE-NAME": "Douglas R. Norberto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BONAFÉ, C. F. S.", 
+                    "COMPLETE-NAME": "Carlos Francisco Sampaio Bonafe", 
+                    "ID": "8396546305564316"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Stoichiometry of tobacco mosaic virus dissociation and denaturation by urea", 
+                "PORTUGUESE-TITLE": "Stoichiometry of tobacco mosaic virus dissociation and denaturation by urea"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Martins, Ayana B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ventura, Iuri M.", 
+                    "COMPLETE-NAME": "Ventura, Iuri M.", 
+                    "ID": "2985710650239557"
+                }, 
+                {
+                    "CITATION-NAMES": "Andrade, Carlos A. C.", 
+                    "COMPLETE-NAME": "Andrade, Carlos A. C.", 
+                    "ID": "6739589601830850"
+                }, 
+                {
+                    "CITATION-NAMES": "ARARIPE, L. O.", 
+                    "COMPLETE-NAME": "Luciana O Araripe", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Klaczko, Louis B.", 
+                    "COMPLETE-NAME": "Klaczko, Louis B.", 
+                    "ID": "1047679012524576"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Prevalence of male-killing agents in Drosophila species", 
+                "PORTUGUESE-TITLE": "Prevalência de Agentes Androcidas em Espécies de Drosophila"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "HOHLENWERGER, C. C.", 
+                    "COMPLETE-NAME": "Camila Celestino Hohlenwerger", 
+                    "ID": "1573012427885595"
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIOS, V. P.", 
+                    "COMPLETE-NAME": "Vitor Passos Rios", 
+                    "ID": "5261741490385706"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTANA, E. M.", 
+                    "COMPLETE-NAME": "Erika Marques de Santana", 
+                    "ID": "4873694782558406"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, J. F.", 
+                    "COMPLETE-NAME": "Júlia Ferrúa dos Santos", 
+                    "ID": "7085441638419060"
+                }, 
+                {
+                    "CITATION-NAMES": "TRAVASSOS-DE-BRITTO, BRUNO", 
+                    "COMPLETE-NAME": "Bruno Travassos de Britto", 
+                    "ID": "0852513265297641"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "2ª EcoEscola: Escola de Ecologia da USP"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KOFFLER, S.", 
+                    "COMPLETE-NAME": "Sheina Koffler", 
+                    "ID": "9090107411611255"
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINS, A. B.", 
+                    "COMPLETE-NAME": "Ayana de Brito Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MELITO, M. O.", 
+                    "COMPLETE-NAME": "Melina Oliveira Melito", 
+                    "ID": "8755274890922974"
+                }, 
+                {
+                    "CITATION-NAMES": "MORTARA, S. R.", 
+                    "COMPLETE-NAME": "Sara Ribeiro Mortara", 
+                    "ID": "1367565226603309"
+                }, 
+                {
+                    "CITATION-NAMES": "RIOS, V. P.", 
+                    "COMPLETE-NAME": "Vitor Passos Rios", 
+                    "ID": "5261741490385706"
+                }, 
+                {
+                    "CITATION-NAMES": "RODRIGUEZ, C. Z.", 
+                    "COMPLETE-NAME": "Catalina Zuluaga Rodríguez", 
+                    "ID": "9949790997970990"
+                }, 
+                {
+                    "CITATION-NAMES": "SABINO, W. O.", 
+                    "COMPLETE-NAME": "William de Oliveira Sabino", 
+                    "ID": "0528828515387888"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTANA, P. C.", 
+                    "COMPLETE-NAME": "Pamela Cristina Santana", 
+                    "ID": "2857205934833784"
+                }, 
+                {
+                    "CITATION-NAMES": "SCARPA, D. L.", 
+                    "COMPLETE-NAME": "Daniela Lopes Scarpa", 
+                    "ID": "9083847675351817"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "1ª EcoEscola: Escola de Ecologia da USP"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "MARTINS, A. B.;Martins, A.B.;Martins, Ayana B.", 
+        "COMPLETE-NAME": "Ayana de Brito Martins", 
+        "ID": "6413699370955977", 
+        "PHD-BEGGINING": "2010", 
+        "PHD-ENDING": "2014"
+    }
+}

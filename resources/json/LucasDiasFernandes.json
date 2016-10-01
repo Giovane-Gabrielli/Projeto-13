@@ -1,0 +1,546 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Caos e estabilidade dos asteróides do grupo de Hilda"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Caos e estabilidade dos asteróides do grupo de Hilda"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Diffusion and Stability in the Exterior Solar System"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como ferramenta para investigação da estabilidade dos pequenos corpos do sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LADEIRA, D. G.", 
+                    "COMPLETE-NAME": "Denis Gouveia Ladeira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINS, R. V.", 
+                    "COMPLETE-NAME": "Roberto Vieira Martins", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estabilidade e difusão orbital no sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como ferramenta para investigação da estabilidade dos pequenos corpos do sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como Ferramenta para Investigação da Estabilidade nos Anéis dos Planetas Exteriores"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Underlying species distribution pattern on a prey-predator model subject to Turing instabilities on complex networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Turing patterns and dynamical processes on complex networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "DE AGUIAR, M. A. M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Turing patterns and apparent competition in predator-prey food webs on networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Reigada, Carolina", 
+                    "COMPLETE-NAME": "Reigada, Carolina", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Aguiar, Marcus Aloizio Martinez", 
+                    "COMPLETE-NAME": "de Aguiar, Marcus Aloizio Martinez", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Fernandes, Lucas Dias", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Demographic Processes in Spatially Structured Host-Parasitoid Systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como ferramenta para investigação da estabilidade dos pequenos corpos do sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LADEIRA, D. G.", 
+                    "COMPLETE-NAME": "Denis Gouveia Ladeira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARTINS, R. V.", 
+                    "COMPLETE-NAME": "Roberto Vieira Martins", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estabilidade e difusão orbital no sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Caos e estabilidade dos asteróides do grupo de Hilda"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Diffusion and Stability in the Exterior Solar System"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como ferramenta para investigação da estabilidade dos pequenos corpos do sistema solar exterior"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Difusão como Ferramenta para Investigação da Estabilidade nos Anéis dos Planetas Exteriores"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Turing patterns and dynamical processes on complex networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Underlying species distribution pattern on a prey-predator model subject to Turing instabilities on complex networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lucas D. Fernandes", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUIMARAES JUNIOR, P. R.", 
+                    "COMPLETE-NAME": "Paulo Roberto Guimarães Junior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coevolution in large spatial networks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lucas D. Fernandes", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ksenia Guseva", 
+                    "COMPLETE-NAME": "Ksenia Guseva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Alessandro de Moura", 
+                    "COMPLETE-NAME": "Alessandro P. S. de Moura", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Clustering and collective effects in mechanosensitive channels"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lucas D. Fernandes", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ksenia Guseva", 
+                    "COMPLETE-NAME": "Ksenia Guseva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Alessandro de Moura", 
+                    "COMPLETE-NAME": "Alessandro P. S. de Moura", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effects of clustering on collective gating dynamics of mechanosensitive channels in bacteria"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lucas D. Fernandes", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Paula Lemos-Costa", 
+                    "COMPLETE-NAME": "Paula Lemos Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUIMARAES JUNIOR, P. R.", 
+                    "COMPLETE-NAME": "Paulo Roberto Guimarães Junior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interplay between selection and gene flow on coevolutionary dynamics on large spatial lattices"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lucas D. Fernandes", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUIAR, M. A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloizio Martinez de Aguiar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Paula Lemos-Costa", 
+                    "COMPLETE-NAME": "Paula Lemos Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GUIMARAES JUNIOR, P. R.", 
+                    "COMPLETE-NAME": "Paulo Roberto Guimarães Junior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interplay between selection and gene flow on coevolutionary dynamics on large spatial lattices"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERNANDES, L. D.", 
+                    "COMPLETE-NAME": "Lucas Dias Fernandes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORDEIRO, R. R.", 
+                    "COMPLETE-NAME": "Ricardo Reis Cordeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Caos e estabilidade dos asteróides do grupo de Hilda"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FERNANDES, L. D.;Lucas D. Fernandes;Fernandes, Lucas Dias", 
+        "COMPLETE-NAME": "Lucas Dias Fernandes", 
+        "ID": "8009197040405746", 
+        "PHD-BEGGINING": "2012", 
+        "PHD-ENDING": "2016"
+    }
+}

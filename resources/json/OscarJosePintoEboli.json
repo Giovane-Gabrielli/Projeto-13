@@ -1,0 +1,3537 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Nath, Pran", 
+                    "COMPLETE-NAME": "Nath, Pran", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nelson, Brent", 
+                    "COMPLETE-NAME": "Nelson, Brent", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Davoudiasl, Hooman", 
+                    "COMPLETE-NAME": "Davoudiasl, Hooman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Dutta, Bhaskar", 
+                    "COMPLETE-NAME": "Dutta, Bhaskar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Feldman, Daniel", 
+                    "COMPLETE-NAME": "Feldman, Daniel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Liu, Zuowei", 
+                    "COMPLETE-NAME": "Liu, Zuowei", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Han, Tao", 
+                    "COMPLETE-NAME": "Han, Tao", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Langacker, Paul", 
+                    "COMPLETE-NAME": "Langacker, Paul", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mohapatra, Rabi", 
+                    "COMPLETE-NAME": "Mohapatra, Rabi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valle, Jose", 
+                    "COMPLETE-NAME": "Valle, Jose", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Hunt for New Physics at the Large Hadron Collider"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lari, T.", 
+                    "COMPLETE-NAME": "Lari, T.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pape, L.", 
+                    "COMPLETE-NAME": "Pape, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Aguilar-Saavedra, J. A.", 
+                    "COMPLETE-NAME": "Aguilar-Saavedra, J. A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Allanach, B. C.", 
+                    "COMPLETE-NAME": "Allanach, B. C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Burdman, G.", 
+                    "COMPLETE-NAME": "Burdman, G.", 
+                    "ID": "9615660619479193"
+                }, 
+                {
+                    "CITATION-NAMES": "Castro, N.", 
+                    "COMPLETE-NAME": "Castro, N.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Klasen, M.", 
+                    "COMPLETE-NAME": "Klasen, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Krasnikov, N.", 
+                    "COMPLETE-NAME": "Krasnikov, N.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Krauss, F.", 
+                    "COMPLETE-NAME": "Krauss, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Moortgat, F.", 
+                    "COMPLETE-NAME": "Moortgat, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Polesello, G.", 
+                    "COMPLETE-NAME": "Polesello, G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Tricomi, A.", 
+                    "COMPLETE-NAME": "Tricomi, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ünel, G.", 
+                    "COMPLETE-NAME": "Ünel, G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Aguila, F.", 
+                    "COMPLETE-NAME": "Aguila, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Alwall, J.", 
+                    "COMPLETE-NAME": "Alwall, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Andreev, Y.", 
+                    "COMPLETE-NAME": "Andreev, Y.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sierra, D. Aristizabal", 
+                    "COMPLETE-NAME": "Sierra, D. Aristizabal", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bartl, A.", 
+                    "COMPLETE-NAME": "Bartl, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Beccaria, M.", 
+                    "COMPLETE-NAME": "Beccaria, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Béjar, S.", 
+                    "COMPLETE-NAME": "Béjar, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Benucci, L.", 
+                    "COMPLETE-NAME": "Benucci, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bityukov, S.", 
+                    "COMPLETE-NAME": "Bityukov, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Borjanovi?, I.", 
+                    "COMPLETE-NAME": "Borjanovi?, I.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bozzi, G.", 
+                    "COMPLETE-NAME": "Bozzi, G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Carvalho, J.", 
+                    "COMPLETE-NAME": "Carvalho, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Clerbaux, B.", 
+                    "COMPLETE-NAME": "Clerbaux, B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Gouvêa, A.", 
+                    "COMPLETE-NAME": "Gouvêa, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Dennis, C.", 
+                    "COMPLETE-NAME": "Dennis, C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Djouadi, A.", 
+                    "COMPLETE-NAME": "Djouadi, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ellwanger, U.", 
+                    "COMPLETE-NAME": "Ellwanger, U.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Fassouliotis, D.", 
+                    "COMPLETE-NAME": "Fassouliotis, D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ferreira, P. M.", 
+                    "COMPLETE-NAME": "Ferreira, P. M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Frederix, R.", 
+                    "COMPLETE-NAME": "Frederix, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Fuks, B.", 
+                    "COMPLETE-NAME": "Fuks, B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gerard, J.-M.", 
+                    "COMPLETE-NAME": "Gerard, J.-M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Giammanco, A.", 
+                    "COMPLETE-NAME": "Giammanco, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gninenko, S.", 
+                    "COMPLETE-NAME": "Gninenko, S.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Collider aspects of flavor physics at high Q"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M. B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "P. G. MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Searching For Leptoquarks In Electron-Photon Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Threshold Effects On The Heavy Quark Production In Gamma-Gamma Interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Deciphering The Quark-Gluon Structure Of The Photon In E-Gamma Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CIEZA-MONTALVO, J. E.", 
+                    "COMPLETE-NAME": "J. E. CIEZA-MONTALVO", 
+                    "ID": "9125693040077821"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Composite Vector Leptoquarks In E+E-, Gamma-E And Gamma-Gamma Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZEPPENFELD, D.", 
+                    "COMPLETE-NAME": "D. ZEPPENFELD", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Measuring The Gamma Gamma Coupling Of The Higgs Boson At Linear Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Isosinglet Neutral Heavy Lepton Production In High-Energy e Gamma Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, L. D.", 
+                    "COMPLETE-NAME": "L. D. ALMEIDA", 
+                    "ID": "2524661292793453"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Anomalous Contributons To E+E- ==> E+E- L+L- At High Energies"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CIEZA-MONTALVO, J. E.", 
+                    "COMPLETE-NAME": "J. E. CIEZA-MONTALVO", 
+                    "ID": "9125693040077821"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Heavy-Leppton Production In The Minimal Supersymmetric Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bounds On Effective Interactions From The Reaction Gamma Gamma ==> L+ L- At Lep"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SAMIULLAH, M.", 
+                    "COMPLETE-NAME": "M. SAMIULLAH", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PI, S. Y.", 
+                    "COMPLETE-NAME": "S. Y. PI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Field Theoretical Analysis Inflation In A Planar Universe"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, L. D.", 
+                    "COMPLETE-NAME": "L. D. ALMEIDA", 
+                    "ID": "2524661292793453"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonstandard Gamma Gamma ==> L+L- Processes In Relativistic Heavy-Ion Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P. B.", 
+                    "COMPLETE-NAME": "O. J. P. BAZEIAD EBOLI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. SILVA", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Surface Tension In Field Theory At Finite Temperature: Semiclassical Contributions."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "SIMAO, F. R. A.", 
+                    "COMPLETE-NAME": "F. R. A. SIMAO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Superheavy Quarkonium Decays With Two Higgs Dublets."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PI, S. Y.", 
+                    "COMPLETE-NAME": "S. Y. PI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAMIULLAH, M.", 
+                    "COMPLETE-NAME": "M. SAMIULLAH", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalizability Of Funcional Schroedinger Picture In Robertson-Walker Space-Time."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Heavy Lepton Production Through Vector Boson Fusion In E+ e Colisions At Hig Energy."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "POLIDO, J. M. R.", 
+                    "COMPLETE-NAME": "J. M. R. POLIDO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric Charged Higgs Boson Production At The Ssc."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "JACKIW, R.", 
+                    "COMPLETE-NAME": "R. JACKIW", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PI, S. Y.", 
+                    "COMPLETE-NAME": "S. Y. PI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Fields Out Of Thermal Equilibrium."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLINTO, A. V.", 
+                    "COMPLETE-NAME": "A. V. OLINTO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Composite Leptoquarks In Hadronic Colliders."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BAZEIA, D.", 
+                    "COMPLETE-NAME": "D. BAZEIA", 
+                    "ID": "4482175736711280"
+                }, 
+                {
+                    "CITATION-NAMES": "GUERRA JR, J. M.", 
+                    "COMPLETE-NAME": "J. M. GUERRA JR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Topological Defects At Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Abelian Bosonization In Curved Space."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Twin Higgs Boson Production"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SPEHLER, D.", 
+                    "COMPLETE-NAME": "D. SPEHLER", 
+                    "ID": "0507719719271905"
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATELE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATELE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Looking For Spin 3/2 Leptons In Hadroninc Collisions."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Decay Rate Of The False Vacuum At Finite Temperatures."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Prodution Of A New Generation Of Leptons In A Hadronic Colliders."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "A. A. NATALE", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hevvy-Lepton Production Via Vector-Boson Fusion."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CARVALHO, C. A. A.", 
+                    "COMPLETE-NAME": "C. A. A. CARVALHO", 
+                    "ID": "1194014265686812"
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Role Of Nonperturbative Field Configurations In Phase Transitions."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BAZEIA, D.", 
+                    "COMPLETE-NAME": "D. BAZEIA", 
+                    "ID": "4482175736711280"
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO, C. A. A.", 
+                    "COMPLETE-NAME": "C. A. A. CARVALHO", 
+                    "ID": "1194014265686812"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. SILVA", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "VENTURA, I.", 
+                    "COMPLETE-NAME": "I. VENTURA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Percolation Temperature And The Instability Of The Effective Potential."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BAZEIA, D.", 
+                    "COMPLETE-NAME": "D. BAZEIA", 
+                    "ID": "4482175736711280"
+                }, 
+                {
+                    "CITATION-NAMES": "CARVALHO, C. A. A.", 
+                    "COMPLETE-NAME": "C. A. A. CARVALHO", 
+                    "ID": "1194014265686812"
+                }, 
+                {
+                    "CITATION-NAMES": "MARQUES, C. G.", 
+                    "COMPLETE-NAME": "C. G. MARQUES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Strings At Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, C. G.", 
+                    "COMPLETE-NAME": "C. G. MARQUES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On The Behaviour Of The Temperature Dependent Coupling Constants."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARQUES, G. C.", 
+                    "COMPLETE-NAME": "G. C. MARQUES", 
+                    "ID": "3344707113314780"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Solitons As Newtonian Particles"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, A. S. F.", 
+                    "COMPLETE-NAME": "a. S. F. Novaes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bounds On Higgs And Gauge-Boson Interactions From Lep2 Data"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CIEZA-MONTALVO, J. E.", 
+                    "COMPLETE-NAME": "J. E. CIEZA-MONTALVO", 
+                    "ID": "9125693040077821"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M. B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "P. G. MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Signal And Backgrounds For The Single Production Of Scalar And Vector Leptoquarks At The Lhc"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Are Two Gluons The Qcd Pomeron?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BELYAEV, A. S.", 
+                    "COMPLETE-NAME": "A. S. Belyaev", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "ZACHAROV, I.", 
+                    "COMPLETE-NAME": "I. Zacharov", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Strongly Interacting Vector Bosons At The Lhc: Quartic Anomalous Couplings"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FUNCHAL, R. Z.", 
+                    "COMPLETE-NAME": "R. Z. Funchal", 
+                    "ID": "3193435909206442"
+                }, 
+                {
+                    "CITATION-NAMES": "LUNGOV, T. L.", 
+                    "COMPLETE-NAME": "T. L. Lungov", 
+                    "ID": "5406130996706657"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Multilepton Signatures For Leptoquarks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DREES, M.", 
+                    "COMPLETE-NAME": "M. Drees", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hunting A Light U(1)B Gauge Boson Coupled To Baryon Number In Collider Experiments"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BELYAEV, A.", 
+                    "COMPLETE-NAME": "A. Belyaev", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FUNCHAL, R. Z.", 
+                    "COMPLETE-NAME": "R. Z. Funchal", 
+                    "ID": "3193435909206442"
+                }, 
+                {
+                    "CITATION-NAMES": "LUNGOV, T. L.", 
+                    "COMPLETE-NAME": "T. L. Lungov", 
+                    "ID": "5406130996706657"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Signal And Backgrounds For Leptoquarks At The Cern Lhc Ii: Vector Leptoquarks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Inelastic Photoproduction At Hera: A Second Charmonium Crisis?"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "GARCIA-JAREÑO, M. A.", 
+                    "COMPLETE-NAME": "M. A. Garcia-Jareño", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VALLE, J. W. F.", 
+                    "COMPLETE-NAME": "J. W. F. VALLE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "R-Parity Violating Signals For Chargino Production At Lep Ii"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "ROSIEK, J.", 
+                    "COMPLETE-NAME": "J. Rosiek", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VALLE, J. W. F.", 
+                    "COMPLETE-NAME": "J. W. F. VALLE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Searching For Invisibly Decaying Higgs Bosons At Lep Ii"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AMUNDSON, J.", 
+                    "COMPLETE-NAME": "J. Amundson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantitative Tests Of Color Evaporation: Charmonium Production"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Prompt Charmonium Production In Z Decays"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Z Physics Constraints On Vector Leptoquarks"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Limits On Anomalous Top Couplings From Z Pole Physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DREES, M.", 
+                    "COMPLETE-NAME": "M. Drees", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Strong Interaction Effects in Stop Pair Production at e+ e- Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BELYAEV, A.", 
+                    "COMPLETE-NAME": "A. Belyaev", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DREES, M.", 
+                    "COMPLETE-NAME": "M. Drees", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric Higgs Pair Production at Hadron Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On Forward J/Psi Production at Fermilab Tevatron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "Color evaporation induced rapidity gaps", 
+                "PORTUGUESE-TITLE": "Color evaporation induced rapidity gaps"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LUNGOV, T. L.", 
+                    "COMPLETE-NAME": "T. L. Lungov", 
+                    "ID": "5406130996706657"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Single Production of Leptoquarks at the Tevatron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Tests of Anomalous Quartic Couplings at the NLC\n"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Associated Production of Weak Bosons and Jets by\n Multiple Parton Interactions\n"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LUNGOV, T. L.", 
+                    "COMPLETE-NAME": "T. L. Lungov", 
+                    "ID": "5406130996706657"
+                }, 
+                {
+                    "CITATION-NAMES": "FUNCHAL, R. Z.", 
+                    "COMPLETE-NAME": "R. Z. Funchal", 
+                    "ID": "3193435909206442"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Signal and Backgrounds for Leptoquarks at the\n LHC\n"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "Maurício Bernardino Magro", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "MATHEWS, P.", 
+                    "COMPLETE-NAME": "Prakash Mathews", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "Diphoton signals for large extra dimensions at the Fermilab Tevatron and CERN LHC", 
+                "PORTUGUESE-TITLE": "Diphoton signals for large extra dimensions at the Fermilab Tevatron and CERN LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Indirect Constraints on the triple gauge boson couplings from Z -> b bbar partial width: an update"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Probing Intermediate Mass Higgs Interactions at the CERN Large Hadron Collider"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ZEPPENFELD, D.", 
+                    "COMPLETE-NAME": "D. ZEPPENFELD", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Observing an Invisible Higgs Boson"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Anomalous quartic gauge boson couplings at hadron colliders", 
+                "PORTUGUESE-TITLE": "Anomalous quartic gauge boson couplings at hadron colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MATHEWS, P.", 
+                    "COMPLETE-NAME": "Prakash Mathews", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "Maurício Bernardino Magro", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Direct signals for large extra dimensions in the production of fermion pairs at linear colliders", 
+                "PORTUGUESE-TITLE": "Direct signals for large extra dimensions in the production of fermion pairs at linear colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Probing anomalous quartic couplings in eÎ  and Î Î  colliders", 
+                "PORTUGUESE-TITLE": "Probing anomalous quartic couplings in eÎ  and Î Î  colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "Soft color enhancement of the production of J/Ï â  s by neutrinos", 
+                "PORTUGUESE-TITLE": "Soft color enhancement of the production of J/Ï â  s by neutrinos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "Maurício Bernardino Magro", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAZ, M. A.", 
+                    "COMPLETE-NAME": "Marco Aurelio Diaz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Anomaly mediated supersymmetry breaking withoutÂ&nbsp;R-parity", 
+                "PORTUGUESE-TITLE": "Anomaly mediated supersymmetry breaking withoutÂ&nbsp;R-parity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MATHEWS, P.", 
+                    "COMPLETE-NAME": "Prakash Mathews", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "Excited leptons at the CERN Large Hadron Collider", 
+                "PORTUGUESE-TITLE": "Excited leptons at the CERN Large Hadron Collider"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quartic Anomalous Couplings in  Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Identifying the Higgs Boson in  e-gamma Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "VALLE, J. W. F.", 
+                    "COMPLETE-NAME": "J. W. F. VALLE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LOPEZ-FERNANDEZ, A.", 
+                    "COMPLETE-NAME": "A. LOPEZ-FERNANDEZ", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Searching for an Invisibly Decaying Higgs Boson in e+e- , e-gamma , and  gamma-gammaCollisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CIEZA-MONTALVO, J. E.", 
+                    "COMPLETE-NAME": "J. E. CIEZA-MONTALVO", 
+                    "ID": "9125693040077821"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Signals for Vector Leptoquarks in Hadronic Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Production of Z-Higgs Boson Pairs at Photon Linear Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T. C.", 
+                    "COMPLETE-NAME": "F. T. C. BRANDT", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "MAURICIO BERNARDINO MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Triple Vector Boson Production in  Gamma Gamma Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "epsilon_b Constraints on Self-Couplings of Vector Bosons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bounds on Scalar Leptoquarks from Z Physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "Maurício Bernardino Magro", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quartic Anomalous Couplings in  Gamma Gamma Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "MAURICIO BERNARDINO MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "MERCADANTE, P. G.", 
+                    "COMPLETE-NAME": "PEDRO GALLI MERCADANTE", 
+                    "ID": "3222374562566665"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Anomalous  g5Z Coupling at  Gamma Gamma Colliders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "NOVAES, S. F.", 
+                    "COMPLETE-NAME": "S. F. NOVAES", 
+                    "ID": "7924815022468819"
+                }, 
+                {
+                    "CITATION-NAMES": "SPEHLER, D.", 
+                    "COMPLETE-NAME": "D. SPEHLER", 
+                    "ID": "0507719719271905"
+                }, 
+                {
+                    "CITATION-NAMES": "MONTERO, J. C.", 
+                    "COMPLETE-NAME": "J. C. Montero", 
+                    "ID": "6577400790830679"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Excited Leptonic States in Polarized  e Gamma and e+e- Collisions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AMUNDSON, J.", 
+                    "COMPLETE-NAME": "J. Amundson", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Colorless States in Perturbative QCD: Charmonium and Rapidity Gaps"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRUNSTEIN, A.", 
+                    "COMPLETE-NAME": "ADRIANA BRUNSTEIN", 
+                    "ID": "6215397097925890"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Constraints on Quartic Vector Boson Interactions from Z Physics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "REIS, H. C.", 
+                    "COMPLETE-NAME": "HUGO CARNEIRO REIS", 
+                    "ID": "5455522602375597"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum Evolution of Scalar Fields in Robertson-Walker Space-time"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, A.", 
+                    "COMPLETE-NAME": "Alexandre Alves", 
+                    "ID": "7323339163869801"
+                }, 
+                {
+                    "CITATION-NAMES": "PLEHN, T.", 
+                    "COMPLETE-NAME": "Tilman Plehn", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "STOP LEPTON ASSOCIATED PRODUCTION AT HADRON COLLIDERS"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "HALZEN, F.", 
+                    "COMPLETE-NAME": "F. Halzen", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "COLOR EVAPORATION DESCRIPTION OF INELASTIC PHOTOPRODUCTION OF J / PSI AT DESY HERA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "VALLE, J. W. F.", 
+                    "COMPLETE-NAME": "J. W. F. VALLE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M. B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "PROBING NEUTRINO MASS WITH MULTILEPTON PRODUCTION AT THE TEVATRON IN THE SIMPLEST R PARITY VIOLATION MODEL"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GREGORES, E. M.", 
+                    "COMPLETE-NAME": "E. M. Gregores", 
+                    "ID": "6024077393559967"
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "TESTING COLOR EVAPORATION IN PHOTON PHOTON PRODUCTION OF J / PSI AT CERN LEP-I"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, A.", 
+                    "COMPLETE-NAME": "Alexandre Alves", 
+                    "ID": "7323339163869801"
+                }, 
+                {
+                    "CITATION-NAMES": "PLEHN, T.", 
+                    "COMPLETE-NAME": "Tilman Plehn", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "ROBUST LHC HIGGS SEARCH IN WEAK BOSON FUSION"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIETTI, S. M.", 
+                    "COMPLETE-NAME": "S. M. Lietti", 
+                    "ID": "5937985523259091"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "BOSONIC QUARTIC COUPLINGS AT LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "PROBING TRILINEAR GAUGE BOSON INTERACTIONS VIA SINGLE ELECTROWEAK GAUGE BOSON PRODUCTION AT THE LHC."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Díaz, M.", 
+                    "COMPLETE-NAME": "Díaz, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Lineros, R.", 
+                    "COMPLETE-NAME": "Lineros, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Magro, M.", 
+                    "COMPLETE-NAME": "Magro, M.", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "Mercadante, P.", 
+                    "COMPLETE-NAME": "Mercadante, P.", 
+                    "ID": "3222374562566665"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Neutrinos in anomaly mediated supersymmetry breaking with R-parity violation", 
+                "PORTUGUESE-TITLE": "Neutrinos in anomaly mediated supersymmetry breaking with R-parity violation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Magro, M.", 
+                    "COMPLETE-NAME": "Magro, M.", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valle, J.", 
+                    "COMPLETE-NAME": "Valle, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "Probing neutrino mass with displaced vertices at the Fermilab Tevatron", 
+                "PORTUGUESE-TITLE": "Probing neutrino mass with displaced vertices at the Fermilab Tevatron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Akeroyd, A.G.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, A.", 
+                    "COMPLETE-NAME": "Alexandre Alves", 
+                    "ID": "7323339163869801"
+                }, 
+                {
+                    "CITATION-NAMES": "Díaz, M.A.", 
+                    "COMPLETE-NAME": "Díaz, M.A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Multi-photon signatures at the Fermilab Tevatron", 
+                "PORTUGUESE-TITLE": "Multi-photon signatures at the Fermilab Tevatron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alves, Alexandre", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, Oscar", 
+                    "COMPLETE-NAME": "Éboli, Oscar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Plehn, Tilman", 
+                    "COMPLETE-NAME": "Plehn, Tilman", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "It is a gluino", 
+                "PORTUGUESE-TITLE": "It is a gluino"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mizukoshi, J.", 
+                    "COMPLETE-NAME": "Mizukoshi, J.", 
+                    "ID": "5786572823204807"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "pp?jje ? ?? and jje ???? at O(?em6) and O(?em4?s2) for the study of the quartic electroweak gauge boson vertex at CERN LHC", 
+                "PORTUGUESE-TITLE": "pp?jje ? ?? and jje ???? at O(?em6) and O(?em4?s2) for the study of the quartic electroweak gauge boson vertex at CERN LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "G. Burdman", 
+                    "COMPLETE-NAME": "Burdman, Gustavo", 
+                    "ID": "9615660619479193"
+                }, 
+                {
+                    "CITATION-NAMES": "AQUINO, P.", 
+                    "COMPLETE-NAME": "Priscila aquino", 
+                    "ID": "8784895692724713"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Signal for an Extra-Dimensional Model of Flavor at the Large Hadron Collider", 
+                "PORTUGUESE-TITLE": "Signal for an Extra-Dimensional Model of Flavor at the Large Hadron Collider"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alves, Alexandre", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, Oscar", 
+                    "COMPLETE-NAME": "Éboli, Oscar", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Unravelling the sbottom spin at the CERN LHC", 
+                "PORTUGUESE-TITLE": "Unravelling the sbottom spin at the CERN LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "Maurício Bernardino Magro", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HIRSCH,  M.", 
+                    "COMPLETE-NAME": "Martin Hirsch", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VALLE, J. W. F.", 
+                    "COMPLETE-NAME": "J. W. F. VALLE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Probing bilinear R-parity violating supergravity at the LHC."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Éboli, O. J. P.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M. B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Skadhauge, S.", 
+                    "COMPLETE-NAME": "Skadhauge, S.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "CERN LHC signals for a neutrino mass model with bilinear R-parity violating minimal anomaly mediated supersymmetry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alves, Alexandre", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Éboli, O. J. P.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "J. K. Mizukoshi", 
+                    "ID": "5786572823204807"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Deciphering the spin of new resonances in Higgsless models"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Éboli, O. J. P.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "M. B. MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Searching supersymmetry at the LHCb with displaced vertices"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Burdman, G.", 
+                    "COMPLETE-NAME": "Burdman, G.", 
+                    "ID": "9615660619479193"
+                }, 
+                {
+                    "CITATION-NAMES": "Da Rold, L.", 
+                    "COMPLETE-NAME": "Da Rold, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Matheus, R.", 
+                    "COMPLETE-NAME": "Matheus, R.", 
+                    "ID": "0845658462496715"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Strongly coupled fourth generation at the LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Magro, M.", 
+                    "COMPLETE-NAME": "Magro, M.", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valle, J.", 
+                    "COMPLETE-NAME": "Valle, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Finding the Higgs boson through supersymmetry"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, A.", 
+                    "COMPLETE-NAME": "Alexandre Alves", 
+                    "ID": "7323339163869801"
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Netto, D.", 
+                    "COMPLETE-NAME": "Netto, D.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mizukoshi, J.", 
+                    "COMPLETE-NAME": "Mizukoshi, J.", 
+                    "ID": "5786572823204807"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Signals for new spin-1 resonances in electroweak gauge boson pair production at the LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O.J.P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.C.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Scrutinizing the ZW+W?ZW+W? vertex at the Large Hadron Collider at 7 TeV"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Hirsch, M.", 
+                    "COMPLETE-NAME": "Hirsch, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Magro, M.", 
+                    "COMPLETE-NAME": "Magro, M.", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valle, J.", 
+                    "COMPLETE-NAME": "Valle, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Probing neutrino oscillations in supersymmetric models at the Large Hadron Collider"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Fong, Chee", 
+                    "COMPLETE-NAME": "Fong, Chee", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Determination of the spin of new resonances in electroweak gauge boson pair production at the LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Neutrino masses at LHC: minimal lepton flavour violation in Type-III see-saw"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Savoy, C. A.", 
+                    "COMPLETE-NAME": "Savoy, C. A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Funchal, R. Zukanovich", 
+                    "COMPLETE-NAME": "Funchal, R. Zukanovich", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A rationale for long-lived quarks and leptons at the LHC: low energy flavour theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez Garcia, M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Present bounds on new neutral vector resonances from electroweak gauge boson pair production at the LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Bornhauser, S.", 
+                    "COMPLETE-NAME": "Bornhauser, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DREES, M.", 
+                    "COMPLETE-NAME": "M. Drees", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Dreiner, H.", 
+                    "COMPLETE-NAME": "Dreiner, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Kim, J. S.", 
+                    "COMPLETE-NAME": "Kim, J. S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Kittel, O.", 
+                    "COMPLETE-NAME": "Kittel, O.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "CP asymmetries in the supersymmetric trilepton signal at the LHC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORBETT, TYLER", 
+                    "COMPLETE-NAME": "CORBETT, TYLER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Constraining anomalous Higgs boson interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "de Campos, F.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Éboli, O.", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "Magro, M.", 
+                    "COMPLETE-NAME": "Magro, M.", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "POROD, W.", 
+                    "COMPLETE-NAME": "Werner Porod", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, S.", 
+                    "COMPLETE-NAME": "DAS, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Hirsch, M.", 
+                    "COMPLETE-NAME": "Hirsch, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Valle, J.", 
+                    "COMPLETE-NAME": "Valle, J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Probing neutralino properties in minimal supergravity with bilinear R-parity violation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORBETT, TYLER", 
+                    "COMPLETE-NAME": "CORBETT, TYLER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Robust determination of the Higgs couplings: Power to the data"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORBETT, TYLER", 
+                    "COMPLETE-NAME": "CORBETT, TYLER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Determining Triple Gauge Boson Couplings from Higgs Data"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRIVIO, I.", 
+                    "COMPLETE-NAME": "BRIVIO, I.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORBETT, T.", 
+                    "COMPLETE-NAME": "CORBETT, T.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GAVELA, M. B.", 
+                    "COMPLETE-NAME": "GAVELA, M. B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M. C.", 
+                    "COMPLETE-NAME": "M. C. Gonzalez-Garcia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MERLO, L.", 
+                    "COMPLETE-NAME": "MERLO, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIGOLIN, S.", 
+                    "COMPLETE-NAME": "RIGOLIN, S.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Disentangling a dynamical Higgs"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRIVIO, I.", 
+                    "COMPLETE-NAME": "BRIVIO, I.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GAVELA, M. B.", 
+                    "COMPLETE-NAME": "GAVELA, M. B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCÍA, M. C.", 
+                    "COMPLETE-NAME": "GONZALEZ-GARCÍA, M. C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MERLO, L.", 
+                    "COMPLETE-NAME": "MERLO, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIGOLIN, S.", 
+                    "COMPLETE-NAME": "RIGOLIN, S.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Higgs ultraviolet softening"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORBETT, TYLER", 
+                    "COMPLETE-NAME": "CORBETT, TYLER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ÉBOLI, O.'J.'P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONZALEZ-GARCIA, M.'C.", 
+                    "COMPLETE-NAME": "GONZALEZ-GARCIA, M.'C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Unitarity constraints on dimension-six operators"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CORBETT, TYLER", 
+                    "COMPLETE-NAME": "CORBETT, TYLER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GONÇALVES, DORIVAL", 
+                    "COMPLETE-NAME": "GONÇALVES, DORIVAL", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Plehn, Tilman", 
+                    "COMPLETE-NAME": "Plehn, Tilman", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAUCH, MICHAEL", 
+                    "COMPLETE-NAME": "RAUCH, MICHAEL", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "The Higgs legacy of the LHC Run I", 
+                "PORTUGUESE-TITLE": "The Higgs legacy of the LHC Run I"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "RIVELLES, V.", 
+                    "COMPLETE-NAME": "V. RIVELLES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Vii J.A. Swieca Summer School: Particles And Fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. GOMES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, A.", 
+                    "COMPLETE-NAME": "A. SANTORO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Vi J.A. Swieca Summer School : Particles And Fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. GOMES", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTORO, A.", 
+                    "COMPLETE-NAME": "A. SANTORO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "V Jorge Andre Swieca Summer School; Particles And Fields."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "T. Corbett", 
+                    "COMPLETE-NAME": "Tyler Corbett", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Fraile, J.", 
+                    "COMPLETE-NAME": "Gonzalez-Fraile, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gonzalez-Garcia, M.C.", 
+                    "COMPLETE-NAME": "Gonzalez-Garcia, M.C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Éboli, O.J.P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Constraining anomalous Higgs interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Valle, J.", 
+                    "COMPLETE-NAME": "Valle, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Hirsch, M.", 
+                    "COMPLETE-NAME": "Hirsch, M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RESTREPO, D.", 
+                    "COMPLETE-NAME": "Diego restrepo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAGRO, M. B.", 
+                    "COMPLETE-NAME": "MAURICIO BERNARDINO MAGRO", 
+                    "ID": "5511774418341791"
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F.", 
+                    "COMPLETE-NAME": "F. de Campos", 
+                    "ID": "8207007315403264"
+                }, 
+                {
+                    "CITATION-NAMES": "EBOLI, O. J. P.", 
+                    "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, S. P.", 
+                    "COMPLETE-NAME": "Siba P Das", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Probing neutralino properties in minimal supergravity with bilinear R-parity violation"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "EBOLI, O. J. P.;Alves, Alexandre;de Campos, F.;Akeroyd, A.G.;Éboli, O.;Éboli, O.J.P.;Éboli, O. J. P.;Eboli, Oscar;Ã'BOLI, O.;ÉBOLI, O.'J.'P.;ÉBOLI, OSCAR J. P.", 
+        "COMPLETE-NAME": "Oscar Jose Pinto Eboli", 
+        "ID": "8207007315403264", 
+        "PHD-BEGGINING": "1983", 
+        "PHD-ENDING": "1985"
+    }
+}

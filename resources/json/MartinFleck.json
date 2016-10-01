@@ -1,0 +1,204 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KUHN, P. S.", 
+                    "COMPLETE-NAME": "P. S. Kuhn", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROCHA, L. F.", 
+                    "COMPLETE-NAME": "L. F. Rocha", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dinâmica de partículas livres sem carga no espaço com simetria esférica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "F. P. Devecchi", 
+                    "ID": "7098990206686303"
+                }, 
+                {
+                    "CITATION-NAMES": "FOERSTER, A.", 
+                    "COMPLETE-NAME": "A. Foerster", 
+                    "ID": "7012069649140656"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "J. R. S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coulomb Gauge Quantization of the Maxwell-Chern-Simons Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "BFT embedding of  the Self-Dual model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DEVECCHI, F. P.", 
+                    "COMPLETE-NAME": "F. P. Devecchi", 
+                    "ID": "7098990206686303"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coulomb Gauge Quantization of the Maxwell-Chern-Simons Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M. Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A. J. da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FOERSTER, A.", 
+                    "COMPLETE-NAME": "A. Foerster", 
+                    "ID": "7012069649140656"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "J. R. S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "''Coulomb Gauge Quantization and Renormalization of the Chern-Simons Theory coupled to Fermions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H. O. Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "BFT embedding of second class systems"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FLECK, M.", 
+                    "COMPLETE-NAME": "Martin Fleck", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum equivalence of some (2+1)-dimensional interacting field models"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FLECK, M.", 
+        "COMPLETE-NAME": "Martin Fleck", 
+        "ID": "5100959223864224", 
+        "PHD-BEGGINING": "1995", 
+        "PHD-ENDING": "1999"
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1977", 
+                "PORTUGUESE-TITLE": "Conformal Invariant Quantum Field Theory and Composite Field Operators"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SCHROER, B.", 
+                    "COMPLETE-NAME": "Bert Schroer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SWIECA, J. A.", 
+                    "COMPLETE-NAME": "Jorge Andre Swieca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "PORTUGUESE-TITLE": "Comments on Confinement Criteria"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BERG, B.", 
+                    "COMPLETE-NAME": "B Berg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KAROWSKI, M.", 
+                    "COMPLETE-NAME": "M Karowski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WEISZ, P.", 
+                    "COMPLETE-NAME": "P Weisz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "PORTUGUESE-TITLE": "Factorized U(n) Symmetric S-Matrices in Two Dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BERG, B.", 
+                    "COMPLETE-NAME": "B Berg", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KAROWSKI, M.", 
+                    "COMPLETE-NAME": "M Karowski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "WEISZ, P.", 
+                    "COMPLETE-NAME": "P Weisz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "PORTUGUESE-TITLE": "Scattering Amplitudes of the Gross-Neveu and Nonlinear Sigma Models in Higher Order of the 1/N-Expansion"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KAROWSKI, M.", 
+                    "COMPLETE-NAME": "M Karowski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SCHROER, B.", 
+                    "COMPLETE-NAME": "Bert Schroer", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "PORTUGUESE-TITLE": "Confinement in Two-Dimensional Models with Factorization"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SWIECA, J. A.", 
+                    "COMPLETE-NAME": "Jorge Andre Swieca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "PORTUGUESE-TITLE": "Antiparticles as Bound States of Particles in the Factorized S-Matrix Framework"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KOBERLE, R.", 
+                    "COMPLETE-NAME": "R Koberle", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SWIECA, J. A.", 
+                    "COMPLETE-NAME": "Jorge Andre Swieca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "PORTUGUESE-TITLE": "Scattering Theory and the 1/N Expansion in the Chiral Gross-Neveu Modl"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ONODY, R. N.", 
+                    "COMPLETE-NAME": "R N Onody", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "PORTUGUESE-TITLE": "Exact Solution of Z(N) Invariant Spin Models on a Triangular Lattice"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KOBERLE, R.", 
+                    "COMPLETE-NAME": "R Koberle", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "PORTUGUESE-TITLE": "Deconfinement in the CP(N-1) Model by Massless Fermions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KOBERLE, R.", 
+                    "COMPLETE-NAME": "R Koberle", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "PORTUGUESE-TITLE": "The S-Matrix of a Factorizable Supersymmetric Z(N) Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KOBERLE, R.", 
+                    "COMPLETE-NAME": "R Koberle", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "PORTUGUESE-TITLE": "Solitons in the Supersymmetric CP(N-1) Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "PORTUGUESE-TITLE": "Remarks on Degenerate Theories of the Conformal Invariant Quantum Field Theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Otavio Caminha Gomes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Wely Fields, Quantum Integrability and Conformal Invariant Field Theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ONODY, R. N.", 
+                    "COMPLETE-NAME": "R N Onody", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Equivalences Between a Dimer, a Vertex amd a Spin Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Otavio Caminha Gomes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Quantum Integrability and Kac-Moody Algebras"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Otavio Caminha Gomes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Superconformal Invariant Non-Linear sigma-Models from the Bosonic Ones"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GIROTTI, H.", 
+                    "COMPLETE-NAME": "Horacio Oscar Girotti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Otavio Caminha Gomes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "Victor de Oliveira Rivelles", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Chiral Bosonization"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Otavio Caminha Gomes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "Victor de Oliveira Rivelles", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1988", 
+                "PORTUGUESE-TITLE": "Self-Dual Field and Thirring Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "PORTUGUESE-TITLE": "W-Algebras and Level-Group Duality"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIMA-SANTOS, A.", 
+                    "COMPLETE-NAME": "Antonio Lima Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "PORTUGUESE-TITLE": "sl(2/1)(2) Gaudin Magnet and its Associated Knizhnik-Zamolodchikov Equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIMA-SANTOS, A.", 
+                    "COMPLETE-NAME": "Antonio Lima Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "PORTUGUESE-TITLE": "Algebraic Bethe Ansatz for the Zamolodchikov-Fateev and Izergin-Korepin Models with Open Boundary Conditions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIMA-SANTOS, A.", 
+                    "COMPLETE-NAME": "Antonio Lima Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "PORTUGUESE-TITLE": "A(2)(2) Gaudin Model and its Associated Knizhnikov-Zamolodchickov Equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LIMA-SANTOS, A.", 
+                    "COMPLETE-NAME": "Antonio Lima Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KURAK, V.", 
+                    "COMPLETE-NAME": "Valerio Kurak", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "PORTUGUESE-TITLE": "Algebraic Bethe Ansatz Solutions for the sl(2/1)(2) and ops(2/1) Models with Boundary Terms"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "KURAK, V.", 
+        "COMPLETE-NAME": "Valerio Kurak", 
+        "ID": "0003243576384687", 
+        "PHD-BEGGINING": "1976", 
+        "PHD-ENDING": "1979"
+    }
+}

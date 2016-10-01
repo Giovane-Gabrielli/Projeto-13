@@ -1,0 +1,269 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda da Silva, A.", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "Geraldo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIN, M. S. P.", 
+                    "COMPLETE-NAME": "Suely", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, Y. O.", 
+                    "COMPLETE-NAME": "Fossum", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Intercalação e Difusão em argilas sintéticas expansíveis por absorção de raios-x de síncrotron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda da Silva, A.", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "Geraldo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIN, M. S. P.", 
+                    "COMPLETE-NAME": "Suely", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, Y. O.", 
+                    "COMPLETE-NAME": "Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AZEVEDO, G.", 
+                    "COMPLETE-NAME": "Gustavo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Intercalação e Difusão em Nano-Silicatos expansíveis utilizando a técnica de"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda da Silva, A.", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIN, M. S. P.", 
+                    "COMPLETE-NAME": "Suely", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mocellin, A.", 
+                    "COMPLETE-NAME": "Ale", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "de Brito, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Investigação da fase gasosa do &#945;-aminoácido DL-Valina"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Naves de Brito, A.", 
+                    "COMPLETE-NAME": "Naves de Brito, A.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Miranda da Silva, A.", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mocellin, A.", 
+                    "COMPLETE-NAME": "Ale", 
+                    "ID": "5740079715583388"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "The rule of synchrotron radiation in the prebiotic evolution", 
+                "PORTUGUESE-TITLE": "The rule of synchrotron radiation in the prebiotic evolution"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DA SILVA, ÁDERSON MIRANDA", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, ALEXANDRA", 
+                    "COMPLETE-NAME": "MOCELLIN, ALEXANDRA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MONTI, SUSANNA", 
+                    "COMPLETE-NAME": "MONTI, SUSANNA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LI, CUI", 
+                    "COMPLETE-NAME": "LI, CUI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, RICARDO R. T.", 
+                    "COMPLETE-NAME": "MARINHO, RICARDO R. T.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MEDINA, ALINE", 
+                    "COMPLETE-NAME": "MEDINA, ALINE", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGREN, HANS", 
+                    "COMPLETE-NAME": "AGREN, HANS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARRAVETTA, VINCENZO", 
+                    "COMPLETE-NAME": "CARRAVETTA, VINCENZO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DE BRITO, ARNALDO NAVES", 
+                    "COMPLETE-NAME": "DE BRITO, ARNALDO NAVES", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Surface-Altered Protonation Studied by Photoelectron Spectroscopy and Reactive Dynamics Simulations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Silva, Á. Miranda da", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mocellin, A.", 
+                    "COMPLETE-NAME": "Ale", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "FARROKHPOUR, H.", 
+                    "COMPLETE-NAME": "FARROKHPOUR, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M.S.P.", 
+                    "COMPLETE-NAME": "MUNDIM, M.S.P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. NAVES DE", 
+                    "COMPLETE-NAME": "BRITO, A. NAVES DE", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Photo induced dissociation of amino acids free from thermal degradation effects: A case study applied to DL-Valine"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda da Silva, A.", 
+                    "COMPLETE-NAME": "Áderson Miranda da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Orestes, E.", 
+                    "COMPLETE-NAME": "ednilsom", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "HOSSEIN,", 
+                    "COMPLETE-NAME": "Hossein", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mocellin, A.", 
+                    "COMPLETE-NAME": "Ale", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Canuto, S.", 
+                    "COMPLETE-NAME": "sylvio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "de Brito, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Efeitos de termodegradação na alpha-Valina: um estudo da fase gasosa por espectroscopia de fotoelétrons e espectroscopia de massa por tempo de voo"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "Miranda da Silva, A.;Silva, Á. Miranda da;DA SILVA, ÁDERSON MIRANDA", 
+        "COMPLETE-NAME": "Áderson Miranda da Silva", 
+        "ID": "4492614745939539", 
+        "PHD-BEGGINING": "2010", 
+        "PHD-ENDING": "2014"
+    }
+}

@@ -1,0 +1,2071 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luis Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Potenciais Efetivos em Modelos de Teoria Quântica de Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estados Ligados em Modelos Bi-Dimensionais: O Caso da QED2 e de um Modelo com Interações Quárticas Fermiônicas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "MALACARNE, L. C.", 
+                    "COMPLETE-NAME": "Luis Carlos Malacarne", 
+                    "ID": "5703717142850350"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estados Ligados en Modelos de Teoria Cuantica de Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilso José da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Geração Dinâmica de Massa no Modelo de Gross-Neveu em (2+1) D"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Sobre a Expansão Perturbativa do Modelo de Gross-Neveu em (2+1) D"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O Grupo de Renormalização e o Modelo de Nambu-Jona-Lassinio como uma Teoria Efetiva"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Influência do Campo de Chern-Simons sobre as Propriedades de Renormalizabilidade do modelo (\\phi* \\phi)3"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "6773312611802159"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Campos Fermiônicos com Auto-Interação Quártica Acoplados a um Campo de Chern-Simons: Um Estudo do Grupo de Renormalização"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS JÚNIOR, Luis Almir Cavalcante dos", 
+                    "COMPLETE-NAME": "Luis Almir Cavalcante dos Santos Júnior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SAITO, Kymie Karina Silva", 
+                    "COMPLETE-NAME": "Kymie Karina Silva Saito", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, Fábio Alex Pereira dos", 
+                    "COMPLETE-NAME": "Fábio Alex Pereira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "One Loop Yukawa Model in Light Front Cone Coordinated at Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS JÚNIOR, Luis Almir Cavalcante dos", 
+                    "COMPLETE-NAME": "Luis Almir Cavalcante dos Santos Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Alguns Aspestos da Teoria Quântica de Campos em (2+1) Dimensões"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PARREIRA, Milena", 
+                    "COMPLETE-NAME": "Milena Parreira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transferência de Energia no Processo de Formação dos Microtúbulos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo T", 
+                    "COMPLETE-NAME": "Danilo T Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS JÚNIOR, Luis Almir Cavalcante dos", 
+                    "COMPLETE-NAME": "Luis Almir Cavalcante dos Santos Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Casimir Efect in light front cone coordinates for the massive scalar fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Alex Gomes", 
+                    "COMPLETE-NAME": "Alex Gomes Dias", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "One loop contribution to the response rate of a uniformly accelerated source in Minkowski spacetime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "6773312611802159"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Perturbative Gross-Neveu Model Coupled to a Chern-Simons Fiels: A Renormalization Group Study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Four-Fermion Theories and the Chern-Simons Fiels: A Renormalization Group Study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Renormalization Group Study of the (F* F)3 Model Coupled to a Chern-Simons Fiels"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BASSALO, J. M. F.", 
+                    "COMPLETE-NAME": "José Maria Filardo Bassalo", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "IGNACIO, W. P.", 
+                    "COMPLETE-NAME": "Wanda Pereira Ignacio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASSAR, A. B.", 
+                    "COMPLETE-NAME": "Antonio Bulhosa Nassar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CATTANI, M. S. D.", 
+                    "COMPLETE-NAME": "Mauro Sérgio Dorsa Cattani", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Calor Específico de Los Sistemas Disipativos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, ASHOK", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "DUNNE, GERALD V.", 
+                    "COMPLETE-NAME": "Gerald V Dunne", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Parity violation bosonic loops at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BASSALO, J. M. F.", 
+                    "COMPLETE-NAME": "José Maria Filardo Bassalo", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "IGNÁCIO, W. P.", 
+                    "COMPLETE-NAME": "Wanda P Ignácio", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASSAR, A. B.", 
+                    "COMPLETE-NAME": "Antônio Bulhosa Nassar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CATTANI, M. S. D.", 
+                    "COMPLETE-NAME": "Mauro Sérgio Dorsa Cattani", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Specific Heat of Dissipative System"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, ASHOK", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Light Front Field Theories at Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, L.", 
+                    "COMPLETE-NAME": "Leonardo Nascimento", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Beta function in the non-Abelian Nambu-Jona-Lasinio model in four dimensions", 
+                "PORTUGUESE-TITLE": "Beta function in the non-Abelian Nambu-Jona-Lasinio model in four dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ELIAS, WALACE S.", 
+                    "COMPLETE-NAME": "ELIAS, WALACE S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "JURI&#269;I', VLADIMIR", 
+                    "COMPLETE-NAME": "JURI&#269;I', VLADIMIR", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEÑA, FRANCISCO", 
+                    "COMPLETE-NAME": "PEÑA, FRANCISCO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chiral symmetry breaking in the pseudo-quantum electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno Charneski", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEONARDO", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEONARDO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEÑA, FRANCISCO", 
+                    "COMPLETE-NAME": "PEÑA, FRANCISCO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chern-Simons terms in Lifshitz-like quantum electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, T.", 
+                    "COMPLETE-NAME": "ALMEIDA, T.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, DANILO T.", 
+                    "COMPLETE-NAME": "ALVES, DANILO T.", 
+                    "ID": "6642002445572793"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, SILVANA", 
+                    "COMPLETE-NAME": "PEREZ, SILVANA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RODRIGUES, P. L. M.", 
+                    "COMPLETE-NAME": "RODRIGUES, P. L. M.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Light front Casimir effect"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEONARDO", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEONARDO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEÑA, FRANCISCO", 
+                    "COMPLETE-NAME": "PEÑA, FRANCISCO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fixed points in perturbative non-Abelian four-Fermi theory in D"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARINO, E.'C.", 
+                    "COMPLETE-NAME": "MARINO, E.'C.", 
+                    "ID": "4256849386217726"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MORAIS SMITH, C.", 
+                    "COMPLETE-NAME": "MORAIS SMITH, C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Unitarity of theories containing fractional powers of the d?Alembertian operator"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MARINO, E.'C.", 
+                    "COMPLETE-NAME": "MARINO, E.'C.", 
+                    "ID": "4256849386217726"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SMITH, C. MORAIS", 
+                    "COMPLETE-NAME": "SMITH, C. MORAIS", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interaction Induced Quantum Valley Hall Effect in Graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEÑA, FRANCISCO", 
+                    "COMPLETE-NAME": "PEÑA, FRANCISCO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SMITH, C. MORAIS", 
+                    "COMPLETE-NAME": "SMITH, C. MORAIS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINO, E.'C.", 
+                    "COMPLETE-NAME": "MARINO, E.'C.", 
+                    "ID": "4256849386217726"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Chiral-symmetry breaking in pseudoquantum electrodynamics at finite temperature", 
+                "PORTUGUESE-TITLE": "Chiral-symmetry breaking in pseudoquantum electrodynamics at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DE MEDEIROS NETO, J.'F.", 
+                    "COMPLETE-NAME": "DE MEDEIROS NETO, J.'F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RAMOS, RUDNEI O.", 
+                    "COMPLETE-NAME": "RAMOS, RUDNEI O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, CARLOS RAFAEL M.", 
+                    "COMPLETE-NAME": "SANTOS, CARLOS RAFAEL M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OZELA, RODRIGO F.", 
+                    "COMPLETE-NAME": "OZELA, RODRIGO F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAGALHÃES, GABRIEL C.", 
+                    "COMPLETE-NAME": "MAGALHÃES, GABRIEL C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Suppressing vacuum fluctuations with vortex excitations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, ASHOK", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "6773312611802159"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Screening Length in (2+1) Dimensional Abelian Chern-Simons Theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PINHEIRO, Sérgio Vizeu Lima", 
+                    "COMPLETE-NAME": "Sérgio Vizeu Lima Pinheiro", 
+                    "ID": "0963763059507509"
+                }, 
+                {
+                    "CITATION-NAMES": "LIMA, Marcelo Costa de", 
+                    "COMPLETE-NAME": "Marcelo Costa de Lima", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, L. C. B.", 
+                    "COMPLETE-NAME": "Luis Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREZ, S.", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Consolidação do Grupo de Pesquisa em Física-Matemática"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O Modelo de Nambu-Jona-Lasinio e sua Conexão com a Cromodinâmica Quântica à Baixas Energias"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, L.", 
+                    "COMPLETE-NAME": "Leonardo Nascimento", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalization Group Functions for the Vectorial and Pseudo Vectorial Sector in the Nambu-Jona-Lasinio Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "JOELE, R.", 
+                    "COMPLETE-NAME": "Roberto Joele", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Sobre a Eletrodinâmica Quântica em (2+1)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, L.", 
+                    "COMPLETE-NAME": "Leonardo Nascimento", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Perturbative Renormalization Group for the Vectorial and Pseudovectorial Sector in the Nambu-Jona-Lasinio Model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Van Sérgio Alves", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINO, E.'C.", 
+                    "COMPLETE-NAME": "MARINO, E.'C.", 
+                    "ID": "4256849386217726"
+                }, 
+                {
+                    "CITATION-NAMES": "MORAIS SMITH, C.", 
+                    "COMPLETE-NAME": "MORAIS SMITH, C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Efeito Hall Quântico de Vale no Grafeno: uma mudança de paradigma", 
+                "PORTUGUESE-TITLE": "Efeito Hall Quântico de Vale no Grafeno: uma mudança de paradigma"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Efeitos Físicos no Grafeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Recentes Resultados da Pseudo Eletrodinâmica Quântica aplicada ao Grafeno", 
+                "PORTUGUESE-TITLE": "Recentes Resultados da Pseudo Eletrodinâmica Quântica aplicada ao Grafeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "A importância da Interação Eletromagnética no Grafeno", 
+                "PORTUGUESE-TITLE": "A importância da Interação Eletromagnética no Grafeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "C. JUNIOR, R. O.", 
+                    "COMPLETE-NAME": "Reginaldo de Oliveira C. Júnior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINO, E.'C.", 
+                    "COMPLETE-NAME": "MARINO, E.'C.", 
+                    "ID": "4256849386217726"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "A influência da velocidade de Fermi na geração dinâmica de massa na Pseudo Eletrodinâmica Quântica", 
+                "PORTUGUESE-TITLE": "A influência da velocidade de Fermi na geração dinâmica de massa na Pseudo Eletrodinâmica Quântica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NASCIMENTO, L.", 
+                    "COMPLETE-NAME": "Leonardo Nascimento", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Perturbative beta function in the most general four-fermion interactions model in (3+1)D", 
+                "PORTUGUESE-TITLE": "Perturbative beta function in the most general four-fermion interactions model in (3+1)D"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "E. C. Marino", 
+                    "COMPLETE-NAME": "Eduardo Cantera Marino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, L.", 
+                    "COMPLETE-NAME": "Leandro Oliveira", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MORAIS SMITH, C.", 
+                    "COMPLETE-NAME": "MORAIS SMITH, C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Interaction Induced Quantum Valley Hall Effect in Graphene", 
+                "PORTUGUESE-TITLE": "Interaction Induced Quantum Valley Hall Effect in Graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SMITH, C. MORAIS", 
+                    "COMPLETE-NAME": "SMITH, C. MORAIS", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "E. C. Marino", 
+                    "COMPLETE-NAME": "Eduardo Cantera Marino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEANDRO O.", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEANDRO O.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Chiral-Symmetry Breaking in Pseudo Quantum Electrodynamics at Finite Temperature", 
+                "PORTUGUESE-TITLE": "Chiral-Symmetry Breaking in Pseudo Quantum Electrodynamics at Finite Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "E. C. Marino", 
+                    "COMPLETE-NAME": "Eduardo Cantera Marino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, L.", 
+                    "COMPLETE-NAME": "Leandro Oliveira", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SMITH, C. MORAIS", 
+                    "COMPLETE-NAME": "SMITH, C. MORAIS", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Interaction Induced Quantum Valley Hall Effect in Graphene", 
+                "PORTUGUESE-TITLE": "Interaction Induced Quantum Valley Hall Effect in Graphene"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "E. C. Marino", 
+                    "COMPLETE-NAME": "Eduardo Cantera Marino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, L.", 
+                    "COMPLETE-NAME": "Leandro Oliveira", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SMITH, C. MORAIS", 
+                    "COMPLETE-NAME": "SMITH, C. MORAIS", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Unitarity of theories containing fractional powers of the d´Alembertian operator", 
+                "PORTUGUESE-TITLE": "Unitarity of theories containing fractional powers of the d´Alembertian operator"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAMPOS, F. P.", 
+                    "COMPLETE-NAME": "Francisco Penã Campos", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, L.", 
+                    "COMPLETE-NAME": "Leonardo Nascimento", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O Modelo de Nambu-Jona-Lasinio em (3+1)D como uma Teoria Efetiva para a Cromodinâmica Quântica em Baixas Energias"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Equação de Dirac"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Integrais de Trajetória em Mecânica Quântica e Teoria Quântica de Campos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mecânica Clássica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORRÊA JÚNIOR, Gregório Barbosa", 
+                    "COMPLETE-NAME": "Gregório Barbosa Corrêa Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Cachoeira de Fumaça Natureza"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, Lizangela Maria Almeida da", 
+                    "COMPLETE-NAME": "Lizangela Maria Almeida da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Câmara Escura"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "REIS JÚNIOR, João Andrade dos", 
+                    "COMPLETE-NAME": "João Andrade dos Reis Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: CD Hovercraft"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, Lizangela Maria Almeida da", 
+                    "COMPLETE-NAME": "Lizangela Maria Almeida da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Desviando a Luz"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "REIS JÚNIOR, João Andrade dos", 
+                    "COMPLETE-NAME": "João Andrade dos Reis Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Elevador Hidráulico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LIMA, Mateus Gomes", 
+                    "COMPLETE-NAME": "Mateus Gomes Lima", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Lata Mágica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, Lizangela Maria Almeida da", 
+                    "COMPLETE-NAME": "Lizangela Maria Almeida da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Disco de Newton"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Jorge Edson Amorim", 
+                    "COMPLETE-NAME": "Jorge Edson Amorim Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "REIS JÚNIOR, João Andrade dos", 
+                    "COMPLETE-NAME": "João Andrade dos Reis Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Motor de Corrente Contínua"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Jorge Edson Amorim", 
+                    "COMPLETE-NAME": "Jorge Edson Amorim Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "REIS JÚNIOR, João Andrade dos", 
+                    "COMPLETE-NAME": "João Andrade dos Reis Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Eletroímã"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRASIL, Diógenes Leão", 
+                    "COMPLETE-NAME": "Diógenes Leão Brasil", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Sifão"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRASIL, Diógenes Leão", 
+                    "COMPLETE-NAME": "Diógenes Leão Brasil", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Vasos Comunicantes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MACIEL, Soraya Galdino", 
+                    "COMPLETE-NAME": "Soraya Galdino Maciel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Produzindo um Arco-Íris"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRASIL, Diógenes Leão", 
+                    "COMPLETE-NAME": "Diógenes Leão Brasil", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Foguete de Pressão"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, Lizangela Maria Almeida da", 
+                    "COMPLETE-NAME": "Lizangela Maria Almeida da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: A Fibra Óptica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Jorge Edson Amorim", 
+                    "COMPLETE-NAME": "Jorge Edson Amorim Dias", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: O Experimento de Oerstead"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, Lizangela Maria Almeida da", 
+                    "COMPLETE-NAME": "Lizangela Maria Almeida da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Sistema Solar"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, Jorge Edson Amorim", 
+                    "COMPLETE-NAME": "Jorge Edson Amorim Dias", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Roteiro de experimento: Palhaço Equilibrista"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Van Sérgio Alves", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo T", 
+                    "COMPLETE-NAME": "Danilo T Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, L.", 
+                    "COMPLETE-NAME": "Leandro Oliveira", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "C. JUNIOR, R. O.", 
+                    "COMPLETE-NAME": "Reginaldo de Oliveira C. Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Teoria Quântica de Campos e Aplicações no Grafeno", 
+                "PORTUGUESE-TITLE": "Teoria Quântica de Campos e Aplicações no Grafeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Física no Vestibular"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Análise Estatística dos últimos Vestibulares da UFPA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Abordagem de questões em Física no Vestibular"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, B. R. P.", 
+                    "COMPLETE-NAME": "Bruno Ricardo Pinto dos Santos", 
+                    "ID": "7570653092288363"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Enpansão 1/N em Modelos com Auto-Interação Quártica Fermiônica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "JANUÁRIO, Manoel", 
+                    "COMPLETE-NAME": "Manoel Januário", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Elaboração e Manutenção de Site na Internet: Laboratório de Demonstração"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "JANUÁRIO, Manoel", 
+                    "COMPLETE-NAME": "Manoel Januário", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Elaboração e Manutenção de Site da Internet: Física para a Escola"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, Danilo Teixeira", 
+                    "COMPLETE-NAME": "Danilo Teixeira Alves", 
+                    "ID": "7570653092288363"
+                }, 
+                {
+                    "CITATION-NAMES": "KLAUTAU, Ângela Burlamaqui", 
+                    "COMPLETE-NAME": "Ângela Burlamaqui Klautau", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRISPINO, Luís Carlos Bassalo", 
+                    "COMPLETE-NAME": "Luís Carlos Bassalo Crispino", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA FILHO, Silvio Carlos Ferreira", 
+                    "COMPLETE-NAME": "Silvio Carlos Ferreira Pereira Filho", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Elaboração e Manutenção de Site da Internet: Mestrado em Física"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, V. S.", 
+                    "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS JÚNIOR, Luis Almir Cavalcante dos", 
+                    "COMPLETE-NAME": "Luis Almir Cavalcante dos Santos Júnior", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Alguns Aspectos da Teoria Quântica de Campos em (2+1) Dimensões"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "ALVES, V. S.;Van Sérgio Alves;ALVES, VAN SÉRGIO", 
+        "COMPLETE-NAME": "Van Sérgio da Silva Alves", 
+        "ID": "5346258049047843", 
+        "PHD-BEGGINING": "1994", 
+        "PHD-ENDING": "1998"
+    }
+}

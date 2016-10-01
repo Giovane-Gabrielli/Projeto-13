@@ -1,0 +1,49 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Aguiar, M A M de", 
+                    "COMPLETE-NAME": "Aguiar, M A M de", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. C.", 
+                    "COMPLETE-NAME": "Luis Coelho dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Coherent state path integrals in the Weyl representation", 
+                "PORTUGUESE-TITLE": "Coherent state path integrals in the Weyl representation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Aguiar, M. A. M. de", 
+                    "COMPLETE-NAME": "Aguiar, M. A. M. de", 
+                    "ID": "6114863866102325"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, L. C.", 
+                    "COMPLETE-NAME": "Luis Coelho dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A new form of path integral for the coherent states representation and its semiclassical limit"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "SANTOS, L. C.", 
+        "COMPLETE-NAME": "Luis Coelho dos Santos", 
+        "ID": "5166826783600028", 
+        "PHD-BEGGINING": "2002", 
+        "PHD-ENDING": "2008"
+    }
+}

@@ -1,0 +1,2919 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Counter-example to non-abelian Bloch-Nordsieck conjecture."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1981", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Soft divergences in perturbative QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARNEIRO, C. E. I.", 
+                    "COMPLETE-NAME": "C. E. I. Carneiro", 
+                    "ID": "3417211259305359"
+                }, 
+                {
+                    "CITATION-NAMES": "THOMAZ, M.", 
+                    "COMPLETE-NAME": "M.,T. Thomaz", 
+                    "ID": "8627506263906532"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1981", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Leading non-cancelling infrared divergences in perturbative QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, M.", 
+                    "COMPLETE-NAME": "Marie-Luise Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1982", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Threshold infrared behaviour in perturbative QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Radiative corrections to high-energy quark-antiquark reactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1983", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Soft gluons and the eikonal approximation with massless quarks."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quark-antiquark annihilation is infrared safe at high energy to all orders."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "An eikonal line-integral model and factorization in QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "CARNEIRO, C. E. I.", 
+                    "COMPLETE-NAME": "C. E. I. Carneiro", 
+                    "ID": "3417211259305359"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1985", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Asymptotic behavior of quark masses induced by instantons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared behavior of three and four gluon vertices in Yang-Mills theory."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Model of confinement in (2+1) dimensional QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CARNEIRO, C. E. I.", 
+                    "COMPLETE-NAME": "C. E. I. Carneiro", 
+                    "ID": "3417211259305359"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1986", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Electron-positron annihilation and non-abelian eikonal exponentiation."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Color-dielectric parameter in (2+1) dimensional QCD."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Metric dependence of partition function at high temperature."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1987", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Antiscreening effects of classical Yang-Mills fields."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1973", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Unified gauge theories and the electron-muon mass ratio"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, M.", 
+                    "COMPLETE-NAME": "Marie-Luise Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1974", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Heavy fermions and proton-neutron mass difference"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1974", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Complex Cabbibo angle and CP violation in a class of gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generalized forward scattering amplitudes in {QCD} at hightemperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1974", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Radiative corrections to the low energy theorem in the Weinberg model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Remark on a class of Faddeev-Popov Lagrangians in gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "FLEMING, H.", 
+                    "COMPLETE-NAME": "H. Fleming", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "New renormalisation group equation in gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gauge invariant Wilson operators and radiative corrections to hadrons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1975", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gauge dependence of renormalisation group parameters in ghost-free non-abelian gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Bjorken limit and renormalisation group equations in a class of ghost-free gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Class of ghost-free non-abelian gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Asymptotic freedom in the axial and Coulomb gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Exponentiation of leading infra-red divergences in massless Yang-Mills theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrafed behaviour of self-energy functions in the axial gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared behaviour in non-abelian gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1976", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Behaviour of leading infrared divergences in Quantum Chromodynamics in the axial gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1977", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Real and virtual infrared behaviour in Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, M.", 
+                    "COMPLETE-NAME": "Marie-Luise Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1977", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-leading infrared divergences in Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "FLEMING, H.", 
+                    "COMPLETE-NAME": "H. Fleming", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1977", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lee-Nauenberg theorem and Coulomb scattering"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1978", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the exponentiation of leading infrared divergences in massless Yang-Mills theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Drell-Yan formula in perturbation theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the quantization and asymptotic freedom of Yang-Mills theory in the temporal gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1979", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the Coulomb solution of Yang-Mills equations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1980", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared divergences in Quantum Chromodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1982", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Asymptotic states and infrared divergences in non-abelian theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1984", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non-abelian eikonal exponentiation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cancellation of soft interaction with spectators in the Drell-Yan process"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1989", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Long-distance behaviour of quark form factor in QCD"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High-temperature limit of thermal QCD"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Mean field analysis of SU(3) Yang-Mills theory at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Calculation of finite-temperature effects in field theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1991", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal loops in a gravitational field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A.", 
+                    "COMPLETE-NAME": "A.P. de Almeida", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Closed-form expressions for thermal Green's functions in field theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal QCD, forward scattering and effective actions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Pressure in thermal scalar field theory to three-loop order"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1992", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical spectrum of non relativistic bremsstrahlung"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A.", 
+                    "COMPLETE-NAME": "A.P. de Almeida", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared behaviour of the pressure in the ladder approximation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Graviton self-energy in thermal quantum gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effective action for Braaten-Pisarski resummation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Three graviton vertex function in thermal quantum gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, A.", 
+                    "COMPLETE-NAME": "A.P. de Almeida", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal matter and radiation in a gravitatonal field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The energy of the high temperature quark-gluon plasma"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear interaction between electromagnetic fields at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High temperature QCD and the classical Boltzmann equation in curved spacetime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High temperature field theory in curved spacetime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear electromagnetic interaction in theremal QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonlinear couplings and tree amplitudes in gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Multiparticle tree amplitudes in scalar field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "4/3 problem in classical elctrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, R. B.", 
+                    "COMPLETE-NAME": "R. B. Santos", 
+                    "ID": "8759782446074023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The electron self energy in a classical spin model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "High temperature ln(T) contributions in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "GUERRA, A.", 
+                    "COMPLETE-NAME": "A. Guerra", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Boltzmann equation in scalar field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Structure of graviton self-energy at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A.", 
+                    "COMPLETE-NAME": "A.J.da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Retarded Green functions and forward scattering ampitudes in thermal field theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, R. B.", 
+                    "COMPLETE-NAME": "R. B. Santos", 
+                    "ID": "8759782446074023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The self-force on a charged particle in classical electrodynamics with a cut-off"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Soluble theory of massless scalar two-dimensional QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Behaviour of the thermal gluon self-energy in the Coulomb gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Two-loop corrections to the topological mass term in thermal QED (3)Holanda"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Behaviour of logarithmic branch cuts in the self-energy of gluons at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Parity-violating electromagnetic interactions in QED(3) at finite temperatute"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Retarded thermal Green's functions and forward scattering amplitudes in two loops"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General structure of the graviton self-energy"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "DUNNE, G.", 
+                    "COMPLETE-NAME": "Gerald Dunne", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Large gauge Ward identity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "F.R.Machado", 
+                    "COMPLETE-NAME": "F.R. Machado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Finite temperature gluon self-energy in a class of temporal gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "F.R.Machado", 
+                    "COMPLETE-NAME": "F.R. Machado", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal forward scattering amplitude in temporal gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Parity-breaking electromagnetic interactions in thermal QED (3)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Absence of higher order corrections to the non-abelian Chern-Simons coefficient"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "D.G.C. McKeon", 
+                    "COMPLETE-NAME": "D.G.C.McKeon", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal effects in noncommutative U(N) Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General structure of the photon selfenergy in noncommutative QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Kronecker delta energy terms in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "DUNNE, G.", 
+                    "COMPLETE-NAME": "Gerald Dunne", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonabelian thermal large gauge transformations in (2+1) dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Induced parity violating thermal effective action for (2+1) dimensional fermions atracting with a nonabelian background"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Derivative expansion and the parity violating effective action for thermal (2+1) dimensional QED at higher orders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Absence of higher order corrections to the nonabelian topological mass term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Energy-momentum tensor in noncommutative gauge theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, S.", 
+                    "COMPLETE-NAME": "Saulo Henrique Pereira", 
+                    "ID": "9947566995410927"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Static effective action for noncommutative QED at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Transport equation for the photon Wigner operator in noncommutative QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, S.", 
+                    "COMPLETE-NAME": "Saulo Henrique Pereira", 
+                    "ID": "9947566995410927"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Background field quantization and non-commutative Maxwell theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Kontsevich product and gauge invariance"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Distribution functions for hard thermal particles in QCD"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, S. H.", 
+                    "COMPLETE-NAME": "S. H. Pereira", 
+                    "ID": "9947566995410927"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Coordinate noncommutativity in strong non-uniform magnetic fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, S. H.", 
+                    "COMPLETE-NAME": "S. H. Pereira", 
+                    "ID": "9947566995410927"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantum behavior of a charged particle in an axial magnetic field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Path Integral Approach to Residual Gauge Fixing"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Propagators with the Mandelstam-Leibbrandt Prescription in the Light-Cone Gauge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Unruh Effect in the General Light-Front Frame"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }, 
+                {
+                    "CITATION-NAMES": "Oliver Espinosa", 
+                    "COMPLETE-NAME": "Oliver Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator representation of finite temperature graphs"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Oliver Espinosa", 
+                    "COMPLETE-NAME": "Oliver Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator representation of finite temperature graphs. II"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Oliver Espinosa", 
+                    "COMPLETE-NAME": "Oliver Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Factorization of finite temperature graphs in thermal QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "C. Muramoto", 
+                    "COMPLETE-NAME": "C. Muramoto", 
+                    "ID": "9773832248290118"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the free energy of noncommutative quantum electrodynamics at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Oliver Espinosa", 
+                    "COMPLETE-NAME": "Oliver Espinosa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal Operator and Cutting Rules at Finite Temperature and Chemical Potential."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal effective actions in the Schwinger formulation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "C. Muramoto", 
+                    "COMPLETE-NAME": "C. Muramoto", 
+                    "ID": "9773832248290118"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fermionic Contributions to the Free Energy of Noncommutative Quantum Electrodynamics at High Temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal effective action in QCD through the thermal operator"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal operator and dispersion relation in QED at finite temperature and chemical potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F", 
+                    "COMPLETE-NAME": "BRANDT, F", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Instabilities in thermal gravity with a cosmological constant"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "Das, Ashok", 
+                    "COMPLETE-NAME": "Das, Ashok", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal instability in a gravity-like scalar theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, S. H.", 
+                    "COMPLETE-NAME": "S. H. Pereira", 
+                    "ID": "9947566995410927"
+                }, 
+                {
+                    "CITATION-NAMES": "NELSON TAKAHASHI", 
+                    "COMPLETE-NAME": "NELSON TAKAHASHI", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal loops in static external fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The long wavelength limit of hard thermal loop effective actions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "D.G.C. McKeon", 
+                    "COMPLETE-NAME": "D.G.C.McKeon", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Siqueira, J.B.", 
+                    "COMPLETE-NAME": "Siqueira, J.B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Resummation of infrared divergences in the free energy of spin-Two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Finite Temperature effective actions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Effective actions at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "D.G.C. McKeon", 
+                    "COMPLETE-NAME": "D.G.C.McKeon", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "General Covariant Gauge Fixing for Massless Spin-Two Fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Thermal effective action for 1+1 dimensional massive QED"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared chiral anomaly at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F", 
+                    "COMPLETE-NAME": "BRANDT, F", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Noise in resistively shunted Josephson junctions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Das, Ashok", 
+                    "COMPLETE-NAME": "Das, Ashok", 
+                    "ID": "9380375683397294"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The thermal chiral anomaly in the Schwinger model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "D.G.C. McKeon", 
+                    "COMPLETE-NAME": "D.G.C.McKeon", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ressumation of infrared divergences in the free-energy of sprin two fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TAYLOR, J. C.", 
+                    "COMPLETE-NAME": "J. C. Taylor", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Conditions the validity of the quantum Longevin equation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Das, Ashok", 
+                    "COMPLETE-NAME": "Das, Ashok", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCISCO, R.", 
+                    "COMPLETE-NAME": "FRANCISCO, R.", 
+                    "ID": "5051917822385309"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Causal amplitudes in the Schwinger model at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brandt, F.", 
+                    "COMPLETE-NAME": "Brandt, F.", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Nonanalyticity of the free energy in thermal field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "C. Schubert", 
+                    "COMPLETE-NAME": "C. Schubert", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Infrared divergences, mass shell singularities and gauge dependence of the dynamical fermion mass"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRANCISCO, R.R.", 
+                    "COMPLETE-NAME": "FRANCISCO, R.R.", 
+                    "ID": "5051917822385309"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal loops in long wave-length and static external gravitational fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, ASHOK K.", 
+                    "COMPLETE-NAME": "DAS, ASHOK K.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The pole of the fermion propagator in a general class of gauges"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, ASHOK K.", 
+                    "COMPLETE-NAME": "DAS, ASHOK K.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRANCISCO, R. R.", 
+                    "COMPLETE-NAME": "FRANCISCO, R. R.", 
+                    "ID": "5051917822385309"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gauge independence of the fermion pole mass"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J. B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J. B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Hard thermal loops in static background fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F.'T.", 
+                    "COMPLETE-NAME": "BRANDT, F.'T.", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J.'B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J.'B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "QED plasma in a background of static gravitational fields"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIQUEIRA, J. B.", 
+                    "COMPLETE-NAME": "SIQUEIRA, J. B.", 
+                    "ID": "9827048674053450"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Improved ring approximation for the free energy in thermal scalar field theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, ASHOK K.", 
+                    "COMPLETE-NAME": "DAS, ASHOK K.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Large-time behavior in an exactly soluble out of equilibrium model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITTO, A. L. M.", 
+                    "COMPLETE-NAME": "André Luiz Moura Britto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Generalized fluctuation-dissipation theorem in a soluble out of equilibrium model", 
+                "PORTUGUESE-TITLE": "Generalized fluctuation-dissipation theorem in a soluble out of equilibrium model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DAS, ASHOK K.", 
+                    "COMPLETE-NAME": "DAS, ASHOK K.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRENKEL, J.", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Derivation of the fluctuation-dissipation theorem from unitarity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }, 
+                {
+                    "CITATION-NAMES": "BRANDT, F. T.", 
+                    "COMPLETE-NAME": "F. T. Brandt", 
+                    "ID": "1905496680025212"
+                }, 
+                {
+                    "CITATION-NAMES": "DAS, A.", 
+                    "COMPLETE-NAME": "Ashok Das", 
+                    "ID": "9380375683397294"
+                }, 
+                {
+                    "CITATION-NAMES": "Silvana Perez", 
+                    "COMPLETE-NAME": "Silvana Perez", 
+                    "ID": "3585326481456738"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Forward scattering amplitudes and the thermal operator representation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+                    "COMPLETE-NAME": "Josif Frenkel", 
+                    "ID": "0903629654371960"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1996", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Principios de Eletrodinamica Classica"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FRENKEL, J.;FRENKEL, J", 
+        "COMPLETE-NAME": "Josif Frenkel", 
+        "ID": "0903629654371960", 
+        "PHD-BEGGINING": "1971", 
+        "PHD-ENDING": "1973"
+    }
+}

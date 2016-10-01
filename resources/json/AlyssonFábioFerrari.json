@@ -1,0 +1,2400 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "DUCATI, M. B. G.", 
+                    "COMPLETE-NAME": "Maria Beatriz Gay Ducati", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Análise do efeito LPM no meio nuclear"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalizability of noncommutative supersymmetric QED4"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz symmetry breaking in the noncommutative Wess-Zumino Model: One loop corrections"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the consistency of the three-dimensional noncommutative supersymmetric Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric non-Abelian Chern-Simons theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "Horacio Oscar Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "Anderson Alves Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the consistency of the three-dimensional noncommutative supersymmetric Yang-Mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Noncommutative field approach in gravity, Lorentz violation and torsion generation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the duality of three-dimensional superfield theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.", 
+                    "COMPLETE-NAME": "Bruno Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O modelo de Gross-Neveu não-comutativo em três dimensões"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Perturbative finiteness of the three-dimensional SUSY QED to all orders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A.J.", 
+                    "COMPLETE-NAME": "da Silva, A.J.", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Equivalence between supersymmetric self-dual and Maxwell-Chern-Simons models coupled to a matter spinor superfield"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ferrari, A.F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Lorentz violation in the linearized gravity", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Generation of Axion Couplings via Lorentz Violation", 
+                "PORTUGUESE-TITLE": "Generation of Axion Couplings via Lorentz Violation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cancellation of UV/IR divergences in the two-point function of the NCSYM theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "Horacio Oscar Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "Anderson Alves Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "On the finiteness of noncommutative supersymmetric QED_3 in the covariant superfield formulation", 
+                "PORTUGUESE-TITLE": "On the finiteness of noncommutative supersymmetric QED_3 in the covariant superfield formulation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "Horacio Oscar Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "Anderson Alves Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "Victor O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Superfield covariant analysis of the divergence structure of noncommutative supersymmetric QED_4", 
+                "PORTUGUESE-TITLE": "Superfield covariant analysis of the divergence structure of noncommutative supersymmetric QED_4"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "On the consistency of the three-dimensional noncommutative supersymmetric Yang-mills theory", 
+                "PORTUGUESE-TITLE": "On the consistency of the three-dimensional noncommutative supersymmetric Yang-mills theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Towards a consistent noncommutative supersymmetric Yang-Mills theory: superfield covariant analysis", 
+                "PORTUGUESE-TITLE": "Towards a consistent noncommutative supersymmetric Yang-Mills theory: superfield covariant analysis"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Lorentz symmetry breaking in the noncommutative Wess-Zumino Model: One loop corrections", 
+                "PORTUGUESE-TITLE": "Lorentz symmetry breaking in the noncommutative Wess-Zumino Model: One loop corrections"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Duality of three-dimensional superfield theories", 
+                "PORTUGUESE-TITLE": "Duality of three-dimensional superfield theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "The three-dimensional non-anticommutative superspace", 
+                "PORTUGUESE-TITLE": "The three-dimensional non-anticommutative superspace"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "SusyMath: a Mathematica package for quantum superfield calculations", 
+                "PORTUGUESE-TITLE": "SusyMath: a Mathematica package for quantum superfield calculations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.", 
+                    "COMPLETE-NAME": "Bruno Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "The three-dimensional noncommutative Gross-Neveu model", 
+                "PORTUGUESE-TITLE": "The three-dimensional noncommutative Gross-Neveu model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "TEIXEIRA, F.", 
+                    "COMPLETE-NAME": "Fernando Teixeira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "The supersymmetric (2 + 1)D noncommutative CP(N&#8722;1) model in the fundamental representation", 
+                "PORTUGUESE-TITLE": "The supersymmetric (2 + 1)D noncommutative CP(N&#8722;1) model in the fundamental representation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Lorentz violation in the linearized gravity", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "C. A. Stechhahn", 
+                    "COMPLETE-NAME": "Carlos A. Stechhahn", 
+                    "ID": "5186541092915338"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Scattering of spin 1/2 particles by the 2+1 dimensional noncommutative Aharonov-Bohm potential", 
+                "PORTUGUESE-TITLE": "Scattering of spin 1/2 particles by the 2+1 dimensional noncommutative Aharonov-Bohm potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "Spontaneous gauge symmetry breaking in a supersymmetric Chern-Simons model", 
+                "PORTUGUESE-TITLE": "Spontaneous gauge symmetry breaking in a supersymmetric Chern-Simons model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "Silva, E.O.", 
+                    "COMPLETE-NAME": "Silva, E.O.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "On the finiteness of the noncommutative supersymmetric Maxwell-Chern-Simons theory", 
+                "PORTUGUESE-TITLE": "On the finiteness of the noncommutative supersymmetric Maxwell-Chern-Simons theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "Perturbative finiteness of the three-dimensional Susy QED to all orders", 
+                "PORTUGUESE-TITLE": "Perturbative finiteness of the three-dimensional Susy QED to all orders"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Equivalence between supersymmetric self-dual and Maxwell-Chern-Simons models coupled to a matter spinor superfield", 
+                "PORTUGUESE-TITLE": "Equivalence between supersymmetric self-dual and Maxwell-Chern-Simons models coupled to a matter spinor superfield"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "Lehum, A.C.", 
+                    "COMPLETE-NAME": "Lehum, A.C.", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "Petrov, A.Yu.", 
+                    "COMPLETE-NAME": "Petrov, A.Yu.", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "Silva, E.O.", 
+                    "COMPLETE-NAME": "Silva, E.O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A.J.", 
+                    "COMPLETE-NAME": "da Silva, A.J.", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "On the superfield effective potential in three dimensions", 
+                "PORTUGUESE-TITLE": "On the superfield effective potential in three dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GALLEGOS, E. A.", 
+                    "COMPLETE-NAME": "alberto", 
+                    "ID": "7614841003159953"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Coleman-Weinberg mechanism in a three-dimensional supersymmetric Chern-Simons-matter model", 
+                "PORTUGUESE-TITLE": "Coleman-Weinberg mechanism in a three-dimensional supersymmetric Chern-Simons-matter model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ferrari, A.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "Stechhahn, C.", 
+                    "COMPLETE-NAME": "Stechhahn, C.", 
+                    "ID": "5186541092915338"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "1/N expansion in noncommutative quantum mechanics", 
+                "PORTUGUESE-TITLE": "1/N expansion in noncommutative quantum mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Dias, A.", 
+                    "COMPLETE-NAME": "Dias, A.", 
+                    "ID": "1148996277628251"
+                }, 
+                {
+                    "CITATION-NAMES": "Ferrari, A.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Renormalization group and conformal symmetry breaking in the Chern-Simons theory coupled to matter", 
+                "PORTUGUESE-TITLE": "Renormalization group and conformal symmetry breaking in the Chern-Simons theory coupled to matter"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ferrari, A.F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "KUPRIYANOV, V.G.", 
+                    "COMPLETE-NAME": "KUPRIYANOV, V.G.", 
+                    "ID": "5558302984552429"
+                }, 
+                {
+                    "CITATION-NAMES": "STECHHAHN, C.A.", 
+                    "COMPLETE-NAME": "STECHHAHN, C.A.", 
+                    "ID": "6477723962124958"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Dynamics of a Dirac fermion in the presence of spin noncommutativity", 
+                "PORTUGUESE-TITLE": "Dynamics of a Dirac fermion in the presence of spin noncommutativity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "Horacio Oscar Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "HORAVA-LIFSHITZ MODIFICATIONS OF THE CASIMIR EFFECT", 
+                "PORTUGUESE-TITLE": "HORAVA-LIFSHITZ MODIFICATIONS OF THE CASIMIR EFFECT"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BORGES, L. H. C.", 
+                    "COMPLETE-NAME": "Luiz Henrique de Campos Borges", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, A. G.", 
+                    "COMPLETE-NAME": "ALEX GOMES DIAS", 
+                    "ID": "1148996277628251"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Generation of axionlike couplings via quantum corrections in a Lorentz-violating background", 
+                "PORTUGUESE-TITLE": "Generation of axionlike couplings via quantum corrections in a Lorentz-violating background"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NATALE, A. A.", 
+                    "COMPLETE-NAME": "Adriano Antonio Natale", 
+                    "ID": "7980776221942950"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMEZ, J. D.", 
+                    "COMPLETE-NAME": "John David Gomez", 
+                    "ID": "8633921235284165"
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, A. G.", 
+                    "COMPLETE-NAME": "ALEX GOMES DIAS", 
+                    "ID": "1148996277628251"
+                }, 
+                {
+                    "CITATION-NAMES": "QUINTO, A. A. G.", 
+                    "COMPLETE-NAME": "Andres Arturo Gomez Quinto", 
+                    "ID": "8237949599724721"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Non-perturbative fixed points and renormalization group improved effective potential", 
+                "PORTUGUESE-TITLE": "Non-perturbative fixed points and renormalization group improved effective potential"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAS, M", 
+                    "COMPLETE-NAME": "Marco Dias", 
+                    "ID": "3302189026105008"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PALECHOR, C A", 
+                    "COMPLETE-NAME": "PALECHOR, C A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SENISE JR, C R", 
+                    "COMPLETE-NAME": "SENISE JR, C R", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories", 
+                "PORTUGUESE-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BORGES, L.H.C.", 
+                    "COMPLETE-NAME": "BORGES, L.H.C.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, A.G.", 
+                    "COMPLETE-NAME": "DIAS, A.G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ferrari, A.F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "Petrov, A.Yu.", 
+                    "COMPLETE-NAME": "Petrov, A.Yu.", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Generation of higher derivatives operators and electromagnetic wave propagation in a Lorentz-violation scenario", 
+                "PORTUGUESE-TITLE": "Generation of higher derivatives operators and electromagnetic wave propagation in a Lorentz-violation scenario"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "QUINTO, A.G.", 
+                    "COMPLETE-NAME": "QUINTO, A.G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ferrari, A.F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lehum, A.C.", 
+                    "COMPLETE-NAME": "Lehum, A.C.", 
+                    "ID": "9493250831432429"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Renormalization group improvement and dynamical breaking of symmetry in a supersymmetric Chern-Simons-matter model", 
+                "PORTUGUESE-TITLE": "Renormalization group improvement and dynamical breaking of symmetry in a supersymmetric Chern-Simons-matter model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "Supersymmetric non-Abelian non-commutative Chern-Simons theory", 
+                "PORTUGUESE-TITLE": "Supersymmetric non-Abelian non-commutative Chern-Simons theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BORGES, L. H. C.", 
+                    "COMPLETE-NAME": "Luiz Henrique de Campos Borges", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RANGEL, F. A.", 
+                    "COMPLETE-NAME": "Fabricio Augusto Barone Rangel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "New effects in the interaction between electromagnetic sources mediated by nonminimal Lorentz violating interactions", 
+                "PORTUGUESE-TITLE": "New effects in the interaction between electromagnetic sources mediated by nonminimal Lorentz violating interactions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "QUINTO, A. A. G.", 
+                    "COMPLETE-NAME": "Andres Arturo Gomez Quinto", 
+                    "ID": "8237949599724721"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "Nielsen Identity and the Renormalization Group Functions in an Abelian Supersymmetric Chern-Simons Model in the Superfield Formalism", 
+                "PORTUGUESE-TITLE": "Nielsen Identity and the Renormalization Group Functions in an Abelian Supersymmetric Chern-Simons Model in the Superfield Formalism"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROCHA JUNIOR, R.", 
+                    "COMPLETE-NAME": "Roldão da Rocha Junior", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA-NETO, J. A.", 
+                    "COMPLETE-NAME": "José Antônio Silva-Neto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "The role of singular spinor fields in a torsional gravity, Lorentz-violating, framework", 
+                "PORTUGUESE-TITLE": "The role of singular spinor fields in a torsional gravity, Lorentz-violating, framework"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "SusyMath", 
+                "PORTUGUESE-TITLE": "SusyMath"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "SusyMath: a Mathematica package for quantum superfield calculations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric non-Abelian Chern-Simons theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Y.", 
+                    "COMPLETE-NAME": "A Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Supersymmetric non-Abelian Chern-Simons theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz symmetry breaking in the noncommutative Wess-Zumino Model: One loop corrections"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "Anderson Alves Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Cancellation of UV/IR divergences in the two-point function of the NCSYM theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "A A Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalizability of noncommutative supersymmetric QED4"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "DUCATI, M. B. G.", 
+                    "COMPLETE-NAME": "Maria Beatriz Gay Ducati", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Análise do efeito LPM no meio nuclear"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Some recent results in three-dimensional supersymmetric field theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Equivalence between supersymmetric self-dual and Maxwell-Chern-Simons models coupled to a matter spinor superfield"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAS, A. G.", 
+                    "COMPLETE-NAME": "ALEX GOMES DIAS", 
+                    "ID": "1148996277628251"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the effective potencial in the Chern-Simons theory coupled to matter"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "PASSOS, E.", 
+                    "COMPLETE-NAME": "Eduardo Passos", 
+                    "ID": "3322317965871638"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz violation in the linearized gravity (poster)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "André Carlos Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Duality between SUSY self-dual and Maxwell-Chern-Simons models coupled to a matter spinor superfield"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "A. G. Dias", 
+                    "COMPLETE-NAME": "alex", 
+                    "ID": "1148996277628251"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalization Group and Conformal Symmetry Breaking in the Chern-Simons Theory Coupled to Matter"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, A. G.", 
+                    "COMPLETE-NAME": "ALEX GOMES DIAS", 
+                    "ID": "1148996277628251"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalization Group and Conformal Symmetry Breaking in the Chern-Simons Theory Coupled to Matter"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, A. G.", 
+                    "COMPLETE-NAME": "ALEX GOMES DIAS", 
+                    "ID": "1148996277628251"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Renormalization Group and Symmetry Breaking in a Chern-Simons theory coupled to matter"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Generation of axion couplings via Lorentz Violation", 
+                "PORTUGUESE-TITLE": "Generation of axion couplings via Lorentz Violation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAS, M", 
+                    "COMPLETE-NAME": "Marco Dias", 
+                    "ID": "3302189026105008"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PALECHOR, C. A.", 
+                    "COMPLETE-NAME": "Carlos Andres Palechor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SENISE JR., C. R.", 
+                    "COMPLETE-NAME": "Carlos R Senise Jr.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories", 
+                "PORTUGUESE-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PALECHOR, C. A.", 
+                    "COMPLETE-NAME": "Carlos Andres Palechor", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, M", 
+                    "COMPLETE-NAME": "Marco Dias", 
+                    "ID": "3302189026105008"
+                }, 
+                {
+                    "CITATION-NAMES": "SENISE JR., C. R.", 
+                    "COMPLETE-NAME": "Carlos R Senise Jr.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories", 
+                "PORTUGUESE-TITLE": "A relation between deformed superspace and Lee-Wick higher-derivative theories"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "GIROTTI, H. O.", 
+                    "COMPLETE-NAME": "H O Girotti", 
+                    "ID": "7319304309007215"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "M Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, A. A.", 
+                    "COMPLETE-NAME": "Anderson Alves Ribeiro", 
+                    "ID": "4000459703723279"
+                }, 
+                {
+                    "CITATION-NAMES": "RIVELLES, V. O.", 
+                    "COMPLETE-NAME": "V O Rivelles", 
+                    "ID": "5261342237805398"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Non Abelian supersymmetric gauge theories in four-dimensional noncommutative spacetime"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Introduction to Field Quantization: the Scalar Field", 
+                "PORTUGUESE-TITLE": "Introdução à Quantização de Campos: o Campo Escalar"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Forces, Fields, Interactions -- from Newton to the Elementary Forces of Nature", 
+                "PORTUGUESE-TITLE": "Forças, Campos, Interações - de Newton às Interações Elementares da Natureza"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": "2215905569987646"
+                }, 
+                {
+                    "CITATION-NAMES": "MIZUKOSHI, J. K.", 
+                    "COMPLETE-NAME": "José Kenichi Mizukoshi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PIRES, M. O. C.", 
+                    "COMPLETE-NAME": "Marcelo Oliveira da Costa Pires", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GESUALDI, M. R. R.", 
+                    "COMPLETE-NAME": "Marcos Roberto da Rocha Gesualdi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, S. S.", 
+                    "COMPLETE-NAME": "Sandro Silva e Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ZANCHIN, V. T.", 
+                    "COMPLETE-NAME": "Vilson Tonin Zanchin", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "II Escola de Física da UFABC", 
+                "PORTUGUESE-TITLE": "II Escola de Física da UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BENVENHO, A. R. V.", 
+                    "COMPLETE-NAME": "Adriano Reinaldo Viçoto Benvenho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CELERI, L. C.", 
+                    "COMPLETE-NAME": "Lucas Chibebe Céleri", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRUZ, L. S.", 
+                    "COMPLETE-NAME": "Luciano S. Cruz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHIMENTI, P.", 
+                    "COMPLETE-NAME": "Pietro Chimenti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SERRA, R.", 
+                    "COMPLETE-NAME": "Roberto Serra", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VENEGEROLES, R.", 
+                    "COMPLETE-NAME": "Roberto Venegeroles", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AVILA, M. A.", 
+                    "COMPLETE-NAME": "Marcos de Abreu Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. A.", 
+                    "COMPLETE-NAME": "Raquel A. Ribeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "IV Escola de Física da UFABC", 
+                "PORTUGUESE-TITLE": "IV Escola de Física da UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRUZ, L. S.", 
+                    "COMPLETE-NAME": "Luciano S. Cruz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. A.", 
+                    "COMPLETE-NAME": "Raquel A. Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AVILA, M. A.", 
+                    "COMPLETE-NAME": "Marcos de Abreu Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, L. M.", 
+                    "COMPLETE-NAME": "Letície Mendonça Ferreira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "5th School of Physics at UFABC", 
+                "PORTUGUESE-TITLE": "V Escola de Física da UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AVILA, M. A.", 
+                    "COMPLETE-NAME": "Marcos de Abreu Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. A.", 
+                    "COMPLETE-NAME": "Raquel A. Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FARFAN, A. C.", 
+                    "COMPLETE-NAME": "Ana Champi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Silveira, F. E.", 
+                    "COMPLETE-NAME": "francisco eugênio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, L. M.", 
+                    "COMPLETE-NAME": "Letície Mendonça Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Costa, L.", 
+                    "COMPLETE-NAME": "lucio costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FAGUNDES, M. B.", 
+                    "COMPLETE-NAME": "maria beatriz fagundes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "VI Escola de Física da UFABC", 
+                "PORTUGUESE-TITLE": "VI Escola de Física da UFABC"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GREGORES, E.", 
+                    "COMPLETE-NAME": "Eduardo Gregores", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRUZ, L. S.", 
+                    "COMPLETE-NAME": "Luciano S. Cruz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Costa, L.", 
+                    "COMPLETE-NAME": "lucio costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SEMIAO, F L", 
+                    "COMPLETE-NAME": "Fernando Luis Semião da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AVILA, M. A.", 
+                    "COMPLETE-NAME": "Marcos de Abreu Avila", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FAGUNDES, M. B.", 
+                    "COMPLETE-NAME": "maria beatriz fagundes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SERRA, R.", 
+                    "COMPLETE-NAME": "Roberto Serra", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAVARRO,R D A", 
+                    "COMPLETE-NAME": "Roy Daniel Alva Navarro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "UFABC PHYSICS WEEK"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SHCHESNOVICH, V.", 
+                    "COMPLETE-NAME": "Valery Shchesnovich", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BENVENHO, A. R. V.", 
+                    "COMPLETE-NAME": "Adriano Reinaldo Viçoto Benvenho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AGUILAR, A. C.", 
+                    "COMPLETE-NAME": "Arlene Cristina Aguilar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MIRANDA, C. R.", 
+                    "COMPLETE-NAME": "Caetano Rodrigues Miranda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FRIGERIO MARTINS, C.", 
+                    "COMPLETE-NAME": "Christiane Frigerio Martins", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CRUZ, L. S.", 
+                    "COMPLETE-NAME": "Luciano S. Cruz", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHIMENTI, P.", 
+                    "COMPLETE-NAME": "Pietro Chimenti", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SERRA, R.", 
+                    "COMPLETE-NAME": "Roberto Serra", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, R. A.", 
+                    "COMPLETE-NAME": "Raquel A. Ribeiro", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "III Escola de Física da UFABC", 
+                "PORTUGUESE-TITLE": "III Escola de Física da UFABC"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "FERRARI, A. F.;Ferrari, A.F.;Ferrari, A.;FERRARI, A F", 
+        "COMPLETE-NAME": "Alysson Fábio Ferrari", 
+        "ID": "2215905569987646", 
+        "PHD-BEGGINING": "2000", 
+        "PHD-ENDING": "2004"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Marques, F", 
+                    "COMPLETE-NAME": "Fabricio Marques do Carmo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Negrini, O", 
+                    "COMPLETE-NAME": "Osvaldo Negrini Neto", 
+                    "ID": "6607141415887356"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A J", 
+                    "COMPLETE-NAME": "da Silva, A J", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "A new simple class of superpotentials in SUSY quantum mechanics", 
+                "PORTUGUESE-TITLE": "A new simple class of superpotentials in SUSY quantum mechanics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "F. Marques", 
+                    "COMPLETE-NAME": "Fabricio Marques do Carmo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generalized Ladder Operators"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "F. Marques", 
+                    "COMPLETE-NAME": "Fabricio Marques do Carmo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "A. J. da Silva", 
+                    "COMPLETE-NAME": "A. J. da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "E. A. Gallegos", 
+                    "COMPLETE-NAME": "Enrique Alberto Gallegos", 
+                    "ID": "7841712993414754"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "Renormalization of SUSY Yang-Mills-Chern-Simons in (2+1) D through the Background Field Method", 
+                "PORTUGUESE-TITLE": "Renormalization of SUSY Yang-Mills-Chern-Simons in (2+1) D through the Background Field Method"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "F. Marques", 
+                    "COMPLETE-NAME": "Fabricio Marques do Carmo", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "A. J. da Silva", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": "5067325239701185"
+                }, 
+                {
+                    "CITATION-NAMES": "E. A. Gallegos", 
+                    "COMPLETE-NAME": "Enrique Alberto Gallegos", 
+                    "ID": "7841712993414754"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Finiteness of N=1 SUSY Yang-Mills-Chern-Simons in (2+1) dimensions through the Background Field Method", 
+                "PORTUGUESE-TITLE": "Finiteness of N=1 SUSY Yang-Mills-Chern-Simons in (2+1) dimensions through the Background Field Method"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "F. Marques;Marques, F", 
+        "COMPLETE-NAME": "Fabricio Marques do Carmo", 
+        "ID": "7730701141501229", 
+        "PHD-BEGGINING": "2011", 
+        "PHD-ENDING": ""
+    }
+}

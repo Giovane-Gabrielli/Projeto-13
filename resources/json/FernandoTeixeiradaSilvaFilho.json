@@ -1,0 +1,40 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "LEHUM, A. C.", 
+                    "COMPLETE-NAME": "A C Lehum", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "FERRARI, A. F.", 
+                    "COMPLETE-NAME": "A F Ferrari", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J.", 
+                    "COMPLETE-NAME": "A J da Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "F. Teixeira", 
+                    "COMPLETE-NAME": "Fernando Teixeira da Silva Filho", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "The supersymmetric (2+1)D noncommutative CP^(N-1) model in the fundamental representation", 
+                "PORTUGUESE-TITLE": "The supersymmetric (2+1)D noncommutative CP^(N-1) model in the fundamental representation"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "F. Teixeira", 
+        "COMPLETE-NAME": "Fernando Teixeira da Silva Filho", 
+        "ID": "", 
+        "PHD-BEGGINING": "2002", 
+        "PHD-ENDING": "2007"
+    }
+}

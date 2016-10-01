@@ -1,0 +1,2284 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MORET, M. A.", 
+                    "COMPLETE-NAME": "MArcelo A Moret", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1999", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Análise Conformacional Semi-Empirica Usando o Algoritmo Genetico Generalizado"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "CARDOSO, A. S.", 
+                    "COMPLETE-NAME": "Aldo Soares Cardoso", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1990", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ionização e Fragmentação Molecular por Impacto de Eletrons de Alta Energia - Sinulação de Trajetória de Ions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "CARDOSO, A. S.", 
+                    "COMPLETE-NAME": "Aldo Soares Cardoso", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SIMON, M.", 
+                    "COMPLETE-NAME": "Marc Simon", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MORIN, P.", 
+                    "COMPLETE-NAME": "Paul Morin", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Estudo da Fotofragmentação da Molecula de Hexametildissilano na Borda do Silicio 2p"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROBERTY, H. M. B. -.", 
+                    "COMPLETE-NAME": "Heloisa Maria Boechart - Roberty", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Excitação Eletronica e Fragmentação Iônica da Molécula de CS2"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROBERTY, H. M. B. -.", 
+                    "COMPLETE-NAME": "Heloisa Maria Boechart - Roberty", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rocco, M. L.", 
+                    "COMPLETE-NAME": "Maria Luiza Miranda Rocco Duarte", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. S.", 
+                    "COMPLETE-NAME": "Frderico Selestino Pontes", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1994", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Excitação Eletronica e Fragmentação Ionica da Molecula de SF6 Induzida por Eletrons e por Fotons"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MACIEL, J. B.", 
+                    "COMPLETE-NAME": "Joselito Barbosa MAciel", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1995", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "VUV and Soft X-Ray Excitation and Ionic Fragmentation of Volatile Silicon Compounds"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, L. H.", 
+                    "COMPLETE-NAME": "L. H. Coutinho", 
+                    "ID": "5833751980828164"
+                }, 
+                {
+                    "CITATION-NAMES": "Manoel Gustavo P. Homem", 
+                    "COMPLETE-NAME": "M.G.P.Homem", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Site selective dissociation of ozone upon core excitation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "NILO MAKIUCHI", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.", 
+                    "COMPLETE-NAME": "M. Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of Thiophene Inner Shell Photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Vieira, C C O", 
+                    "COMPLETE-NAME": "Vieira, C. C. O.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.", 
+                    "COMPLETE-NAME": "M. Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, R. R. T", 
+                    "COMPLETE-NAME": "MARINHO, R. R. T", 
+                    "ID": "3875151407747689"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Dependência angular da fotofragmentação da molécula de tiofeno", 
+                "PORTUGUESE-TITLE": "Dependência angular da fotofragmentação da molécula de tiofeno"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lopes , E. G. P.", 
+                    "COMPLETE-NAME": "Lopes, E. G. P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, R. R. T", 
+                    "COMPLETE-NAME": "MARINHO, R. R. T", 
+                    "ID": "3875151407747689"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ozone valence band revised"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Arruda, M. S.", 
+                    "COMPLETE-NAME": "Manoela Arruda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Prudente, F. V.", 
+                    "COMPLETE-NAME": "Frederico V. Prudente", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, R. R. T", 
+                    "COMPLETE-NAME": "MARINHO, R. R. T", 
+                    "ID": "3875151407747689"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Maniero, A. M.", 
+                    "COMPLETE-NAME": "Angelo M. Maniero", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Estudos Teórico-Experimentais da Produção Parcial de Íons do àcido Fórmico", 
+                "PORTUGUESE-TITLE": "Estudos Teórico-Experimentais da Produção Parcial de Íons do àcido Fórmico"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "GERALDO JOSE DA SILVA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Sousa, M. H.", 
+                    "COMPLETE-NAME": "M. H. Sousa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "Room Temperature Humidity XRD Investigations for Li-FH and Ni-FH in Synthetic Clay", 
+                "PORTUGUESE-TITLE": "Room Temperature Humidity XRD Investigations for Li-FH and Ni-FH in Synthetic Clay"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "GERALDO JOSE DA SILVA", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Simultaneous XAFS and XRD Studies of Water Intercalation in Synthetic Ni-Fluorectorite"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Brandão, S. T.", 
+                    "COMPLETE-NAME": "Soraia Teixeira Brandão", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Oliveira, O. B.", 
+                    "COMPLETE-NAME": "Otaneia B. Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "GERALDO JOSE DA SILVA", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Experimentos XANES in situ em Catalisadores Ni/MCM-41"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CAVASSO, R.", 
+                    "COMPLETE-NAME": "Reinaldo Cavasso", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Lago, A. F.", 
+                    "COMPLETE-NAME": "Alexsandro F. Lago", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Partial Ion Yield of Core Excited Ozone"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sousa, M. H.", 
+                    "COMPLETE-NAME": "M. H. Sousa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Azevedo, G. de M.", 
+                    "COMPLETE-NAME": "Gustavo de M. Azevedo", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XAFS Temperature Investigations of Intercalation Process i Synthetic Nanosilicates"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Sousa, M. H.", 
+                    "COMPLETE-NAME": "M. H. Sousa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DROPPA JR, R.", 
+                    "COMPLETE-NAME": "R. Droppa Jr", 
+                    "ID": "3581140143386171"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Studies of the water intercalation and difusion in Ni-Fluorohectorita nanostructures"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "Sousa, M. H.", 
+                    "COMPLETE-NAME": "M. H. Sousa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "DXAS Studies of Water Intercalation Nanosilicates"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "NILO MAKIUCHI", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.", 
+                    "COMPLETE-NAME": "M. Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of Inner shell photofragmentation of bithiophene in gas phase"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Temperature Investigations of water diffusion in synthetic nano-silicates by means of DXAS"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Campus, J. A.", 
+                    "COMPLETE-NAME": "Campos, J. A.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "New end station to study high pressure liquids such as water on atomic scale"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Lopes , E. G. P.", 
+                    "COMPLETE-NAME": "Lopes, E. G. P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, R. R. T", 
+                    "COMPLETE-NAME": "MARINHO, R. R. T", 
+                    "ID": "3875151407747689"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ozônio - Revisâo da Banda de Valência"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1997", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Algebra de Grassmann e a Teoria Quantica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1993", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A Semi-Empirical Alternative Approach to Explain Molecular Conformations"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SOARES, A.", 
+                    "COMPLETE-NAME": "Aldo Soares", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, F. S.", 
+                    "COMPLETE-NAME": "Frderico Selestino Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "G G B de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Construção de um espectrometro de massa por tempo de vôo para o estudo de ionização de gases"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "VILLELA, A. F. A.", 
+                    "COMPLETE-NAME": "Alessandra F A Villela", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SOARES NETO, J. J.", 
+                    "COMPLETE-NAME": "Joaquim José Soares Neto", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gargano R", 
+                    "COMPLETE-NAME": "Ricardo Gargano", 
+                    "ID": "6682074601211769"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fitting potential energy surface for reactive scattering dynamics through generalized simulated annealing"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SANDNES, B.", 
+                    "COMPLETE-NAME": "B. Sandnes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FONSECA, D. M.", 
+                    "COMPLETE-NAME": "D. M. Fonseca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALOY, K. J.", 
+                    "COMPLETE-NAME": "K.J. Maloy", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DROPPA JR, R.", 
+                    "COMPLETE-NAME": "R. Droppa Jr", 
+                    "ID": "3581140143386171"
+                }, 
+                {
+                    "CITATION-NAMES": "MEHEUST, Y.", 
+                    "COMPLETE-NAME": "Y. Méheust", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LOVOL, G.", 
+                    "COMPLETE-NAME": "G. Lovol", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamics of water intercalation fronts in a nano-layered syntethic silicate: A synchrotron X-ray scattering study"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "MORET, M. A.", 
+                    "COMPLETE-NAME": "M. A. Moret", 
+                    "ID": "6903653527541008"
+                }, 
+                {
+                    "CITATION-NAMES": "BISCH, P. M.", 
+                    "COMPLETE-NAME": "P. M. Bisch", 
+                    "ID": "5928043800446342"
+                }, 
+                {
+                    "CITATION-NAMES": "PASCUTTI, P. G.", 
+                    "COMPLETE-NAME": "P. G. Pascutti", 
+                    "ID": "6142558410927273"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Classical and quantum conformational analysis using Generalized Genetic Algotithm"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MEHEUST, Y.", 
+                    "COMPLETE-NAME": "Y. Méheust", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANDNES, B.", 
+                    "COMPLETE-NAME": "B. Sandnes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALOY, K. J.", 
+                    "COMPLETE-NAME": "K.J. Maloy", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "FONSECA, D. M.", 
+                    "COMPLETE-NAME": "D. M. Fonseca", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Using Synchrotron X-ray Scattering to Study the Diffusion of Water in a Weakly-hydrated Clay Sample"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "NILO MAKIUCHI", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.", 
+                    "COMPLETE-NAME": "M. Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of Thiophene Inner Shell Photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, L. H.", 
+                    "COMPLETE-NAME": "L. H. Coutinho", 
+                    "ID": "5833751980828164"
+                }, 
+                {
+                    "CITATION-NAMES": "Manoel Gustavo P. Homem", 
+                    "COMPLETE-NAME": "M.G.P.Homem", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Site seletive dissociation of ozone upon core excitation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Lopes , E. G. P.", 
+                    "COMPLETE-NAME": "Lopes, E. G. P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, R. R. T", 
+                    "COMPLETE-NAME": "MARINHO, R. R. T", 
+                    "ID": "3875151407747689"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "How to produce a pure ozone sample?."
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alagia, M.", 
+                    "COMPLETE-NAME": "Michele Alagia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, P.", 
+                    "COMPLETE-NAME": "Candori, P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, S.", 
+                    "COMPLETE-NAME": "Falcinelli, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, F.", 
+                    "COMPLETE-NAME": "Pirani, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, R.", 
+                    "COMPLETE-NAME": "Richter, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rosi, M.", 
+                    "COMPLETE-NAME": "Marzio Rosi", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stranges, S.", 
+                    "COMPLETE-NAME": "Stranges, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, F.", 
+                    "COMPLETE-NAME": "Vecchiocattivi, F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Dissociative double photoionization of singly deuterated benzene molecules in the 26 33 eV energy range", 
+                "PORTUGUESE-TITLE": "Dissociative double photoionization of singly deuterated benzene molecules in the 26 33 eV energy range"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ARRUDA, MANUELA S.", 
+                    "COMPLETE-NAME": "ARRUDA, MANUELA S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARINHO, RICARDO R. T.", 
+                    "COMPLETE-NAME": "MARINHO, RICARDO R. T.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MANIERO, ANGELO M.", 
+                    "COMPLETE-NAME": "MANIERO, ANGELO M.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIN, MARIA SUELY P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, ALEXANDRA", 
+                    "COMPLETE-NAME": "MOCELLIN, ALEXANDRA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PILLING, SERGIO", 
+                    "COMPLETE-NAME": "PILLING, SERGIO", 
+                    "ID": "0120074686860053"
+                }, 
+                {
+                    "CITATION-NAMES": "DE BRITO, ARNALDO N.", 
+                    "COMPLETE-NAME": "DE BRITO, ARNALDO N.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PRUDENTE, FREDERICO V.", 
+                    "COMPLETE-NAME": "PRUDENTE, FREDERICO V.", 
+                    "ID": "0297236913997913"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Theoretical-Experimental Study of Formic Acid Photofragmentation in the Valence Region", 
+                "PORTUGUESE-TITLE": "Theoretical-Experimental Study of Formic Acid Photofragmentation in the Valence Region"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alagia, Michele", 
+                    "COMPLETE-NAME": "Alagia, Michele", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, Pietro", 
+                    "COMPLETE-NAME": "Candori, Pietro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, Stefano", 
+                    "COMPLETE-NAME": "Falcinelli, Stefano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, Fernando", 
+                    "COMPLETE-NAME": "Pirani, Fernando", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, Maria S. Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, Robert", 
+                    "COMPLETE-NAME": "Richter, Robert", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Rosi, Marzio", 
+                    "COMPLETE-NAME": "Rosi, Marzio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stranges, Stefano", 
+                    "COMPLETE-NAME": "Stranges, Stefano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, Franco", 
+                    "COMPLETE-NAME": "Vecchiocattivi, Franco", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Dissociative double photoionization of benzene molecules in the 26-33 eV energy range", 
+                "PORTUGUESE-TITLE": "Dissociative double photoionization of benzene molecules in the 26-33 eV energy range"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda, A.", 
+                    "COMPLETE-NAME": "Aderson Miranda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "FARROKHPOUR, H.", 
+                    "COMPLETE-NAME": "FARROKHPOUR, H.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A. N.", 
+                    "COMPLETE-NAME": "Arnaldo Naves de Brito", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Photo induced dissociation of amino acids free from thermal degradation effects: A case study applied to DL-Valine", 
+                "PORTUGUESE-TITLE": "Photo induced dissociation of amino acids free from thermal degradation effects: A case study applied to DL-Valine"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Ribeiro, L.", 
+                    "COMPLETE-NAME": "Luciano Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "GERALDO JOSE DA SILVA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Klebr Carlos Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Estudo dos Processos de Intercalação de Água em Nanosilicatos Sintéticos Utilizando Radiação Síncrotron", 
+                "PORTUGUESE-TITLE": "Estudo dos Processos de Intercalação de Água em Nanosilicatos Sintéticos Utilizando Radiação Síncrotron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Pirani, F.", 
+                    "COMPLETE-NAME": "Pirani, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, P.", 
+                    "COMPLETE-NAME": "Candori, P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pedrosa Mundim, M.S.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Belpassi, L.", 
+                    "COMPLETE-NAME": "Belpassi, L.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "TARANTELLI, F.", 
+                    "COMPLETE-NAME": "F. Tarantelli", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Cappelletti, D.", 
+                    "COMPLETE-NAME": "Cappelletti, D.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "On the role of charge transfer in the stabilization of weakly bound complexes involving water and hydrogen sulphide molecules", 
+                "PORTUGUESE-TITLE": "On the role of charge transfer in the stabilization of weakly bound complexes involving water and hydrogen sulphide molecules"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Alagia, M.", 
+                    "COMPLETE-NAME": "Michele Alagia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, P.", 
+                    "COMPLETE-NAME": "Candori, P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, S.", 
+                    "COMPLETE-NAME": "Falcinelli, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, K.C.", 
+                    "COMPLETE-NAME": "Mundim, K.C.", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, F.", 
+                    "COMPLETE-NAME": "Pirani, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, R.", 
+                    "COMPLETE-NAME": "Richter, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stranges, S.", 
+                    "COMPLETE-NAME": "Stranges, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, F.", 
+                    "COMPLETE-NAME": "Vecchiocattivi, F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lifetime and kinetic energy release of metastable dications dissociation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MICHELS, LEANDER", 
+                    "COMPLETE-NAME": "MICHELS, LEANDER", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, LUCIANO", 
+                    "COMPLETE-NAME": "RIBEIRO, LUCIANO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, Maria Suely Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUSA, MARCELO HENRIQUE", 
+                    "COMPLETE-NAME": "SOUSA, MARCELO HENRIQUE", 
+                    "ID": "4626655391830745"
+                }, 
+                {
+                    "CITATION-NAMES": "DROPPA, ROOSEVELT", 
+                    "COMPLETE-NAME": "DROPPA, ROOSEVELT", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, JON OTTO", 
+                    "COMPLETE-NAME": "FOSSUM, JON OTTO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, GERALDO JOSÉ", 
+                    "COMPLETE-NAME": "DA SILVA, GERALDO JOSÉ", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, Kleber Carlos", 
+                    "COMPLETE-NAME": "Mundim, Kleber Carlos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "EXAFS and XRD studies in synthetic Ni-fluorohectorite", 
+                "PORTUGUESE-TITLE": "EXAFS and XRD studies in synthetic Ni-fluorohectorite"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "QUINTELLA, C.", 
+                    "COMPLETE-NAME": "CM Quintella", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B.", 
+                    "COMPLETE-NAME": "G G B de Souza", 
+                    "ID": "6122449364388790"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Laser Techniques for State-Selected and State-to State Chemistry IV"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Klebr Carlos Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Curso de Fisica Virtual (Fis4)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "1998", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Curso de Fisica Virtual - (FIS 3)"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica I - Mecanica Classica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2000", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Fisica 2 - Termodinamica e Hidrodinamica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mundim, Maria Suely Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, Pietro", 
+                    "COMPLETE-NAME": "Candori, Pietro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, Stefano", 
+                    "COMPLETE-NAME": "Falcinelli, Stefano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, Kleber Carlos", 
+                    "COMPLETE-NAME": "Mundim, Kleber Carlos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, Fernando", 
+                    "COMPLETE-NAME": "Pirani, Fernando", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, Franco", 
+                    "COMPLETE-NAME": "Vecchiocattivi, Franco", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A New Statistical Method for the Determination of Dynamical Features of Molecular Dication Dissociation Processes"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Rosi, Marzio", 
+                    "COMPLETE-NAME": "Rosi, Marzio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, Pietro", 
+                    "COMPLETE-NAME": "Candori, Pietro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, Stefano", 
+                    "COMPLETE-NAME": "Falcinelli, Stefano", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, Fernando", 
+                    "COMPLETE-NAME": "Pirani, Fernando", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, Franco", 
+                    "COMPLETE-NAME": "Vecchiocattivi, Franco", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Theoretical and Experimental Study of the Energy and Structure of Fragment Ions Produced by Double Photoionization of Benzene Molecules"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "QUINTELLA, C.", 
+                    "COMPLETE-NAME": "CM Quintella", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, G. G. B", 
+                    "COMPLETE-NAME": "Gerardo Gerson Bezerra de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CASTRO, Martha T P O", 
+                    "COMPLETE-NAME": "CASTRO, Martha T P O", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, F. A. F.", 
+                    "COMPLETE-NAME": "OLIVEIRA, F. A. F.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2001", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "QUINTELLA, C. M.; MUNDIM, M. S. P.; SOUZA, G. G. B.; CASTRO, Martha T P O; OLIVEIRA, F. A. F. Multiphotonic Laser and Monophotonic Synchrotron Fragmentation of Molecules Relevant for Microeletronics and Nano technology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, L. H.", 
+                    "COMPLETE-NAME": "L. H. Coutinho", 
+                    "ID": "5833751980828164"
+                }, 
+                {
+                    "CITATION-NAMES": "HOMEM, M. G. P.", 
+                    "COMPLETE-NAME": "M. G. P. Homem", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Partial Ion Yield of Core Excited Ozone"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "NILO MAKIUCHI", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "ATIEE, M.", 
+                    "COMPLETE-NAME": "Marcia Atiee", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Study of Thiophene Inner Shell Photofragmentation", 
+                "PORTUGUESE-TITLE": "Study of Thiophene Inner Shell Photofragmentation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, L. H.", 
+                    "COMPLETE-NAME": "L. H. Coutinho", 
+                    "ID": "5833751980828164"
+                }, 
+                {
+                    "CITATION-NAMES": "HOMEM, M. G. P.", 
+                    "COMPLETE-NAME": "M. G. P. Homem", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "Site selective dissociation of ozone upon core excitation", 
+                "PORTUGUESE-TITLE": "Site selective dissociation of ozone upon core excitation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, G. J.", 
+                    "COMPLETE-NAME": "G. J. da Silva", 
+                    "ID": "1957725310574749"
+                }, 
+                {
+                    "CITATION-NAMES": "FOSSUM, J. O.", 
+                    "COMPLETE-NAME": "J. O. Fossum", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FONSECA, D. M.", 
+                    "COMPLETE-NAME": "D. M. Fonseca", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KNUDSEN, K. D.", 
+                    "COMPLETE-NAME": "K. D. Knudsen", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Study of the temperature ionic strength phase diagram of a suspension of nano-layered silicates platelets"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "ATTIE, M.", 
+                    "COMPLETE-NAME": "M. Attie", 
+                    "ID": "3668199929036388"
+                }, 
+                {
+                    "CITATION-NAMES": "CORREIA, N.", 
+                    "COMPLETE-NAME": "NESTOR CORREIA", 
+                    "ID": "0266393899111143"
+                }, 
+                {
+                    "CITATION-NAMES": "MAKIUCHI, N.", 
+                    "COMPLETE-NAME": "NILO MAKIUCHI", 
+                    "ID": "5967094911448212"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Selective Fotofrgmentation of Thiophene by Resonant Excitation at S 2p Edge"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A.", 
+                    "COMPLETE-NAME": "ALEXANDRA MOCELLIN", 
+                    "ID": "5740079715583388"
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "COUTINHO, L. H.", 
+                    "COMPLETE-NAME": "L. H. Coutinho", 
+                    "ID": "5833751980828164"
+                }, 
+                {
+                    "CITATION-NAMES": "HOMEM, M. G. P.", 
+                    "COMPLETE-NAME": "M. G. P. Homem", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Site selective dissociation of ozone upon core excitation"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "DIAS, J. A.", 
+                    "COMPLETE-NAME": "José Alves Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, S. C. L.", 
+                    "COMPLETE-NAME": "Sílvia Cláudia Loureiro Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2002", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Preparation and Characterization of Supported Molybdenum Oxide on Silica-Gel"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Alagia, M.", 
+                    "COMPLETE-NAME": "Michel Alagia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, P.", 
+                    "COMPLETE-NAME": "Candori, P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, S.", 
+                    "COMPLETE-NAME": "Falcinelli, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, F.", 
+                    "COMPLETE-NAME": "Pirani, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, R.", 
+                    "COMPLETE-NAME": "Richter, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stranges, S.", 
+                    "COMPLETE-NAME": "Stranges, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, F.", 
+                    "COMPLETE-NAME": "Vecchiocattivi, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, K.C.", 
+                    "COMPLETE-NAME": "Mundim, K.C.", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Life Time and kinetic Energy Release of Metastable Dications", 
+                "PORTUGUESE-TITLE": "Life Time and kinetic Energy Release of Metastable Dications"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "CAVASSO, R.", 
+                    "COMPLETE-NAME": "Reinaldo Cavasso", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Observation of selective charge distribution in SO2 after S 1s excitation: a femtosecond time scale problem"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Miranda, A.", 
+                    "COMPLETE-NAME": "Aderson Miranda", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MOCELLIN, A", 
+                    "COMPLETE-NAME": "MOCELLIN, A", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Almeida, I.", 
+                    "COMPLETE-NAME": "Isabela Almeida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Orestes, E.", 
+                    "COMPLETE-NAME": "E.Orestes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Canuto, S.", 
+                    "COMPLETE-NAME": "Silvio Canuto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "Spectroscopic analysis of gas phase of alfa-amino acid DL-Valine", 
+                "PORTUGUESE-TITLE": "Spectroscopic analysis of gas phase of alfa-amino acid DL-Valine"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOREIRA, C. C. C.", 
+                    "COMPLETE-NAME": "Caio Cesar Candori Moreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, K. C.", 
+                    "COMPLETE-NAME": "Kleber Carlos Mundim", 
+                    "ID": "4715497489782023"
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "SEEDMOL", 
+                "PORTUGUESE-TITLE": "Estudo da Dinâmica de Fragmentação de Pequenas Moléculas Excitadas com a Radiação Síncrotron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "Estudo da Dinâmica de Fragmentação de Moléculas Excitadas pela Radiação Síncrotron", 
+                "PORTUGUESE-TITLE": "Estudo da Dinâmica de Fragmentação de Moléculas Excitadas pela Radiação Síncrotron"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, C. X.", 
+                    "COMPLETE-NAME": "Carlos Xavier de Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, D. A. C.", 
+                    "COMPLETE-NAME": "Davi A. C. Ferreira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, M.S.P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Efeito da duplaionização sobre a estrutura eletrônica das Anilinas e Nitroanilinas", 
+                "PORTUGUESE-TITLE": "Efeito da duplaionização sobre a estrutura eletrônica das Anilinas e Nitroanilinas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, F. A. F.", 
+                    "COMPLETE-NAME": "OLIVEIRA, F. A. F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERREIRA, D. A. C.", 
+                    "COMPLETE-NAME": "Davi A. C. Ferreira", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Estudo da estrutura eletrônica das moléculas de Benzeno, Anilina e Nitroanilinas em suas formas neutras e dicatiônicas", 
+                "PORTUGUESE-TITLE": "Estudo da estrutura eletrônica das moléculas de Benzeno, Anilina e Nitroanilinas em suas formas neutras e dicatiônicas"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Radiação Síncrotron - Aplicações e Implicações em Química, Física e Biologia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Pirani, F.", 
+                    "COMPLETE-NAME": "Pirani, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Vecchiocattivi, F.", 
+                    "COMPLETE-NAME": "Vecchiocattivi, F.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Candori, P.", 
+                    "COMPLETE-NAME": "Candori, P.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Falcinelli, S.", 
+                    "COMPLETE-NAME": "Falcinelli, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Richter, R.", 
+                    "COMPLETE-NAME": "Richter, R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Alagia, M.", 
+                    "COMPLETE-NAME": "Michele Alagia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Stranges, S.", 
+                    "COMPLETE-NAME": "Stranges, S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Mundim, K.C.", 
+                    "COMPLETE-NAME": "Mundim, K.C.", 
+                    "ID": "4715497489782023"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "The Time of Flight Mass Spectrosmetry Generalized Sinulated Annealing- TOFMS-GSA Methodology", 
+                "PORTUGUESE-TITLE": "The Time of Flight Mass Spectrometry Generalized Sinulated Annealing- TOFMS-GSA Methodology"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "XXXIII Encontro Nacional de Física da Matéria Condensada", 
+                "PORTUGUESE-TITLE": "XXXII Encontro Nacional de Física da Matéria Condensada"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ROCCO, M. L. M.", 
+                    "COMPLETE-NAME": "MARIA LUIZA MIRANDA ROCCO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ANDREOLLI, M. C.", 
+                    "COMPLETE-NAME": "MARIA CRISTINA ANDREOLLI", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BITENCOURT, A. C.", 
+                    "COMPLETE-NAME": "ANA CARLA BITENCOURT", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "VIANNA, D.", 
+                    "COMPLETE-NAME": "DAVID VIANNA", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FUJIMOTO, M.", 
+                    "COMPLETE-NAME": "MILTON FUJIMOTO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CAVASSO, R.", 
+                    "COMPLETE-NAME": "Reinaldo Cavasso", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GEORG, H.", 
+                    "COMPLETE-NAME": "HEBERT GEORG", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "XII WORKSHOP EM FÍSICA MOLECULAR E ESPECTROSCOPIA"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Zanon, R. A. S.", 
+                    "COMPLETE-NAME": "Ricardo Antonio de Simone Zanon", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+                    "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+                    "ID": "8750521904008311"
+                }, 
+                {
+                    "CITATION-NAMES": "Machado, A. E. H.", 
+                    "COMPLETE-NAME": "Antonio Eduardo Hora Machado", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Jalbert, J.", 
+                    "COMPLETE-NAME": "Ginette Jalbert", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Amorim Filho, J.", 
+                    "COMPLETE-NAME": "Jayr Amorim Filho", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Bettega, M. H. F.", 
+                    "COMPLETE-NAME": "Marcio Henrique Franco Bettega", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BRITO, A.N. DE", 
+                    "COMPLETE-NAME": "ARNALDO NAVES DE BRITO", 
+                    "ID": "1066925215833997"
+                }, 
+                {
+                    "CITATION-NAMES": "Prudente, F. V.", 
+                    "COMPLETE-NAME": "Frederico V. Prudente", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "VII Workshop em Física Molecular e Espectroscopia", 
+                "PORTUGUESE-TITLE": "VII Workshop em Física Molecular e Espectroscopia"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "MUNDIM, M. S. P.;Mundim, Maria S. Pedrosa;Mundim, M.S.P.;Pedrosa Mundim, M.S.;Pedrosa Mundin Maria Suely;P. Mundin, Maria Suely;Mundin , M. S. P.;Maria Suely P. Mundin;MUNDIN, MARIA SUELY P.;Mundim, Maria Suely Pedrosa;Maria Suelly Pedrosa Mundim;Mundim, Maria Suelly Pedrosa", 
+        "COMPLETE-NAME": "Maria Suely Pedrosa Mundim", 
+        "ID": "8750521904008311", 
+        "PHD-BEGGINING": "2003", 
+        "PHD-ENDING": "2007"
+    }
+}

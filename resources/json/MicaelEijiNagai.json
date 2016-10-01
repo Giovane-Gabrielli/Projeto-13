@@ -1,0 +1,409 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PANTOJA, Davi Lima", 
+                    "COMPLETE-NAME": "Davi Lima Pantoja", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, Henrique Caldeira", 
+                    "COMPLETE-NAME": "Henrique Caldeira Costa", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PONTES, José Lélis", 
+                    "COMPLETE-NAME": "José Lélis Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FEIO, Renato Neves", 
+                    "COMPLETE-NAME": "Renato Neves Feio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Serpentes da Microrregião de Viçosa, Zona da Mata, Minas Gerais"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Abel Perigolo Mol", 
+                    "COMPLETE-NAME": "Abel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sabrina S. P. Almeida", 
+                    "COMPLETE-NAME": "Sabrina S. P. Almeida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Marcelo Ribeiro Pereira", 
+                    "COMPLETE-NAME": "Marcelo Ribeiro Pereira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Carlos Frankl Sperber", 
+                    "COMPLETE-NAME": "Carlos Frankl Sperber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sérvio P. Ribeiro", 
+                    "COMPLETE-NAME": "Sérvio P. Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interação entre processos ecológicos e geomorfologia na diversidade de besouros (Insecta: Coleoptera) de serapilheira florestal"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Abel Perigolo Mol", 
+                    "COMPLETE-NAME": "Abel", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Marcelo Ribeiro Pereira", 
+                    "COMPLETE-NAME": "Marcelo Ribeiro Pereira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sabrina S. P. Almeida", 
+                    "COMPLETE-NAME": "Sabrina S. P. Almeida", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Carlos Frankl Sperber", 
+                    "COMPLETE-NAME": "Carlos Frankl Sperber", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Sérvio P. Ribeiro", 
+                    "COMPLETE-NAME": "Sérvio P. Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Interação entre processos ecológicos e geomorfológicos na diversidade e abundância de grilos (Orthoptera:Grylloidea) de serapilheira florestal"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "MOL, Abel Perigolo", 
+                    "COMPLETE-NAME": "Abel Perigolo Mol", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALMEIDA, Sabrina da Silva Pinheiro", 
+                    "COMPLETE-NAME": "ALMEIDA, Sabrina da Silva Pinheiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEREIRA, Marcelo Ribeiro", 
+                    "COMPLETE-NAME": "PEREIRA, Marcelo Ribeiro", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPERBER, Carlos Frankl", 
+                    "COMPLETE-NAME": "SPERBER, Carlos Frankl", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBEIRO, Sérvio Pontes", 
+                    "COMPLETE-NAME": "RIBEIRO, Sérvio Pontes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Determinantes Ecológicos e Geomorfológicos da Abundância de Besouros (Insecta: Coleoptera) de Serapilheira"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mendes, M.H.", 
+                    "COMPLETE-NAME": "Mendes", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SPERBER, Carlos Frankl", 
+                    "COMPLETE-NAME": "SPERBER, Carlos Frankl", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Manipulação da armadilha aumenta a captura de grilos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, M. P. C.", 
+                    "COMPLETE-NAME": "Marina Paula da Cunha Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, R. P.", 
+                    "COMPLETE-NAME": "Rubana Palhares Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, E. T.", 
+                    "COMPLETE-NAME": "Emanuel Teixeira Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, C. A. R.", 
+                    "COMPLETE-NAME": "Cayo Augusto Rocha Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FEIO, Renato Neves", 
+                    "COMPLETE-NAME": "Renato Neves Feio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Desenvolvimento de Métodos Interativos no Museu de Zoologia João Moojen - UFV"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, R. P.", 
+                    "COMPLETE-NAME": "Rubana Palhares Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "OLIVEIRA, M. P. C.", 
+                    "COMPLETE-NAME": "Marina Paula da Cunha Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RODARTE, R. R. P.", 
+                    "COMPLETE-NAME": "Raisa Reis de Paula Rodarte", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, C. A. R.", 
+                    "COMPLETE-NAME": "Cayo Augusto Rocha Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, M. F. C.", 
+                    "COMPLETE-NAME": "Mateus Fernandes Cunha Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, A. Z.", 
+                    "COMPLETE-NAME": "Alexander Zaidan de Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RIBON, R.", 
+                    "COMPLETE-NAME": "Rômulo Ribon", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FEIO, Renato Neves", 
+                    "COMPLETE-NAME": "Renato Neves Feio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Divulgação científica da exposição de aves extintas e ameaçadas de Viços"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "OLIVEIRA, M. P. C.", 
+                    "COMPLETE-NAME": "Marina Paula da Cunha Oliveira", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ALVES, R. P.", 
+                    "COMPLETE-NAME": "Rubana Palhares Alves", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RODARTE, R. R. P.", 
+                    "COMPLETE-NAME": "Raisa Reis de Paula Rodarte", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, E. T.", 
+                    "COMPLETE-NAME": "Emanuel Teixeira Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DIAS, C. A. R.", 
+                    "COMPLETE-NAME": "Cayo Augusto Rocha Dias", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SOUZA, M. F. C.", 
+                    "COMPLETE-NAME": "Mateus Fernandes Cunha Souza", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FEIO, Renato Neves", 
+                    "COMPLETE-NAME": "Renato Neves Feio", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "EDUCAÇÃO NÃO-FORMAL NO MUSEU DE ZOOLOGIA JOÃO MOOJEN UFV"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2004", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "55º Congresso Nacional de Botânica / 26º Encontro Regional de Botânicos de MG, BA e ES"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Exposição de Aves Extintas e Ameaçadas de Viçosa"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SALOMAO, A.", 
+                    "COMPLETE-NAME": "Adriana Salomão", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, M. C.", 
+                    "COMPLETE-NAME": "Marcela Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BAHIA, N. C. F.", 
+                    "COMPLETE-NAME": "Natália Bahia", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Biofórum - Seminários em Ecologia"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SALOMAO, A.", 
+                    "COMPLETE-NAME": "Adriana Salomão", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. P. M.", 
+                    "COMPLETE-NAME": "Ana Paula Silva", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NAGAI, M. E.", 
+                    "COMPLETE-NAME": "Micael Eiji Nagai", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Biofórum - Seminários em Ecologia"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "NAGAI, M. E.", 
+        "COMPLETE-NAME": "Micael Eiji Nagai", 
+        "ID": "", 
+        "PHD-BEGGINING": "2012", 
+        "PHD-ENDING": ""
+    }
+}

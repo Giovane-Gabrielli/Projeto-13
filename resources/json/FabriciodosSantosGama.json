@@ -1,0 +1,381 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "Jose Roberto Soares do Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.", 
+                    "COMPLETE-NAME": "albert petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "Higher-derivative supersymmetric gauge theory", 
+                "PORTUGUESE-TITLE": "Higher-derivative supersymmetric gauge theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J. R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. YU.", 
+                    "COMPLETE-NAME": "PETROV, A. YU.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Effective superpotential in the generic higher-derivative superfield supersymmetric three-dimensional gauge theory", 
+                "PORTUGUESE-TITLE": "Effective superpotential in the generic higher-derivative superfield supersymmetric three-dimensional gauge theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F.'S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.'R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.'R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.'YU.", 
+                    "COMPLETE-NAME": "PETROV, A.'YU.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A.'J.", 
+                    "COMPLETE-NAME": "DA SILVA, A.'J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Generic higher-derivative <span class='&quot;aps-inline-formula&quot;'><math display='&quot;inline&quot;'><mi mathvariant='&quot;script&quot;'>N</mi><mo>=</mo><mn>2</mn></math></span>, <span class='&quot;aps-inline-formula&quot;'><math display='&quot;inline&quot;'><mi>d</mi><mo>=</mo><mn>3</mn></math></span>"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.YU.", 
+                    "COMPLETE-NAME": "PETROV, A.YU.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A.J.", 
+                    "COMPLETE-NAME": "DA SILVA, A.J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "On the one-loop effective potential in the higher-derivative four-dimensional chiral superfield theory with a nonconventional kinetic term", 
+                "PORTUGUESE-TITLE": "On the one-loop effective potential in the higher-derivative four-dimensional chiral superfield theory with a nonconventional kinetic term"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F.'S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.'R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.'R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.'YU.", 
+                    "COMPLETE-NAME": "PETROV, A.'YU.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A.'J.", 
+                    "COMPLETE-NAME": "DA SILVA, A.'J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "Superfield effective potential for the supersymmetric topologically massive gauge theory in four dimensions", 
+                "PORTUGUESE-TITLE": "Superfield effective potential for the supersymmetric topologically massive gauge theory in four dimensions"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALMEIDA, C.'A.'S.", 
+                    "COMPLETE-NAME": "ALMEIDA, C.'A.'S.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "GAMA, F.'S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MALUF, R.'V.", 
+                    "COMPLETE-NAME": "MALUF, R.'V.", 
+                    "ID": "9256590614440939"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.'R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.'R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. YU.", 
+                    "COMPLETE-NAME": "PETROV, A. YU.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Superfield effective potential for the two-form field"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F.'S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.'R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.'R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.'YU.", 
+                    "COMPLETE-NAME": "PETROV, A.'YU.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Derivative expansion and the induced Chern-Simons term in , superspace"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J. R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "YU. PETROV, A.", 
+                    "COMPLETE-NAME": "YU. PETROV, A.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On the alternative formulation of the three-dimensional noncommutative superspace"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J. R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. YU.", 
+                    "COMPLETE-NAME": "PETROV, A. YU.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "Effective superpotential in the generic higher-derivative three-dimensional scalar superfield theory", 
+                "PORTUGUESE-TITLE": "Effective superpotential in the generic higher-derivative three-dimensional scalar superfield theory"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "ABORDAGEM GRAVITACIONAL NO ESTUDO DE DEFEITOS EM SÓLIDOS"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2005", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "O ESTUDO DA NATUREZA DA CURVATURA NA GRAVITAÇÃO"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "ESTUDO DE KINKS EM FILMES DE LANGMUIR"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "EFEITO DA DIMENSIONALIDADE DO ESPAÇO SOBRE A RADIAÇAO DE CORPO NEGRO"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "Jose Roberto Soares do Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.", 
+                    "COMPLETE-NAME": "albert petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "da SILVA, A. J.", 
+                    "COMPLETE-NAME": "Adilson da Silva", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "ON THE HIGHER DERIVATIVE SUPERSYMMETRIC GAUGE THEORY", 
+                "PORTUGUESE-TITLE": "ON THE HIGHER DERIVATIVE SUPERSYMMETRIC GAUGE THEORY"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+                    "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+                    "ID": "1359935026245916"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "EFEITOS QUÂNTICOS NA DINÂMICA DE PARTÍCULAS"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "GAMA, F. S.;GAMA, F.'S.;GAMA, F.S.", 
+        "COMPLETE-NAME": "Fabricio dos Santos Gama", 
+        "ID": "1359935026245916", 
+        "PHD-BEGGINING": "2011", 
+        "PHD-ENDING": "2014"
+    }
+}

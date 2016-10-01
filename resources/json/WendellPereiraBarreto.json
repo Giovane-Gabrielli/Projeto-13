@@ -1,0 +1,49 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "AGUIAR, Marcus A. M.", 
+                    "COMPLETE-NAME": "Marcus Aloisio Martinez de Aguiar", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BARRETO, W. P.", 
+                    "COMPLETE-NAME": "Wendell Pereira Barreto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Trajetórias Complexas em Sistemas Hamiltonianos Analíticos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Mestre Shacon", 
+                    "COMPLETE-NAME": "Jailson Chacon Viana", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "BARRETO, W. P.", 
+                    "COMPLETE-NAME": "Wendell Pereira Barreto", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Toco o tambor na força de Ogum"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "BARRETO, W. P.", 
+        "COMPLETE-NAME": "Wendell Pereira Barreto", 
+        "ID": "0639412837460678", 
+        "PHD-BEGGINING": "2013", 
+        "PHD-ENDING": ""
+    }
+}

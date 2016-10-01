@@ -1,0 +1,811 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.;Santos, Alesandro Ferreira;Santos, A.F.;SANTOS, A.'F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": "2489426500610858"
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, S. S.", 
+                    "COMPLETE-NAME": "Sandro Silva Costa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comparação da evolução de perturbações de densidade em três modelos cosmológicos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.;Santos, Alesandro Ferreira;Santos, A.F.;SANTOS, A.'F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": "2489426500610858"
+                }, 
+                {
+                    "CITATION-NAMES": "COSTA, S. S.", 
+                    "COMPLETE-NAME": "Sandro Silva Costa", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2006", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Comparação da evolução de perturbações de densidade em três modelos cosmológicos"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.;Santos, Alesandro Ferreira;Santos, A.F.;SANTOS, A.'F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": "2489426500610858"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quebra dinâmica das simetrias de Lorentz e CPT à temperatura finita"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J. da", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quebra espontânea das simetrias de Lorentz e constante cosmológica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J. da", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quebra espontânea das simetrias de Lorentz e constante cosmológica"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Godel solution in the modified gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Godel solution in the modified gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical Chern-Simons modified gravity and Friedmann-Robertson-Walker metric"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, J. G.", 
+                    "COMPLETE-NAME": "Jucélia Gomes da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ricci dark energy in Chern-Simons modified gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Santos, A.F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "f(R,T) gravity and Godel universe"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "e Costa, Sandro S.", 
+                    "COMPLETE-NAME": "e Costa, Sandro S.", 
+                    "ID": "2529222936836452"
+                }, 
+                {
+                    "CITATION-NAMES": "Ujevic, Maximiliano", 
+                    "COMPLETE-NAME": "Ujevic, Maximiliano", 
+                    "ID": "7792523318472138"
+                }, 
+                {
+                    "CITATION-NAMES": "Santos, Alesandro Ferreira", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "A mathematical analysis of the evolution of perturbations in a modified Chaplygin gas model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gödel Solution in modified Gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A. J.", 
+                    "COMPLETE-NAME": "da Silva, A. J.", 
+                    "ID": "6671362440919293"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Free energy of Lorentz-violating QED at high temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "Petrov, A.Yu.", 
+                    "COMPLETE-NAME": "Petrov, A.Yu.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Santos, A.F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical Chern Simons modified gravity, Gödel Universe and variable cosmological constant"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.", 
+                    "COMPLETE-NAME": "Nascimento, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.", 
+                    "COMPLETE-NAME": "Albert Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Horava-Lifshitz gravity and Gödel universe"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "THE GÖDEL METRIC IN THE CHERN-SIMONS MODIFIED GRAVITY"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ULHOA, S. C.", 
+                    "COMPLETE-NAME": "ULHOA, S. C.", 
+                    "ID": "2945375824658637"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AMORIM, R. G. G.", 
+                    "COMPLETE-NAME": "AMORIM, R. G. G.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "ON THE ENERGY MOMENTUM FLUX IN GÖDEL-TYPE MODELS"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "GÖDEL SOLUTION IN f(R, T) GRAVITY"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ULHOA, S. C.", 
+                    "COMPLETE-NAME": "ULHOA, S. C.", 
+                    "ID": "2945375824658637"
+                }, 
+                {
+                    "CITATION-NAMES": "AMORIM, R. G. G.", 
+                    "COMPLETE-NAME": "AMORIM, R. G. G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On non-commutative geodesic motion"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "JESUS, W. D. R.", 
+                    "COMPLETE-NAME": "JESUS, W. D. R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gödel solution in the bumblebee gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ULHOA, S. C.", 
+                    "COMPLETE-NAME": "ULHOA, S. C.", 
+                    "ID": "2945375824658637"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On Gödel-type solution in Rastall's gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ULHOA, S. C.", 
+                    "COMPLETE-NAME": "ULHOA, S. C.", 
+                    "ID": "2945375824658637"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "AMORIM, R. G. G.", 
+                    "COMPLETE-NAME": "AMORIM, R. G. G.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On non-commutative correction of the Gödel-type metric"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FERST, C. J.", 
+                    "COMPLETE-NAME": "FERST, C. J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2015", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gödel-type solution in f(R,T) modified gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, J. G.", 
+                    "COMPLETE-NAME": "SILVA, J. G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "ULHOA, S. C.", 
+                    "COMPLETE-NAME": "ULHOA, S. C.", 
+                    "ID": "2945375824658637"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "On Friedmann-Robertson-Walker model in conformal teleparallel gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "KHANNA, FAQIR C.", 
+                    "COMPLETE-NAME": "KHANNA, FAQIR C.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Quantized gravitoelectromagnetism theory at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "PORFÍRIO, P.'J.", 
+                    "COMPLETE-NAME": "PORFÍRIO, P.'J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "FONSECA-NETO, J.'B.", 
+                    "COMPLETE-NAME": "FONSECA-NETO, J.'B.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J.'R.", 
+                    "COMPLETE-NAME": "NASCIMENTO, J.'R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A.'YU.", 
+                    "COMPLETE-NAME": "PETROV, A.'YU.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "RICARDO, J.", 
+                    "COMPLETE-NAME": "RICARDO, J.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A.'F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2016", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chern-Simons modified gravity and closed timelike curves"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "SILVA, J. G.", 
+                    "COMPLETE-NAME": "SILVA, J. G.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Ricci dark energy in Chern-Simons modified gravity"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "GOMES, M.", 
+                    "COMPLETE-NAME": "Marcelo Gomes", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MARIZ, T.", 
+                    "COMPLETE-NAME": "Tiago Mariz", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, J. R. S.", 
+                    "COMPLETE-NAME": "José Roberto S. Nascimento", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SILVA, A. J. da", 
+                    "COMPLETE-NAME": "Adilson José da Silva", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2008", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical Lorentz symmetry breaking in a 4D four-fermion model at finite temperature"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "José Roberto Nascimento", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical Chern-Simons modified gravity and Friedmann-Robertson-Walker metric"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "FURTADO, C.", 
+                    "COMPLETE-NAME": "Claudio Furtado", 
+                    "ID": "9364148865735922"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.R.", 
+                    "COMPLETE-NAME": "Nascimento, J.R.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "PETROV, A. Yu.", 
+                    "COMPLETE-NAME": "Albert Yu. Petrov", 
+                    "ID": "0718868041838202"
+                }, 
+                {
+                    "CITATION-NAMES": "SANTOS, A. F.", 
+                    "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2011", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The Aether-modified gravity and the Godel metric"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "SANTOS, A. F.;Santos, Alesandro Ferreira;Santos, A.F.;SANTOS, A.'F.", 
+        "COMPLETE-NAME": "Alesandro Ferreira dos Santos", 
+        "ID": "2489426500610858", 
+        "PHD-BEGGINING": "2007", 
+        "PHD-ENDING": "2010"
+    }
+}

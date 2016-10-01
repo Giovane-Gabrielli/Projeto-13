@@ -49,28 +49,46 @@ def get_p_specific_one_year (name_i, name_j, year):
 def calc_kulc (i, j, k, t):
 
     kulc_valor = 0
-
+    p_i_total = 0
+    p_ij_total = 0
+    p_j_total  = 0
+    
+    k_true = 0
+    k_year = k
     #print 'before calc_kulc for'
     
     for k1 in range (k,t+1):
 	
         p_i, p_ij = get_p_specific_one_year(i, j, k1)
         p_j, p_ji = get_p_specific_one_year(j, i, k1)
+        
+        p_i_total += p_i
+        p_ij_total += p_ij
+        p_j_total += p_j
         #print p_i,p_j,p_ij
-        atual_iteration_valor = one_iteration_kulc(p_i, p_j, p_ij,k1)
-        kulc_valor = kulc_valor + atual_iteration_valor
+        atual_iteration_valor = one_iteration_kulc(p_i_total, p_j_total, p_ij_total,k1)
+        #kulc_valor = kulc_valor + atual_iteration_valor
+        kulc_valor = atual_iteration_valor
+        
+        if(p_ij != 0):
+		k_true = kulc_valor
+		k_year = k1
 
     #print kulc_valor
 
-    return float("{0:.4f}".format(kulc_valor))
+    return float("{0:.4f}".format(kulc_valor)),k_year
 
 if __name__ == '__main__':
 
-
-    k= calc_kulc('../../resources/json/ViktorDodonov.json',\
-	    '../../resources/json/MarcosCesardeOliveira.json', 2003, 2006)
+    name_i = '../../resources/json/ViktorDodonov.json'
+    i = util.load_json(name_i)
+    i_phd = i.get('GENERAL-INFORMATION').get('PHD-BEGGINING')
+    
+    k, year= calc_kulc(name_i,\
+	    '../../resources/json/MarcosCesardeOliveira.json', int(i_phd), 2017)
     print
     print "Kulczynski index:",k
+    print "Last year:", year
     print
 
     # main()

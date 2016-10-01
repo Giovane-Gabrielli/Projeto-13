@@ -1,0 +1,238 @@
+{
+    "ARTICLES": [
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "Lucinda", 
+                    "COMPLETE-NAME": "Jair Lucinda", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2003", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Consequências das Transformacões de Lorentz sem Restricão de Direcão Espacial na Relatividade Especial"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M", 
+                    "COMPLETE-NAME": "Gomes, M", 
+                    "ID": "4536383894408281"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2007", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "The three-dimensional noncommutative Gross Neveu model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M.", 
+                    "COMPLETE-NAME": "Gomes, M.", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "Mariz, T.", 
+                    "COMPLETE-NAME": "Mariz, T.", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.", 
+                    "COMPLETE-NAME": "Nascimento, J.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A.", 
+                    "COMPLETE-NAME": "da Silva, A.", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2009", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Dynamical Lorentz symmetry breaking in 3D and charge fractionalization"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M.", 
+                    "COMPLETE-NAME": "Gomes, M.", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "Mariz, T.", 
+                    "COMPLETE-NAME": "Mariz, T.", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J.", 
+                    "COMPLETE-NAME": "Nascimento, J.", 
+                    "ID": "6671362440919293"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A.", 
+                    "COMPLETE-NAME": "da Silva, A.", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Slavnov-Taylor identities for the 2+1 dimensional noncommutative CP^{N-1} model"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": "1430275881388996"
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M.", 
+                    "COMPLETE-NAME": "Gomes, M.", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "Mariz, T.", 
+                    "COMPLETE-NAME": "Mariz, T.", 
+                    "ID": "2745191020293395"
+                }, 
+                {
+                    "CITATION-NAMES": "Nascimento, J. R.", 
+                    "COMPLETE-NAME": "Nascimento, J. R.", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A. J.", 
+                    "COMPLETE-NAME": "da Silva, A. J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2010", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Slavnov-Taylor identities for noncommutative QED_{4}"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M.", 
+                    "COMPLETE-NAME": "Gomes, M.", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "MALUF, R.", 
+                    "COMPLETE-NAME": "MALUF, R.", 
+                    "ID": "9256590614440939"
+                }, 
+                {
+                    "CITATION-NAMES": "da Silva, A.", 
+                    "COMPLETE-NAME": "da Silva, A.", 
+                    "ID": "5067325239701185"
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2012", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Lorentz violation bounds on Bhabha scattering"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "ALVES, VAN SÉRGIO", 
+                    "COMPLETE-NAME": "ALVES, VAN SÉRGIO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "Gomes, M.", 
+                    "COMPLETE-NAME": "Gomes, M.", 
+                    "ID": "4536383894408281"
+                }, 
+                {
+                    "CITATION-NAMES": "NASCIMENTO, LEONARDO", 
+                    "COMPLETE-NAME": "NASCIMENTO, LEONARDO", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "PEÑA, FRANCISCO", 
+                    "COMPLETE-NAME": "PEÑA, FRANCISCO", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2013", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Chern-Simons terms in Lifshitz-like quantum electrodynamics"
+            }
+        }, 
+        {
+            "AUTHORS": [
+                {
+                    "CITATION-NAMES": "CHARNESKI, B.", 
+                    "COMPLETE-NAME": "Bruno André Charneski", 
+                    "ID": ""
+                }, 
+                {
+                    "CITATION-NAMES": "LEHUM, A.'C.", 
+                    "COMPLETE-NAME": "LEHUM, A.'C.", 
+                    "ID": "9493250831432429"
+                }, 
+                {
+                    "CITATION-NAMES": "DA SILVA, A.'J.", 
+                    "COMPLETE-NAME": "DA SILVA, A.'J.", 
+                    "ID": ""
+                }
+            ], 
+            "GENERAL-INFORMATION": {
+                "DATE": "2014", 
+                "ENGLIGH-TITLE": "", 
+                "PORTUGUESE-TITLE": "Gravitational corrections to the scattering in a massless quantum electrodynamics"
+            }
+        }
+    ], 
+    "GENERAL-INFORMATION": {
+        "CITATION-NAMES": "Charneski, B.;CHARNESKI, B.", 
+        "COMPLETE-NAME": "Bruno André Charneski", 
+        "ID": "1430275881388996", 
+        "PHD-BEGGINING": "2006", 
+        "PHD-ENDING": "2010"
+    }
+}
