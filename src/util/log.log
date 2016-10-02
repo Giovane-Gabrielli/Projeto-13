@@ -1,0 +1,36 @@
+log_horizon - 2016-10-01 23:06:24,202 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:06:24,248 - util.py - WARNING - [Errno 2] No such file or directory: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:09:09,124 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:09:14,783 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:10:21,879 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:10:21,949 - util.py - WARNING - [Errno 2] No such file or directory: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira.txt/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:11:36,702 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:11:36,773 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:12:09,698 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:12:09,754 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:12:09,774 - util.py - WARNING - 'builtin_function_or_method' object is not iterable
+log_horizon - 2016-10-01 23:12:09,818 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/SalomonSylvainMizrahi'
+log_horizon - 2016-10-01 23:12:09,837 - util.py - WARNING - 'builtin_function_or_method' object is not iterable
+log_horizon - 2016-10-01 23:12:09,915 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/LucianoAntonioDigiampietri'
+log_horizon - 2016-10-01 23:12:09,948 - util.py - WARNING - 'builtin_function_or_method' object is not iterable
+log_horizon - 2016-10-01 23:12:09,994 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MiledHassanYoussefMoussa'
+log_horizon - 2016-10-01 23:12:10,012 - util.py - WARNING - 'builtin_function_or_method' object is not iterable
+log_horizon - 2016-10-01 23:12:10,118 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/ViktorDodonov'
+log_horizon - 2016-10-01 23:12:10,169 - util.py - WARNING - 'builtin_function_or_method' object is not iterable
+log_horizon - 2016-10-01 23:13:06,015 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:13:06,066 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:13:06,088 - util.py - WARNING - global name 'lattes' is not defined
+log_horizon - 2016-10-01 23:13:06,134 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/SalomonSylvainMizrahi'
+log_horizon - 2016-10-01 23:13:06,162 - util.py - WARNING - global name 'lattes' is not defined
+log_horizon - 2016-10-01 23:13:06,244 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/LucianoAntonioDigiampietri'
+log_horizon - 2016-10-01 23:13:06,276 - util.py - WARNING - global name 'lattes' is not defined
+log_horizon - 2016-10-01 23:13:06,328 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MiledHassanYoussefMoussa'
+log_horizon - 2016-10-01 23:13:06,345 - util.py - WARNING - global name 'lattes' is not defined
+log_horizon - 2016-10-01 23:13:06,460 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/ViktorDodonov'
+log_horizon - 2016-10-01 23:13:06,520 - util.py - WARNING - global name 'lattes' is not defined
+log_horizon - 2016-10-01 23:13:58,422 - main.py - INFO - Initializing...
+log_horizon - 2016-10-01 23:13:58,498 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MarcosCesardeOliveira'
+log_horizon - 2016-10-01 23:13:58,598 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/SalomonSylvainMizrahi'
+log_horizon - 2016-10-01 23:13:58,709 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/LucianoAntonioDigiampietri'
+log_horizon - 2016-10-01 23:13:58,798 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/MiledHassanYoussefMoussa'
+log_horizon - 2016-10-01 23:13:58,933 - util.py - WARNING - [Errno 17] File exists: '/home/rdash/Desktop/SI/3_ano_2016/22016/git/d_index/resources/json/ViktorDodonov'
