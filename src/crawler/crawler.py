@@ -14,7 +14,9 @@ def my_list(p):
 	with open('my_list.txt','a+') as f:
 		for i in p:
 			f.write(i+'\n')
-
+def new_list(p):
+	with open('new_list.txt','a+') as f:
+		f.write(p+'\n')
 def fail(p):
 	with open('fail.txt','a+') as f:
 		f.write(p+'\n')
@@ -47,7 +49,6 @@ def go(p):
 	ss = 'captcha/screenshot.png'
 	try:
 		driver.get(p)
-		sleep(2)
 		
 		img = driver.find_element_by_xpath("//img[@alt='Captcha']")
 		
@@ -63,7 +64,13 @@ def go(p):
 			box.send_keys(captcha)
 			sleep(2)
 			driver.find_element_by_id('btn_validar_captcha').click()
-			sleep(5)
+			sleep(2)
+			opt = driver.find_element_by_class_name('informacoes-autor')
+			for items in opt.find_elements_by_tag_name('li'):
+				if("este CV:" in items.text):
+					new_list(items.text.split("este CV: ")[1].strip())
+					break
+					
 			driver.close()
 			print "done!\n"
 			done(p)
@@ -187,5 +194,8 @@ if __name__=='__main__':
 			go(page)
 	"""
 	
-	get_them('http://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar')
-	
+	#get_them('http://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar')
+	pages = load('fail1.txt')
+	for page in pages:
+		print page
+		go(page)
