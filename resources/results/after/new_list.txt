@@ -1318,10 +1318,7 @@ http://lattes.cnpq.br/3081973335480303
 http://lattes.cnpq.br/3531438717974837
 http://lattes.cnpq.br/9400915429521069
 http://lattes.cnpq.br/9560629619549009
-http://lattes.cnpq.br/3531438717974837
-http://lattes.cnpq.br/9400915429521069
 http://lattes.cnpq.br/8293766070107110
-http://lattes.cnpq.br/9560629619549009
 http://lattes.cnpq.br/4111988765918149
 http://lattes.cnpq.br/3814399624794416
 http://lattes.cnpq.br/8809843174160878
@@ -1359,3 +1356,6 @@ http://lattes.cnpq.br/7315120489907985
 http://lattes.cnpq.br/8508134752898851
 http://lattes.cnpq.br/5557994597240216
 http://lattes.cnpq.br/4536440727635518
+http://lattes.cnpq.br/7077811420624674
+http://lattes.cnpq.br/0477458434260268
+http://lattes.cnpq.br/0974011233679396

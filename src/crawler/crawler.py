@@ -35,7 +35,6 @@ def load(file):
 def go(p):
 	# config
 	cd = os.path.dirname(os.path.abspath(__file__))
-	
 	profile = webdriver.FirefoxProfile()
 	profile.set_preference("browser.download.folderList", 2)
 	profile.set_preference("browser.download.manager.showWhenStarting", False)
@@ -62,15 +61,19 @@ def go(p):
 		if(captcha):
 			box = driver.find_element_by_id('informado')
 			box.send_keys(captcha)
-			sleep(2)
+			sleep(3)
 			driver.find_element_by_id('btn_validar_captcha').click()
-			sleep(2)
+			sleep(3)
+
+			
+			# when there is no id
+			"""
 			opt = driver.find_element_by_class_name('informacoes-autor')
 			for items in opt.find_elements_by_tag_name('li'):
 				if("este CV:" in items.text):
 					new_list(items.text.split("este CV: ")[1].strip())
 					break
-					
+			"""
 			driver.close()
 			print "done!\n"
 			done(p)
@@ -193,9 +196,11 @@ if __name__=='__main__':
 			print page
 			go(page)
 	"""
-	
+	# TODO
+	# crawler
 	#get_them('http://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar')
-	pages = load('fail1.txt')
+	
+	pages = load('lattes.txt')
 	for page in pages:
 		print page
 		go(page)
